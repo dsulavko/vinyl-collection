@@ -16,13 +16,19 @@
         <div class="ipod-screen" id="stage-viewport">
           <div class="status-bar">
             <span id="status-count">Vinyl Collection</span>
-            <span id="status-battery">●●●●</span>
+            <button class="search-toggle" id="search-toggle" aria-label="Search">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            </button>
           </div>
           <div class="stage" id="stage"></div>
           <div class="now-playing">
             <div class="now-playing-title" id="now-title">—</div>
             <div class="now-playing-sub" id="now-sub">—</div>
             <div class="now-playing-price" id="now-price">—</div>
+          </div>
+          <div class="search-panel" id="search-panel" aria-hidden="true">
+            <input type="text" class="search-input" id="search-input" placeholder="Enter your term" autocomplete="off" />
+            <div class="search-results" id="search-results"></div>
           </div>
         </div>
       </div>

@@ -29,6 +29,10 @@
     detailDiscogsLink: document.getElementById('detail-discogs-link'),
     nowPrice: document.getElementById('now-price'),
     collectionTotal: document.getElementById('collection-total'),
+    searchToggle: document.getElementById('search-toggle'),
+    searchPanel: document.getElementById('search-panel'),
+    searchInput: document.getElementById('search-input'),
+    searchResults: document.getElementById('search-results'),
   };
 
   let coverEls = [];
@@ -329,6 +333,142 @@
     els.overlay.setAttribute('aria-hidden', 'true');
   }
 
+  function jumpToRecord(idx) {
+    const record = state.records[idx];
+    if (!record) return;
+    state.selected = Math.max(0, Math.min(state.records.length - 1, idx));
+    updateTransforms();
+    openDetail(record);
+    closeSearch();
+  }
+
+  const SEARCH_MIN_LENGTH = 3;
+  const MAX_RESULTS_PER_GROUP = 8;
+
+  function searchRecords(term) {
+    const q = term.toLowerCase();
+    const artists = [];
+    const seenArtists = new Set();
+    const records = [];
+    const songs = [];
+
+    state.records.forEach((record, idx) => {
+      if (!seenArtists.has(record.artist) && record.artist.toLowerCase().includes(q)) {
+        seenArtists.add(record.artist);
+        artists.push({ label: record.artist, idx });
+      }
+      if (record.album.toLowerCase().includes(q)) {
+        records.push({ label: record.album, sub: record.artist, idx });
+      }
+      record.details?.tracklist?.forEach((t) => {
+        if (t.title && t.title.toLowerCase().includes(q)) {
+          songs.push({ label: t.title, sub: `${record.artist} — ${record.album}`, idx });
+        }
+      });
+    });
+
+    return { artists, records, songs };
+  }
+
+  function buildResultItem({ label, sub, idx }) {
+    const li = document.createElement('li');
+    const item = document.createElement('div');
+    item.className = 'search-result-item';
+    item.tabIndex = 0;
+    item.setAttribute('role', 'button');
+
+    const title = document.createElement('span');
+    title.className = 'search-result-title';
+    title.textContent = label;
+    item.appendChild(title);
+
+    if (sub) {
+      const subEl = document.createElement('span');
+      subEl.className = 'search-result-sub';
+      subEl.textContent = sub;
+      item.appendChild(subEl);
+    }
+
+    item.addEventListener('click', () => jumpToRecord(idx));
+    item.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        jumpToRecord(idx);
+      }
+    });
+
+    li.appendChild(item);
+    return li;
+  }
+
+  function buildGroup(title, items) {
+    if (!items.length) return null;
+    const group = document.createElement('div');
+    group.className = 'search-group';
+    const h4 = document.createElement('h4');
+    h4.textContent = title;
+    group.appendChild(h4);
+    const ul = document.createElement('ul');
+    items.slice(0, MAX_RESULTS_PER_GROUP).forEach((item) => ul.appendChild(buildResultItem(item)));
+    group.appendChild(ul);
+    return group;
+  }
+
+  function renderSearchResults(term) {
+    els.searchResults.innerHTML = '';
+    const trimmed = term.trim();
+    if (!trimmed) return;
+
+    if (trimmed.length < SEARCH_MIN_LENGTH) {
+      const hint = document.createElement('div');
+      hint.className = 'search-empty';
+      hint.textContent = `Type at least ${SEARCH_MIN_LENGTH} characters`;
+      els.searchResults.appendChild(hint);
+      return;
+    }
+
+    const { artists, records, songs } = searchRecords(trimmed);
+    const groups = [
+      buildGroup('Artist', artists),
+      buildGroup('Record', records),
+      buildGroup('Song', songs),
+    ].filter(Boolean);
+
+    if (!groups.length) {
+      const empty = document.createElement('div');
+      empty.className = 'search-empty';
+      empty.textContent = 'No matches found';
+      els.searchResults.appendChild(empty);
+      return;
+    }
+
+    groups.forEach((group) => els.searchResults.appendChild(group));
+  }
+
+  function openSearch() {
+    els.searchPanel.classList.add('open');
+    els.searchPanel.setAttribute('aria-hidden', 'false');
+    els.searchInput.value = '';
+    els.searchResults.innerHTML = '';
+    els.searchInput.focus();
+  }
+
+  function closeSearch() {
+    els.searchPanel.classList.remove('open');
+    els.searchPanel.setAttribute('aria-hidden', 'true');
+  }
+
+  function setupSearch() {
+    els.searchToggle.addEventListener('click', () => {
+      if (els.searchPanel.classList.contains('open')) closeSearch();
+      else openSearch();
+    });
+
+    els.searchInput.addEventListener('input', () => {
+      renderSearchResults(els.searchInput.value);
+    });
+  }
+
   function setupWheel() {
     let dragging = false;
     let lastAngle = 0;
@@ -386,15 +526,26 @@
 
     document.querySelector('.wheel-label-left').addEventListener('click', () => step(-1));
     document.querySelector('.wheel-label-right').addEventListener('click', () => step(1));
-    document.querySelector('.wheel-label-top').addEventListener('click', () => step(-10));
-    document.querySelector('.wheel-label-bottom').addEventListener('click', () => step(10));
+    document.querySelector('.wheel-label-top').addEventListener('click', () => {
+      closeSearch();
+      selectIndex(0);
+    });
+    document.querySelector('.wheel-label-bottom').addEventListener('click', () => {
+      closeSearch();
+      selectIndex(state.records.length - 1);
+    });
   }
 
   function setupKeyboardAndScroll() {
     window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        if (els.searchPanel.classList.contains('open')) closeSearch();
+        else closeDetail();
+        return;
+      }
+      if (document.activeElement === els.searchInput) return;
       if (e.key === 'ArrowLeft') step(-1);
       else if (e.key === 'ArrowRight') step(1);
-      else if (e.key === 'Escape') closeDetail();
       else if (e.key === 'Enter') {
         const record = state.records[state.selected];
         if (record) openDetail(record);
@@ -405,6 +556,7 @@
     document.getElementById('stage-viewport').addEventListener(
       'wheel',
       (e) => {
+        if (els.searchPanel.classList.contains('open')) return;
         e.preventDefault();
         wheelAccum += e.deltaY || e.deltaX;
         const threshold = 40;
@@ -441,6 +593,7 @@
     setupWheel();
     setupKeyboardAndScroll();
     setupOverlay();
+    setupSearch();
   }
 
   init();
