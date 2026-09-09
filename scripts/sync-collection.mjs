@@ -2,51 +2,12 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { REPO_ROOT } from './lib/env.mjs';
 import { makeId } from './lib/slug.mjs';
+import { parseCsv } from './lib/csv.mjs';
 
 const SHEET_ID = '1mkx_jgCgpAvn1G3dUjR6jq1xh1M6OcfsEt04ryokOUw';
 const SHEET_GID = '0';
 const CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}`;
 const OUT_PATH = path.join(REPO_ROOT, 'data', 'collection.json');
-
-function parseCsv(text) {
-  const rows = [];
-  let row = [];
-  let field = '';
-  let inQuotes = false;
-  for (let i = 0; i < text.length; i += 1) {
-    const c = text[i];
-    if (inQuotes) {
-      if (c === '"') {
-        if (text[i + 1] === '"') {
-          field += '"';
-          i += 1;
-        } else {
-          inQuotes = false;
-        }
-      } else {
-        field += c;
-      }
-    } else if (c === '"') {
-      inQuotes = true;
-    } else if (c === ',') {
-      row.push(field);
-      field = '';
-    } else if (c === '\n' || c === '\r') {
-      if (c === '\r' && text[i + 1] === '\n') i += 1;
-      row.push(field);
-      rows.push(row);
-      row = [];
-      field = '';
-    } else {
-      field += c;
-    }
-  }
-  if (field.length > 0 || row.length > 0) {
-    row.push(field);
-    rows.push(row);
-  }
-  return rows.filter((r) => r.some((cell) => cell.trim() !== ''));
-}
 
 async function main() {
   const res = await fetch(CSV_URL);
@@ -62,13 +23,14 @@ async function main() {
   for (const row of dataRows) {
     const artist = (row[0] ?? '').trim();
     const album = (row[1] ?? '').trim();
-    const yearRaw = (row[2] ?? '').trim();
-    const catalogNumber = (row[3] ?? '').trim() || null;
+    const albumYearRaw = (row[2] ?? '').trim();
+    const condition = (row[3] ?? '').trim() || null;
+    const catalogNumber = (row[4] ?? '').trim() || null;
     if (!artist || !album) continue;
-    const year = /^\d{4}$/.test(yearRaw) ? Number(yearRaw) : null;
-    const id = makeId(artist, album, existingIds, year ?? 'unknown');
+    const albumYear = /^\d{4}$/.test(albumYearRaw) ? Number(albumYearRaw) : null;
+    const id = makeId(artist, album, existingIds, albumYear ?? 'unknown');
     existingIds.add(id);
-    collection.push({ id, artist, album, year, catalogNumber });
+    collection.push({ id, artist, album, albumYear, condition, catalogNumber });
   }
 
   let previous = [];
@@ -90,7 +52,8 @@ async function main() {
       prev &&
       (prev.artist !== r.artist ||
         prev.album !== r.album ||
-        prev.year !== r.year ||
+        prev.albumYear !== r.albumYear ||
+        prev.condition !== r.condition ||
         prev.catalogNumber !== r.catalogNumber)
     );
   });
@@ -101,9 +64,9 @@ async function main() {
   console.log(`  added:   ${added.length}`);
   console.log(`  removed: ${removed.length}`);
   console.log(`  changed: ${changed.length}`);
-  for (const r of added) console.log(`    + ${r.artist} — ${r.album} (${r.year ?? '?'})`);
-  for (const r of removed) console.log(`    - ${r.artist} — ${r.album} (${r.year ?? '?'})`);
-  for (const r of changed) console.log(`    ~ ${r.artist} — ${r.album} (${r.year ?? '?'})`);
+  for (const r of added) console.log(`    + ${r.artist} — ${r.album} (${r.albumYear ?? '?'})`);
+  for (const r of removed) console.log(`    - ${r.artist} — ${r.album} (${r.albumYear ?? '?'})`);
+  for (const r of changed) console.log(`    ~ ${r.artist} — ${r.album} (${r.albumYear ?? '?'})`);
 }
 
 main().catch((err) => {
