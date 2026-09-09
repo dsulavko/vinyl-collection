@@ -90,7 +90,7 @@ async function searchByField(field, value, record, token) {
   );
   await sleep(REQUEST_DELAY_MS);
   const candidates = (searchData.results || []).filter((r) => resultMatchesArtist(r, record.artist));
-  return pickBestResult(candidates, record.year);
+  return pickBestResult(candidates, record.albumYear);
 }
 
 async function findRelease(record, token) {
@@ -115,7 +115,7 @@ async function findRelease(record, token) {
     token
   );
   await sleep(REQUEST_DELAY_MS);
-  const best = pickBestResult(searchData.results || [], record.year);
+  const best = pickBestResult(searchData.results || [], record.albumYear);
   return best ? { best, matchedBy: 'text' } : null;
 }
 

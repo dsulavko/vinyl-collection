@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Vinyl Collection</title>
+<title>The AS/DS Collection</title>
 <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
   <div class="room">
-    <h1 class="room-title">The Collection</h1>
+    <h1 class="room-title">The AS/DS Collection</h1>
     <p class="collection-total" id="collection-total">—</p>
 
     <div class="ipod" id="ipod">
@@ -44,6 +44,13 @@
       <button class="detail-close" id="detail-close" aria-label="Close">×</button>
       <div class="detail-cover-wrap">
         <img class="detail-cover" id="detail-cover" alt="" />
+        <div class="detail-status">
+          <span class="detail-condition-pill" id="detail-condition">—</span>
+          <div class="detail-price-block">
+            <span class="detail-price-value" id="detail-price-value">—</span>
+            <span class="detail-price-sub" id="detail-price-sub"></span>
+          </div>
+        </div>
       </div>
       <div class="detail-body">
         <div class="detail-header">
@@ -51,17 +58,13 @@
           <h3 id="detail-artist">—</h3>
           <div class="detail-meta" id="detail-meta">—</div>
         </div>
-        <div class="detail-section" id="detail-notes-section">
-          <h4>Notes</h4>
-          <p id="detail-notes">—</p>
-        </div>
         <div class="detail-section" id="detail-tracklist-section">
           <h4>Tracklist</h4>
           <ol id="detail-tracklist"></ol>
         </div>
-        <div class="detail-section detail-price">
-          <h4>Estimated value</h4>
-          <p id="detail-price">—</p>
+        <div class="detail-section" id="detail-notes-section">
+          <h4>Notes</h4>
+          <p id="detail-notes">—</p>
         </div>
         <a class="detail-discogs-link" id="detail-discogs-link" href="#" target="_blank" rel="noopener">View on Discogs ↗</a>
       </div>

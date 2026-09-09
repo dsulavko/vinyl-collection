@@ -2,16 +2,16 @@
 
 A personal vinyl collection site: an iPod-style Cover Flow you spin through and click to see a record's detail card (tracklist, label/genre, notes, and an estimated resale value). Plain HTML/CSS/JS, no build step, no framework.
 
-The [Google Sheet](https://docs.google.com/spreadsheets/d/1mkx_jgCgpAvn1G3dUjR6jq1xh1M6OcfsEt04ryokOUw) is the source of truth for the collection (Artist / Album / Year). Everything else — description, tracklist, cover art, price — is enriched locally via Discogs and cached in `data/*.json`.
+The [Google Sheet](https://docs.google.com/spreadsheets/d/1mkx_jgCgpAvn1G3dUjR6jq1xh1M6OcfsEt04ryokOUw) is the source of truth for the collection (artist, album, album release year, condition, catalog number). Everything else — description, tracklist, cover art, price — is enriched locally via Discogs and cached in `data/*.json`.
 
 ## Layout
 
 ```
 index.html, css/style.css, js/app.js   the site
-data/collection.json                    synced from the Sheet (id, artist, album, year)
+data/collection.json                    synced from the Sheet (id, artist, album, albumYear, condition, catalogNumber)
 data/details.json                       Discogs tracklist/label/genre/notes, keyed by id
 data/covers.json                        cover image paths, keyed by id
-data/prices.json                        lowest Discogs marketplace price, keyed by id
+data/prices.json                        Discogs lowest listing + condition-adjusted estimate, keyed by id
 assets/covers/                          downloaded cover images
 scripts/                                the Node scripts each skill runs
 .claude/skills/                         the 4 skills (see below)

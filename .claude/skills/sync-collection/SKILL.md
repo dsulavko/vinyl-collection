@@ -5,7 +5,11 @@ description: Pull the latest Artist/Album/Year rows from the Google Sheet (the p
 
 # sync-collection
 
-Re-syncs `data/collection.json` from the public Google Sheet (read-only source of truth for artist/album/year, plus an optional per-record catalog number from the "Каталог №" column). Never touches `data/details.json`, `data/covers.json`, or `data/prices.json` — those are keyed by stable id and untouched by re-syncing, so enrichment work is never lost.
+Re-syncs `data/collection.json` from the public Google Sheet (read-only source of truth). Reads all 5 columns: artist, album, album release year ("Год выпуска альбома"), condition ("Состояние"), and catalog number ("Каталог №") — stored as `artist`, `album`, `albumYear`, `condition`, `catalogNumber`. Never touches `data/details.json`, `data/covers.json`, or `data/prices.json` — those are keyed by stable id and untouched by re-syncing, so enrichment work is never lost.
+
+`condition` is optional per record — leave it blank in the sheet for records you haven't graded yet. Its format is `sleeve/media` grades, e.g. `VG+/VG+` (both sides are typically the same grade in practice). `estimate-price` falls back to an unadjusted estimate when `condition` is blank.
+
+Note: the sheet previously had a 6th "pressing year" column; it was removed, so `data/collection.json` no longer has a `pressingYear` field.
 
 ## Steps
 

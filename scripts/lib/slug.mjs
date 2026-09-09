@@ -1,6 +1,6 @@
 const DIACRITICS = new RegExp('[\\u0300-\\u036f]', 'g');
 
-export function slugify(text) {
+function slugify(text) {
   return text
     .normalize('NFKD')
     .replace(DIACRITICS, '')

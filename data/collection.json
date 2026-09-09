@@ -3,798 +3,912 @@
     "id": "ac-dc-back-in-black",
     "artist": "AC/DC",
     "album": "Back in Black",
-    "year": 1980,
+    "albumYear": 1980,
+    "condition": "M/M",
     "catalogNumber": "5107651"
   },
   {
     "id": "ac-dc-live",
     "artist": "AC/DC",
     "album": "Live",
-    "year": 1967,
+    "albumYear": 1992,
+    "condition": "M/M",
     "catalogNumber": "5128361"
   },
   {
     "id": "ac-dc-the-razors-edges",
     "artist": "AC/DC",
     "album": "The Razors Edges",
-    "year": 1990,
+    "albumYear": 1990,
+    "condition": "M/M",
     "catalogNumber": "5107711"
   },
   {
     "id": "ac-dc-if-you-want-blood",
     "artist": "AC/DC",
     "album": "If You Want Blood",
-    "year": 1978,
+    "albumYear": 1978,
+    "condition": "NM/NM",
     "catalogNumber": "5107631"
   },
   {
     "id": "ac-dc-highway-to-hell",
     "artist": "AC/DC",
     "album": "Highway To Hell",
-    "year": 1979,
+    "albumYear": 1979,
+    "condition": "M/M",
     "catalogNumber": "atl50628"
   },
   {
     "id": "alan-parsons-project-ammonia-avenue",
     "artist": "Alan Parsons Project",
     "album": "Ammonia Avenue",
-    "year": 1984,
+    "albumYear": 1984,
+    "condition": "M/M",
     "catalogNumber": "ars39185"
   },
   {
     "id": "alan-parsons-project-gaudi",
     "artist": "Alan Parsons Project",
     "album": "Gaudi",
-    "year": 1986,
+    "albumYear": 1987,
+    "condition": "VG+/VG+",
     "catalogNumber": "c6027787000"
   },
   {
     "id": "alice-cooper-trash",
     "artist": "Alice Cooper",
     "album": "Trash",
-    "year": 1989,
+    "albumYear": 1989,
+    "condition": "VG/VG",
     "catalogNumber": "210040-1311"
   },
   {
     "id": "beach-boys-spirit-of-america",
     "artist": "Beach Boys",
     "album": "Spirit of America",
-    "year": 1975,
+    "albumYear": 1975,
+    "condition": "VG/VG",
     "catalogNumber": "c152-81887/88"
   },
   {
     "id": "beatles-blue-album-1967-1970",
     "artist": "Beatles",
     "album": "Blue Album 1967-1970",
-    "year": 2011,
+    "albumYear": 1973,
+    "condition": "VG/VG",
     "catalogNumber": "5c184-05309/10"
   },
   {
     "id": "billy-idol-charmed-life",
     "artist": "Billy Idol",
     "album": "Charmed Life",
-    "year": 1969,
-    "catalogNumber": null
+    "albumYear": 1990,
+    "condition": "VG+/VG+",
+    "catalogNumber": "64 3217351"
   },
   {
     "id": "billy-joel-the-bridge",
     "artist": "Billy Joel",
     "album": "The Bridge",
-    "year": 1986,
+    "albumYear": 1986,
+    "condition": "VG/VG",
     "catalogNumber": "cbs 86323"
   },
   {
     "id": "black-sabbath-vol-4",
     "artist": "Black Sabbath",
     "album": "Vol. 4",
-    "year": 1972,
+    "albumYear": 1972,
+    "condition": "VG+/VG+",
     "catalogNumber": "c9031091007"
   },
   {
     "id": "black-sabbath-sabbath-bloody-sabbath",
     "artist": "Black Sabbath",
     "album": "Sabbath Bloody Sabbath",
-    "year": 1972,
+    "albumYear": 1973,
+    "condition": "VG+/VG+",
     "catalogNumber": "c9031085007"
   },
   {
     "id": "bryan-ferry-boys-and-girls",
     "artist": "Bryan Ferry",
     "album": "Boys and Girls",
-    "year": 1973,
+    "albumYear": 1985,
+    "condition": "NM/NM",
     "catalogNumber": "825659-1"
   },
   {
     "id": "charlie-parker-miles-davis-history-of-jazz",
     "artist": "Charlie Parker & Miles Davis",
     "album": "History of Jazz",
-    "year": 1973,
+    "albumYear": 1973,
+    "condition": "VG+/VG+",
     "catalogNumber": "sm3288"
   },
   {
     "id": "chris-rea-the-road-to-hell",
     "artist": "Chris Rea",
     "album": "The Road to Hell",
-    "year": 1973,
+    "albumYear": 1989,
+    "condition": "VG+/VG+",
     "catalogNumber": "bl1067sr"
   },
   {
     "id": "chris-de-burgh-man-in-the-line",
     "artist": "Chris De Burgh",
     "album": "Man in the line",
-    "year": 1984,
+    "albumYear": 1984,
+    "condition": "VG+/VG+",
     "catalogNumber": "395002-1"
   },
   {
     "id": "cinderella-long-cold-winter",
     "artist": "Cinderella",
     "album": "Long Cold Winter",
-    "year": 1973,
+    "albumYear": 1988,
+    "condition": "VG+/VG+",
     "catalogNumber": "220426"
   },
   {
     "id": "coverdale-page-coverdale-page",
     "artist": "Coverdale Page",
     "album": "Coverdale Page",
-    "year": 1993,
+    "albumYear": 1993,
+    "condition": "M/M",
     "catalogNumber": "edm1041"
   },
   {
     "id": "crusaders-rhapsody-and-blues",
     "artist": "Crusaders",
     "album": "Rhapsody and Blues",
-    "year": 1980,
+    "albumYear": 1980,
+    "condition": "VG+/VG+",
     "catalogNumber": "vim-6230"
   },
   {
     "id": "david-bowie-let-s-dance",
     "artist": "David Bowie",
     "album": "Let’s Dance",
-    "year": 1973,
+    "albumYear": 1983,
+    "condition": "NM/NM",
     "catalogNumber": "db83881"
   },
   {
     "id": "david-bowie-chamges-one-bowie",
     "artist": "David Bowie",
     "album": "Chamges One Bowie",
-    "year": 1976,
+    "albumYear": 1976,
+    "condition": "VG+/VG+",
     "catalogNumber": "apl 1-1732"
   },
   {
     "id": "david-gilmour-rattle-than-lock",
     "artist": "David Gilmour",
     "album": "Rattle Than Lock",
-    "year": 1973,
+    "albumYear": 2015,
+    "condition": "M/M",
     "catalogNumber": "88875123291"
   },
   {
     "id": "david-gilmour-luck-and-strange",
     "artist": "David Gilmour",
     "album": "Luck and Strange",
-    "year": 2024,
+    "albumYear": 2024,
+    "condition": "S/S",
     "catalogNumber": "19802804611"
   },
   {
     "id": "david-knopfler-lips-against-the-steel",
     "artist": "David Knopfler",
     "album": "Lips Against The Steel",
-    "year": 1988,
-    "catalogNumber": "ul0120"
+    "albumYear": 2001,
+    "condition": "VG+/VG+",
+    "catalogNumber": "yl0120"
   },
   {
     "id": "deep-purple-who-do-we-think-we-are",
     "artist": "Deep Purple",
     "album": "Who Do We Think We Are",
-    "year": 1974,
+    "albumYear": 1973,
+    "condition": "VG+/VG+",
     "catalogNumber": "tpsa7508"
   },
   {
     "id": "deep-purple",
     "artist": "Deep Purple",
     "album": "Несущий Бурю",
-    "year": 1975,
+    "albumYear": 1974,
+    "condition": "VG/VG",
     "catalogNumber": "c9032133h"
   },
   {
     "id": "def-leppard-hysteria",
     "artist": "Def Leppard",
     "album": "Hysteria",
-    "year": 1987,
+    "albumYear": 1987,
+    "condition": "M/M",
     "catalogNumber": "5756092"
   },
   {
     "id": "dire-straits-brothers-in-arms",
     "artist": "Dire Straits",
     "album": "Brothers in Arms",
-    "year": 1976,
+    "albumYear": 1985,
+    "condition": "VG+/VG+",
     "catalogNumber": "ld238015"
   },
   {
     "id": "dire-straits-love-over-gold",
     "artist": "Dire Straits",
     "album": "Love Over Gold",
-    "year": 1982,
+    "albumYear": 1982,
+    "condition": "VG+/VG+",
     "catalogNumber": "c6024731001"
   },
   {
     "id": "dire-straits-on-every-street",
     "artist": "Dire Straits",
     "album": "On Every Street",
-    "year": 1991,
+    "albumYear": 1991,
+    "condition": "VG+/VG+",
     "catalogNumber": "510160-1"
   },
   {
     "id": "dirkschneider-live-back-to-the-roots",
     "artist": "Dirkschneider",
     "album": "Live - Back to the Roots",
-    "year": 1976,
+    "albumYear": 2016,
+    "condition": "S/S",
     "catalogNumber": "afm587"
   },
   {
     "id": "electric-light-orchestra-time",
     "artist": "Electric Light Orchestra",
     "album": "Time",
-    "year": 1977,
+    "albumYear": 1981,
+    "condition": "VG+/VG+",
     "catalogNumber": "jetlp236"
   },
   {
     "id": "electric-light-orchestra-secret-messages",
     "artist": "Electric Light Orchestra",
     "album": "Secret Messages",
-    "year": 1983,
+    "albumYear": 1983,
+    "condition": "VG+/VG+",
     "catalogNumber": "jetlx527"
   },
   {
     "id": "eloy-echos-from-the-past",
     "artist": "Eloy",
     "album": "Echos from the past",
-    "year": 2023,
+    "albumYear": 2023,
+    "condition": "S/S",
     "catalogNumber": "drak2961"
   },
   {
     "id": "elton-john-sleeping-with-the-past",
     "artist": "Elton John",
     "album": "Sleeping with the Past",
-    "year": 1977,
+    "albumYear": 1989,
+    "condition": "VG/VG",
     "catalogNumber": "8388391"
   },
   {
     "id": "elton-john-the-one",
     "artist": "Elton John",
     "album": "The One",
-    "year": 1992,
+    "albumYear": 1969,
+    "condition": "VG/VG",
     "catalogNumber": "bl1027"
   },
   {
     "id": "eric-clapton",
     "artist": "Eric Clapton",
     "album": "Эрик Клэптон (Мелодия)",
-    "year": 1979,
+    "albumYear": 1977,
+    "condition": "VG/VG",
     "catalogNumber": "c601787980"
   },
   {
     "id": "fleetwood-mac-rumours",
     "artist": "Fleetwood Mac",
     "album": "Rumours",
-    "year": 1979,
+    "albumYear": 1977,
+    "condition": "NM/NM",
     "catalogNumber": "9362-49793-5"
   },
   {
     "id": "fleetwood-mac-the-best",
     "artist": "Fleetwood Mac",
     "album": "The Best",
-    "year": null,
+    "albumYear": 1972,
+    "condition": "VG+/VG+",
     "catalogNumber": "rep44138"
   },
   {
     "id": "fleetwood-mac-behind-the-mask",
     "artist": "Fleetwood Mac",
     "album": "Behind the Mask",
-    "year": 1990,
+    "albumYear": 1990,
+    "condition": "VG/VG",
     "catalogNumber": "759926111-1"
   },
   {
     "id": "foreigner-4",
     "artist": "Foreigner",
     "album": "4",
-    "year": 1980,
+    "albumYear": 1981,
+    "condition": "VG+/VG+",
     "catalogNumber": "xsd16999"
   },
   {
     "id": "genesis-genesis",
     "artist": "Genesis",
     "album": "Genesis",
-    "year": 1983,
+    "albumYear": 1983,
+    "condition": "VG+/VG+",
     "catalogNumber": "814287-1"
   },
   {
     "id": "gentle-giant-in-a-glass-house",
     "artist": "Gentle Giant",
     "album": "In a Glass House",
-    "year": 1980,
-    "catalogNumber": null
+    "albumYear": 1973,
+    "condition": "VG/VG",
+    "catalogNumber": "6366 100"
   },
   {
     "id": "george-michael-faith",
     "artist": "George Michael",
     "album": "Faith",
-    "year": 1988,
+    "albumYear": 1987,
+    "condition": "VG/VG",
     "catalogNumber": "sx2695"
   },
   {
     "id": "guns-n-roses-appetite-for-destruction",
     "artist": "Guns N Roses",
     "album": "Appetite for Destruction",
-    "year": 1980,
+    "albumYear": 1987,
+    "condition": "M/M",
     "catalogNumber": "720642414811"
   },
   {
     "id": "guns-n-roses-use-your-illusion-2",
     "artist": "Guns N Roses",
     "album": "Use Your Illusion 2",
-    "year": 1991,
+    "albumYear": 1991,
+    "condition": "M/M",
     "catalogNumber": "602445117314"
   },
   {
     "id": "guns-n-roses-use-your-illusion-1",
     "artist": "Guns N Roses",
     "album": "Use your illusion 1",
-    "year": 1991,
+    "albumYear": 1991,
+    "condition": "M/M",
     "catalogNumber": "720642441510"
   },
   {
     "id": "iron-maiden-iron-maiden",
     "artist": "Iron Maiden",
     "album": "Iron Maiden",
-    "year": 1981,
+    "albumYear": 2014,
+    "condition": "M/M",
     "catalogNumber": "2564625244"
   },
   {
     "id": "jimmy-goings-santa-esmeralda-green-talisman",
     "artist": "Jimmy Goings & Santa Esmeralda",
     "album": "Green Talisman",
-    "year": 1981,
+    "albumYear": 1982,
+    "condition": "VG+/VG+",
     "catalogNumber": "c6020249000"
   },
   {
     "id": "king-crimson-in-the-court-of-the-crimson",
     "artist": "King Crimson",
     "album": "In the Court of the crimson",
-    "year": 1969,
+    "albumYear": 1969,
+    "condition": "S/S",
     "catalogNumber": "kcllp1"
   },
   {
     "id": "kiss-dynasty",
     "artist": "Kiss",
     "album": "Dynasty",
-    "year": 1981,
+    "albumYear": 1979,
+    "condition": "VG+/VG+",
     "catalogNumber": "cb.71049"
   },
   {
     "id": "kiss-unmasked",
     "artist": "Kiss",
     "album": "Unmasked",
-    "year": 1981,
+    "albumYear": 1980,
+    "condition": "VG+/VG+",
     "catalogNumber": "6302032"
   },
   {
     "id": "kiss-destroyer",
     "artist": "Kiss",
     "album": "Destroyer",
-    "year": 1981,
+    "albumYear": 1976,
+    "condition": "NM/NM",
     "catalogNumber": "nblp7025"
   },
   {
     "id": "kiss-love-gun",
     "artist": "Kiss",
     "album": "Love Gun",
-    "year": 1977,
+    "albumYear": 1977,
+    "condition": "NM/NM",
     "catalogNumber": "06025378075-2(9)"
   },
   {
     "id": "kiss-world-the-best-of-the-kiss",
     "artist": "Kiss World",
     "album": "The best of the kiss",
-    "year": 2017,
+    "albumYear": 2017,
+    "condition": "M/M",
     "catalogNumber": "602577375125"
   },
   {
     "id": "krokus-headhunter",
     "artist": "Krokus",
     "album": "Headhunter",
-    "year": 1982,
+    "albumYear": 1983,
+    "condition": "VG+/VG+",
     "catalogNumber": "205255"
   },
   {
     "id": "led-zeppelin-led-zeppelin",
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin",
-    "year": 1982,
+    "albumYear": 1969,
+    "condition": "VG/VG",
     "catalogNumber": "c9032351h"
   },
   {
     "id": "led-zeppelin-stairway-to-heaven",
     "artist": "Led Zeppelin",
     "album": "Stairway to heaven",
-    "year": 1983,
+    "albumYear": 1988,
+    "condition": "VG/VG",
     "catalogNumber": "c6027501005"
   },
   {
     "id": "led-zeppelin-2",
     "artist": "Led Zeppelin",
     "album": "2",
-    "year": 1992,
+    "albumYear": 1992,
+    "condition": "VG/VG",
     "catalogNumber": "п9100121"
   },
   {
     "id": "led-zeppelin-4",
     "artist": "Led Zeppelin",
     "album": "4",
-    "year": 1991,
+    "albumYear": 1991,
+    "condition": "VG/VG",
     "catalogNumber": "п9100146"
   },
   {
     "id": "led-zeppelin-5",
     "artist": "Led Zeppelin",
     "album": "5",
-    "year": 1991,
+    "albumYear": 1973,
+    "condition": "VG/VG",
     "catalogNumber": "п9100147"
   },
   {
     "id": "manfred-mann-s-earth-band-solar-fire",
     "artist": "Manfred Mann’s Earth Band",
     "album": "Solar Fire",
-    "year": 1983,
+    "albumYear": 1973,
+    "condition": "VG+/VG+",
     "catalogNumber": "28778xot"
   },
   {
     "id": "manfred-mann-s-earth-band-manfred-mann-s-earth-band",
     "artist": "Manfred Mann's Earth Band",
     "album": "Manfred Mann's Earth Band",
-    "year": 1984,
+    "albumYear": 1972,
+    "condition": "VG/VG",
     "catalogNumber": "c6014417002"
   },
   {
     "id": "manfred-mann-s-earth-band-the-roaring-silence",
     "artist": "Manfred Mann’s Earth Band",
     "album": "The Roaring Silence",
-    "year": 1984,
+    "albumYear": 1976,
+    "condition": "VG+/VG+",
     "catalogNumber": "27870xot"
   },
   {
     "id": "manowar-hail-to-england",
     "artist": "Manowar",
     "album": "Hail to England",
-    "year": 1984,
+    "albumYear": 1984,
+    "condition": "M/M",
     "catalogNumber": "mfn-19"
   },
   {
     "id": "megadeth-so-far-so-good-so-what",
     "artist": "Megadeth",
     "album": "So far, so good, so what!",
-    "year": 1988,
+    "albumYear": 1988,
+    "condition": "M/M",
     "catalogNumber": "c1-48148"
   },
   {
     "id": "metallica-death-magnetic",
     "artist": "Metallica",
     "album": "Death Magnetic",
-    "year": 1984,
+    "albumYear": 2008,
+    "condition": "M/M",
     "catalogNumber": "blcknd-018"
   },
   {
     "id": "metallica-master-of-puppets",
     "artist": "Metallica",
     "album": "Master of Puppets",
-    "year": 1986,
+    "albumYear": 1986,
+    "condition": "M/M",
     "catalogNumber": "60439-1"
   },
   {
     "id": "metallica-ride-the-lightning",
     "artist": "Metallica",
     "album": "Ride The Lightning",
-    "year": 1984,
+    "albumYear": 1984,
+    "condition": "M/M",
     "catalogNumber": "mfn27"
   },
   {
     "id": "metallica-black-album",
     "artist": "Metallica",
     "album": "Black Album",
-    "year": 1991,
+    "albumYear": 1991,
+    "condition": "M/M",
     "catalogNumber": "61113-1"
   },
   {
     "id": "michael-jackson-thriller",
     "artist": "Michael Jackson",
     "album": "Thriller",
-    "year": 1985,
+    "albumYear": 1982,
+    "condition": "VG/VG",
     "catalogNumber": "bta11703"
   },
   {
     "id": "moody-blues-collected",
     "artist": "Moody Blues",
     "album": "Collected",
-    "year": 2007,
+    "albumYear": 2007,
+    "condition": "NM/NM",
     "catalogNumber": "movlp1816"
   },
   {
     "id": "nazareth-the-fool-circle",
     "artist": "Nazareth",
     "album": "The Fool Circle",
-    "year": 1980,
+    "albumYear": 1981,
+    "condition": "VG+/VG+",
     "catalogNumber": "sp4844"
   },
   {
     "id": "nick-cave-and-the-bad-seeds-murder-ballads",
     "artist": "Nick Cave and The bad Seeds",
     "album": "Murder Ballads",
-    "year": 1996,
+    "albumYear": 1996,
+    "condition": "M/M",
     "catalogNumber": "lpseeds9"
   },
   {
     "id": "nick-mason-fictitious-sports",
     "artist": "Nick Mason",
     "album": "Fictitious sports",
-    "year": 1981,
+    "albumYear": 1981,
+    "condition": "VG/VG",
     "catalogNumber": "064-64 216"
   },
   {
     "id": "nirvana-nevermind",
     "artist": "Nirvana",
     "album": "Nevermind",
-    "year": 1991,
+    "albumYear": 1991,
+    "condition": "M/M",
     "catalogNumber": "720642442517"
   },
   {
     "id": "ozzy-osbourne-diary-of-a-madman",
     "artist": "Ozzy Osbourne",
     "album": "Diary of a Madman",
-    "year": 1985,
+    "albumYear": 1981,
+    "condition": "VG/VG",
     "catalogNumber": "p93-00299-300"
   },
   {
     "id": "phil-collins-but-seriously",
     "artist": "Phil Collins",
     "album": "But Seriously",
-    "year": 1989,
+    "albumYear": 1989,
+    "condition": "VG+/VG+",
     "catalogNumber": "256919-1"
   },
   {
     "id": "pink-floyd-a-momentary-lapse-of-reason",
     "artist": "Pink Floyd",
     "album": "A Momentary Lapse of Reason",
-    "year": 1986,
+    "albumYear": 1987,
+    "condition": "VG+/VG+",
     "catalogNumber": "7480681"
   },
   {
     "id": "pink-floyd-the-piper-at-the-gates-of-dawn",
     "artist": "Pink Floyd",
     "album": "The Piper At The Gates of Dawn",
-    "year": 1987,
+    "albumYear": 1977,
+    "condition": "S/S",
     "catalogNumber": "pfrlp1"
   },
   {
     "id": "pink-floyd-delicate-sound-of-thunder-live",
     "artist": "Pink Floyd",
     "album": "Delicate Sound of Thunder (Live)",
-    "year": 1987,
+    "albumYear": 1988,
+    "condition": "VG+/VG+",
     "catalogNumber": "a6000543007"
   },
   {
     "id": "pink-floyd-animals",
     "artist": "Pink Floyd",
     "album": "Animals",
-    "year": 1987,
+    "albumYear": 1977,
+    "condition": "M/M",
     "catalogNumber": "pfrlp10"
   },
   {
     "id": "pink-floyd-the-dark-side-of-the-moon",
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
-    "year": 1988,
+    "albumYear": 1973,
+    "condition": "M/M",
     "catalogNumber": "pfrlp8"
   },
   {
     "id": "pink-floyd-wish-you-were-here",
     "artist": "Pink Floyd",
     "album": "Wish You Were Here",
-    "year": 1988,
+    "albumYear": 1975,
+    "condition": "VG+/VG+",
     "catalogNumber": "855979"
   },
   {
     "id": "pink-floyd-a-foot-in-the-door-the-best-of-pink-floyd",
     "artist": "Pink Floyd",
     "album": "A Foot in the Door (The Best of Pink Floyd)",
-    "year": 1989,
+    "albumYear": 2011,
+    "condition": "M/M",
     "catalogNumber": "pfrlp21"
   },
   {
     "id": "pink-floyd-the-endles-river",
     "artist": "Pink Floyd",
     "album": "The Endles River",
-    "year": 2014,
+    "albumYear": 2014,
+    "condition": "M/M",
     "catalogNumber": "825646215478"
   },
   {
     "id": "pink-floyd-the-wall",
     "artist": "Pink Floyd",
     "album": "The Wall",
-    "year": 1979,
+    "albumYear": 1979,
+    "condition": "M/M",
     "catalogNumber": "pfrlp11"
   },
   {
     "id": "pink-floyd-atom-heart-mother",
     "artist": "Pink Floyd",
     "album": "Atom Heart Mother",
-    "year": 1970,
+    "albumYear": 1970,
+    "condition": "S/S",
     "catalogNumber": "pfrlp5"
   },
   {
     "id": "pink-floyd-division-bell",
     "artist": "Pink Floyd",
     "album": "Division Bell",
-    "year": 1994,
+    "albumYear": 1994,
+    "condition": "NM/NM",
     "catalogNumber": "pfrlp14"
   },
   {
     "id": "pink-floyd-meddle",
     "artist": "Pink Floyd",
     "album": "Meddle",
-    "year": 1971,
+    "albumYear": 1971,
+    "condition": "M/M",
     "catalogNumber": "pfrlp6"
   },
   {
     "id": "pink-floyd-the-final-cut",
     "artist": "Pink Floyd",
     "album": "The Final Cut",
-    "year": 1983,
+    "albumYear": 1983,
+    "condition": "M/M",
     "catalogNumber": "pfrlp12"
   },
   {
     "id": "pink-floyd-1967-1968",
     "artist": "Pink Floyd",
     "album": "1967-1968",
-    "year": 1992,
+    "albumYear": 1968,
+    "condition": "VG+/VG+",
     "catalogNumber": "r6000511"
   },
   {
     "id": "queen-live-magic",
     "artist": "Queen",
     "album": "Live Magic",
-    "year": 1989,
+    "albumYear": 1986,
+    "condition": "VG+/VG+",
     "catalogNumber": "emc3519"
   },
   {
     "id": "rainbow-rainbow-1975-1982",
     "artist": "Rainbow",
     "album": "Ансамбль Rainbow 1975-1982",
-    "year": 1989,
+    "albumYear": 1988,
+    "condition": "VG/VG",
     "catalogNumber": "c6027023005"
   },
   {
     "id": "rod-stewart-foolish-behavior",
     "artist": "Rod Stewart",
     "album": "Foolish Behavior",
-    "year": 1989,
+    "albumYear": 1980,
+    "condition": "VG/VG",
     "catalogNumber": "hs4385"
   },
   {
     "id": "roxette-joyride",
     "artist": "Roxette",
     "album": "Joyride",
-    "year": 1989,
-    "catalogNumber": null
+    "albumYear": 1991,
+    "condition": "VG/VG",
+    "catalogNumber": "1C 068-7 96048 1"
   },
   {
     "id": "sade-diamond-life",
     "artist": "Sade",
     "album": "Diamond Life",
-    "year": 1989,
+    "albumYear": 1984,
+    "condition": "VG+/VG+",
     "catalogNumber": "epc26044"
   },
   {
     "id": "sade-promise",
     "artist": "Sade",
     "album": "Promise",
-    "year": 1985,
+    "albumYear": 1985,
+    "condition": "VG+/VG+",
     "catalogNumber": "epccl323758"
   },
   {
     "id": "samson-don-t-get-mad-get-even",
     "artist": "Samson",
     "album": "Don't Get Mad Get Even",
-    "year": 1990,
+    "albumYear": 1984,
+    "condition": "VG+/VG+",
     "catalogNumber": "2222280"
   },
   {
     "id": "scorpions-best-of-scorpions",
     "artist": "Scorpions",
     "album": "Best of Scorpions",
-    "year": 1990,
+    "albumYear": 1979,
+    "condition": "VG+/VG+",
     "catalogNumber": "nl74006"
   },
   {
     "id": "scorpions-best-of-scorpions-vol-2",
     "artist": "Scorpions",
     "album": "Best of Scorpions Vol.2",
-    "year": 1991,
+    "albumYear": 1984,
+    "condition": "VG+/VG+",
     "catalogNumber": "nl74517"
   },
   {
     "id": "scorpions-sting-in-the-tail",
     "artist": "Scorpions",
     "album": "Sting in the Tail",
-    "year": 1992,
+    "albumYear": 2010,
+    "condition": "M/M",
     "catalogNumber": "88697593301"
   },
   {
     "id": "sinead-o-connor-i-do-not-want-what-i-haven-t-got",
     "artist": "Sinead O'Connor",
     "album": "I Do not want what i haven't got",
-    "year": 2008,
+    "albumYear": 1990,
+    "condition": "VG+/VG+",
     "catalogNumber": "c30rgm7040"
   },
   {
     "id": "steve-miller-band-abracadabra",
     "artist": "Steve Miller band",
     "album": "Abracadabra",
-    "year": 1982,
+    "albumYear": 1982,
+    "condition": "VG+/VG+",
     "catalogNumber": "6302204"
   },
   {
     "id": "sting-the-dream-of-the-blue-turtles",
     "artist": "Sting",
     "album": "The dream of the blue turtles",
-    "year": 1985,
+    "albumYear": 1985,
+    "condition": "NM/NM",
     "catalogNumber": "2223031"
   },
   {
     "id": "tangerine-dream-quichotte",
     "artist": "Tangerine Dream",
     "album": "Quichotte",
-    "year": 2010,
+    "albumYear": 1981,
+    "condition": "VG+/VG+",
     "catalogNumber": "855819"
   },
   {
     "id": "tina-turner-foreign-affair",
     "artist": "Tina Turner",
     "album": "Foreign Affair",
-    "year": 2015,
+    "albumYear": 1989,
+    "condition": "VG+/VG+",
     "catalogNumber": "a6000707000"
   },
   {
     "id": "wham-the-final",
     "artist": "Wham",
     "album": "The Final",
-    "year": 1986,
+    "albumYear": 1986,
+    "condition": "VG+/VG+",
     "catalogNumber": "epc 88681"
   },
   {
     "id": "whitesnake-1987",
     "artist": "Whitesnake",
     "album": "1987",
-    "year": 2016,
+    "albumYear": 1987,
+    "condition": "M/M",
     "catalogNumber": "190295785178"
   },
   {
     "id": "whitesnake-slip-of-the-tongue",
     "artist": "Whitesnake",
     "album": "Slip Of The Tongue",
-    "year": 1989,
+    "albumYear": 1989,
+    "condition": "NM/NM",
     "catalogNumber": "emd1013"
   },
   {
     "id": "yes-90125",
     "artist": "Yes",
     "album": "90125",
-    "year": 1983,
+    "albumYear": 1983,
+    "condition": "VG+/VG+",
     "catalogNumber": "st-c-855337-sp"
   },
   {
     "id": "zz-top-eliminator",
     "artist": "ZZ Top",
     "album": "Eliminator",
-    "year": 1983,
+    "albumYear": 1983,
+    "condition": "M/M",
     "catalogNumber": "81227943196"
   }
 ]

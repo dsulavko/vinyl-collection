@@ -23,7 +23,9 @@
     detailNotes: document.getElementById('detail-notes'),
     detailTracklistSection: document.getElementById('detail-tracklist-section'),
     detailTracklist: document.getElementById('detail-tracklist'),
-    detailPrice: document.getElementById('detail-price'),
+    detailCondition: document.getElementById('detail-condition'),
+    detailPriceValue: document.getElementById('detail-price-value'),
+    detailPriceSub: document.getElementById('detail-price-sub'),
     detailDiscogsLink: document.getElementById('detail-discogs-link'),
     nowPrice: document.getElementById('now-price'),
     collectionTotal: document.getElementById('collection-total'),
@@ -138,8 +140,9 @@
 
     const current = state.records[state.selected];
     if (current) {
+      const year = displayYear(current);
       els.nowTitle.textContent = current.album;
-      els.nowSub.textContent = `${current.artist}${current.year ? ' · ' + current.year : ''}`;
+      els.nowSub.textContent = `${current.artist}${year ? ' · ' + year : ''}`;
       els.nowPrice.textContent = formatPriceShort(current.price);
     }
     els.statusCount.textContent = `${state.selected + 1} / ${state.records.length}`;
@@ -157,23 +160,105 @@
     selectIndex(state.selected + delta);
   }
 
-  function formatPrice(price) {
-    if (!price || typeof price.lowestPrice !== 'number') return 'Not estimated yet';
-    const amount = `${price.lowestPrice.toFixed(2)} ${price.currency || 'USD'}`;
-    const forSale = price.numForSale ? ` · ${price.numForSale} for sale` : '';
-    return `From ${amount}${forSale} (Discogs marketplace, lowest listed)`;
+  function displayYear(record) {
+    return record.albumYear;
+  }
+
+  // Two distinct years can apply to a record: the album's first-ever release
+  // (albumYear, from the sheet) and the specific pressing/edition Discogs
+  // matched via catalog number (details.released). Only show both when they
+  // actually differ, so an original pressing just shows one year.
+  function cardYears(record) {
+    const original = record.albumYear || null;
+    const editionRaw = record.details?.released;
+    const edition = editionRaw ? Number(String(editionRaw).slice(0, 4)) : null;
+    if (original && edition && edition !== original) {
+      return `${original} · ${edition} pressing`;
+    }
+    return original ? String(original) : edition ? String(edition) : null;
+  }
+
+  function estimatedValue(price) {
+    if (!price) return null;
+    if (typeof price.estimatedValue === 'number') return price.estimatedValue;
+    if (typeof price.lowestPrice === 'number') return price.lowestPrice;
+    return null;
+  }
+
+  // Best-to-worst grade scale, matching scripts/estimate-price.mjs.
+  const CONDITION_ORDER = ['S', 'M', 'NM', 'VG+', 'VG', 'G+', 'G', 'F', 'P'];
+
+  // Sheet values are "sleeve/media" grades, e.g. "VG+/VG+" — the worse of the
+  // two drives the color, same heuristic as the price multiplier.
+  function worseGrade(raw) {
+    if (!raw) return null;
+    const grades = raw
+      .split('/')
+      .map((g) => g.trim().toUpperCase())
+      .filter((g) => CONDITION_ORDER.includes(g));
+    if (!grades.length) return null;
+    return grades.reduce((worst, g) =>
+      CONDITION_ORDER.indexOf(g) > CONDITION_ORDER.indexOf(worst) ? g : worst
+    );
+  }
+
+  // Green at/above the VG+ anchor (a typical marketplace-listing grade),
+  // orange/red below it — richer/redder the further from the anchor.
+  const ANCHOR_INDEX = CONDITION_ORDER.indexOf('VG+');
+
+  function conditionColors(grade) {
+    const idx = CONDITION_ORDER.indexOf(grade);
+    if (idx === -1) return null;
+    let hue;
+    let light;
+    if (idx <= ANCHOR_INDEX) {
+      const t = idx / ANCHOR_INDEX;
+      hue = 150;
+      light = 30 + t * 12;
+    } else {
+      const t = (idx - ANCHOR_INDEX) / (CONDITION_ORDER.length - 1 - ANCHOR_INDEX);
+      hue = 38 - t * 28;
+      light = 42 - t * 8;
+    }
+    return {
+      bg: `hsl(${hue}, 55%, 90%)`,
+      fg: `hsl(${hue}, 60%, ${light}%)`,
+    };
+  }
+
+  function formatPriceValue(price) {
+    const est = estimatedValue(price);
+    if (est == null) return 'Not priced';
+    const currency = price.currency || 'USD';
+    return `${price.condition ? 'Est. ' : ''}${est.toFixed(2)} ${currency}`;
+  }
+
+  function formatPriceSub(price) {
+    if (!price) return '';
+    const currency = price.currency || 'USD';
+    const parts = [];
+    if (price.lowestPrice == null) {
+      parts.push('no current listings — default estimate');
+    } else if (price.condition) {
+      parts.push(`Discogs lowest ${price.lowestPrice.toFixed(2)} ${currency}`);
+    } else {
+      parts.push('unadjusted, no condition set');
+    }
+    if (price.numForSale) parts.push(`${price.numForSale} for sale`);
+    return parts.join(' · ');
   }
 
   function formatPriceShort(price) {
-    if (!price || typeof price.lowestPrice !== 'number') return 'not priced';
-    return `$${price.lowestPrice.toFixed(2)}`;
+    const est = estimatedValue(price);
+    if (est == null) return 'not priced';
+    return `$${est.toFixed(2)}`;
   }
 
   function renderCollectionTotal() {
-    const priced = state.records.filter((r) => typeof r.price?.lowestPrice === 'number');
-    const total = priced.reduce((sum, r) => sum + r.price.lowestPrice, 0);
+    const priced = state.records.filter((r) => estimatedValue(r.price) != null);
+    const total = priced.reduce((sum, r) => sum + estimatedValue(r.price), 0);
     els.collectionTotal.textContent = priced.length
-      ? `Collection value: $${total.toFixed(2)} (${priced.length} of ${state.records.length} records priced, Discogs lowest listing)`
+      ? `Collection value: $${total.toFixed(2)}`
       : 'Collection value: not estimated yet';
   }
 
@@ -183,7 +268,8 @@
     els.detailArtist.textContent = record.artist;
 
     const metaParts = [];
-    if (record.year) metaParts.push(record.year);
+    const years = cardYears(record);
+    if (years) metaParts.push(years);
     if (d?.label) metaParts.push(d.label);
     if (d?.country) metaParts.push(d.country);
     if (d?.genres?.length) metaParts.push(d.genres.join(', '));
@@ -196,6 +282,12 @@
       els.detailCover.removeAttribute('src');
       els.detailCover.alt = 'No cover yet';
     }
+
+    const grade = worseGrade(record.condition);
+    const colors = grade ? conditionColors(grade) : null;
+    els.detailCondition.textContent = record.condition || 'Ungraded';
+    els.detailCondition.style.background = colors ? colors.bg : '';
+    els.detailCondition.style.color = colors ? colors.fg : '';
 
     if (d?.notes) {
       els.detailNotesSection.style.display = '';
@@ -218,7 +310,8 @@
       els.detailTracklistSection.style.display = 'none';
     }
 
-    els.detailPrice.textContent = formatPrice(record.price);
+    els.detailPriceValue.textContent = formatPriceValue(record.price);
+    els.detailPriceSub.textContent = formatPriceSub(record.price);
 
     if (d?.discogsUrl) {
       els.detailDiscogsLink.href = d.discogsUrl;
@@ -250,7 +343,7 @@
     }
 
     function onPointerDown(e) {
-      if (e.target === els.wheelCenter) return;
+      if (e.target === els.wheelCenter || e.target.classList.contains('wheel-label')) return;
       dragging = true;
       els.wheel.classList.add('dragging');
       lastAngle = angleFromEvent(e);

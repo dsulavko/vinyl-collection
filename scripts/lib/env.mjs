@@ -1,10 +1,10 @@
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 const ROOT = path.resolve(fileURLToPath(import.meta.url), '../../..');
 
-export function loadEnv() {
+function loadEnv() {
   const envPath = path.join(ROOT, '.env');
   let contents;
   try {
@@ -38,25 +38,6 @@ export function requireEnv(key) {
     );
   }
   return value;
-}
-
-// Sets a key in .env, replacing an existing `KEY=` line if present or appending
-// a new one otherwise. Used by one-time interactive setup scripts that capture
-// a credential (e.g. an OAuth refresh token) so the user doesn't have to hand-copy it.
-export function setEnvValue(key, value) {
-  const envPath = path.join(ROOT, '.env');
-  const lines = existsSync(envPath) ? readFileSync(envPath, 'utf8').split('\n') : [];
-  const prefix = `${key}=`;
-  const idx = lines.findIndex((line) => line.trim().startsWith(prefix));
-  const newLine = `${prefix}${value}`;
-  if (idx === -1) {
-    if (lines.length && lines[lines.length - 1].trim() === '') lines.pop();
-    lines.push(newLine);
-  } else {
-    lines[idx] = newLine;
-  }
-  writeFileSync(envPath, `${lines.join('\n').replace(/\n*$/, '')}\n`);
-  process.env[key] = value;
 }
 
 export const REPO_ROOT = ROOT;

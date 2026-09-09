@@ -3,493 +3,657 @@
     "lowestPrice": 1.4,
     "currency": "USD",
     "numForSale": 37,
-    "updatedAt": "2026-09-08T17:24:46.020Z"
+    "condition": "M",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.757Z"
   },
   "nirvana-nevermind": {
     "lowestPrice": 24.48,
     "currency": "USD",
     "numForSale": 11,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "M",
+    "estimatedValue": 39.17,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-the-dark-side-of-the-moon": {
     "lowestPrice": 60.2,
     "currency": "USD",
     "numForSale": 14,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "M",
+    "estimatedValue": 96.32,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "ac-dc-live": {
     "lowestPrice": 28.97,
     "currency": "USD",
     "numForSale": 11,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "M",
+    "estimatedValue": 46.35,
+    "updatedAt": "2026-09-09T09:29:42.758Z"
   },
   "ac-dc-if-you-want-blood": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 10,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "NM",
+    "estimatedValue": 23.54,
+    "updatedAt": "2026-09-09T09:29:42.758Z"
   },
   "ac-dc-highway-to-hell": {
     "lowestPrice": 15.12,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "M",
+    "estimatedValue": 24.19,
+    "updatedAt": "2026-09-09T09:29:42.758Z"
   },
   "billy-idol-charmed-life": {
     "lowestPrice": 6.98,
     "currency": "USD",
     "numForSale": 5,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 6.98,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "black-sabbath-vol-4": {
     "lowestPrice": 44.51,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 44.51,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "black-sabbath-sabbath-bloody-sabbath": {
     "lowestPrice": 17.18,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 17.18,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "bryan-ferry-boys-and-girls": {
     "lowestPrice": 3.47,
     "currency": "USD",
     "numForSale": 117,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "NM",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "cinderella-long-cold-winter": {
     "lowestPrice": 5.81,
     "currency": "USD",
     "numForSale": 9,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 5.81,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "coverdale-page-coverdale-page": {
     "lowestPrice": 93.02,
     "currency": "USD",
     "numForSale": 9,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "M",
+    "estimatedValue": 148.83,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "david-bowie-let-s-dance": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 153,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "NM",
+    "estimatedValue": 23.54,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "david-gilmour-luck-and-strange": {
     "lowestPrice": 0.17,
     "currency": "USD",
     "numForSale": 13,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "S",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "david-knopfler-lips-against-the-steel": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "deep-purple-who-do-we-think-we-are": {
     "lowestPrice": 6.28,
     "currency": "USD",
     "numForSale": 33,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG+",
+    "estimatedValue": 6.28,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "deep-purple": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "def-leppard-hysteria": {
     "lowestPrice": 24.08,
     "currency": "USD",
     "numForSale": 72,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "M",
+    "estimatedValue": 38.53,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "dire-straits-brothers-in-arms": {
     "lowestPrice": 20.87,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG+",
+    "estimatedValue": 20.87,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "dire-straits-love-over-gold": {
     "lowestPrice": 13.13,
     "currency": "USD",
     "numForSale": 3,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG+",
+    "estimatedValue": 13.13,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "dire-straits-on-every-street": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "dirkschneider-live-back-to-the-roots": {
     "lowestPrice": 80.23,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "S",
+    "estimatedValue": 176.51,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "electric-light-orchestra-time": {
     "lowestPrice": 2.48,
     "currency": "USD",
     "numForSale": 20,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "elton-john-sleeping-with-the-past": {
     "lowestPrice": 3.48,
     "currency": "USD",
     "numForSale": 40,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "elton-john-the-one": {
     "lowestPrice": 14.53,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG",
+    "estimatedValue": 10.9,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "fleetwood-mac-rumours": {
     "lowestPrice": 11.29,
     "currency": "USD",
     "numForSale": 21,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "NM",
+    "estimatedValue": 15.24,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "fleetwood-mac-the-best": {
     "lowestPrice": 4.65,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "fleetwood-mac-behind-the-mask": {
     "lowestPrice": 6.7,
     "currency": "USD",
     "numForSale": 6,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG",
+    "estimatedValue": 5.03,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "foreigner-4": {
     "lowestPrice": 7.63,
     "currency": "USD",
     "numForSale": 9,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG+",
+    "estimatedValue": 7.63,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "genesis-genesis": {
     "lowestPrice": 16.27,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG+",
+    "estimatedValue": 16.27,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "gentle-giant-in-a-glass-house": {
     "lowestPrice": 29.07,
     "currency": "USD",
     "numForSale": 22,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG",
+    "estimatedValue": 21.8,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "george-michael-faith": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 9,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG",
+    "estimatedValue": 13.08,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "guns-n-roses-appetite-for-destruction": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "M",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "guns-n-roses-use-your-illusion-2": {
     "lowestPrice": 20.63,
     "currency": "USD",
     "numForSale": 43,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "M",
+    "estimatedValue": 33.01,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "guns-n-roses-use-your-illusion-1": {
     "lowestPrice": 27.9,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "M",
+    "estimatedValue": 44.64,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "iron-maiden-iron-maiden": {
     "lowestPrice": 174.42,
     "currency": "USD",
     "numForSale": 21,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "M",
+    "estimatedValue": 279.07,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "jimmy-goings-santa-esmeralda-green-talisman": {
     "lowestPrice": 12.54,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG+",
+    "estimatedValue": 12.54,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "king-crimson-in-the-court-of-the-crimson": {
     "lowestPrice": 19.66,
     "currency": "USD",
     "numForSale": 90,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "S",
+    "estimatedValue": 43.25,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "kiss-dynasty": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.762Z"
   },
   "kiss-unmasked": {
     "lowestPrice": 22.09,
     "currency": "USD",
     "numForSale": 4,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG+",
+    "estimatedValue": 22.09,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "kiss-destroyer": {
     "lowestPrice": 18.84,
     "currency": "USD",
     "numForSale": 3,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "NM",
+    "estimatedValue": 25.43,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "kiss-love-gun": {
     "lowestPrice": 13.75,
     "currency": "USD",
     "numForSale": 10,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "NM",
+    "estimatedValue": 18.56,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "krokus-headhunter": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG+",
+    "estimatedValue": 17.44,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "led-zeppelin-led-zeppelin": {
     "lowestPrice": 4.73,
     "currency": "USD",
     "numForSale": 31,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "led-zeppelin-2": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "led-zeppelin-4": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "manowar-hail-to-england": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "megadeth-so-far-so-good-so-what": {
     "lowestPrice": 45.16,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 72.26,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "metallica-death-magnetic": {
     "lowestPrice": 18.92,
     "currency": "USD",
     "numForSale": 40,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 30.27,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "metallica-master-of-puppets": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "metallica-ride-the-lightning": {
     "lowestPrice": 109.93,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 175.89,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "metallica-black-album": {
     "lowestPrice": 372.09,
     "currency": "USD",
     "numForSale": 13,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 595.34,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "michael-jackson-thriller": {
     "lowestPrice": 11.63,
     "currency": "USD",
     "numForSale": 3,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "VG",
+    "estimatedValue": 8.72,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "moody-blues-collected": {
     "lowestPrice": 34.88,
     "currency": "USD",
     "numForSale": 9,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "NM",
+    "estimatedValue": 47.09,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "nazareth-the-fool-circle": {
     "lowestPrice": 18.05,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "VG+",
+    "estimatedValue": 18.05,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "nick-cave-and-the-bad-seeds-murder-ballads": {
     "lowestPrice": 24.77,
     "currency": "USD",
     "numForSale": 61,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "M",
+    "estimatedValue": 39.63,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "nick-mason-fictitious-sports": {
     "lowestPrice": 11.63,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "VG",
+    "estimatedValue": 8.72,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "ozzy-osbourne-diary-of-a-madman": {
     "lowestPrice": 30.22,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "VG",
+    "estimatedValue": 22.67,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-a-momentary-lapse-of-reason": {
     "lowestPrice": 11.63,
     "currency": "USD",
     "numForSale": 27,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "VG+",
+    "estimatedValue": 11.63,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-the-piper-at-the-gates-of-dawn": {
     "lowestPrice": 20.64,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "S",
+    "estimatedValue": 45.41,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-delicate-sound-of-thunder-live": {
     "lowestPrice": 21.62,
     "currency": "USD",
     "numForSale": 5,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "VG+",
+    "estimatedValue": 21.62,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-animals": {
     "lowestPrice": 20.64,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "M",
+    "estimatedValue": 33.02,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-wish-you-were-here": {
     "lowestPrice": 6.98,
     "currency": "USD",
     "numForSale": 58,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "VG+",
+    "estimatedValue": 6.98,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-a-foot-in-the-door-the-best-of-pink-floyd": {
     "lowestPrice": 25.8,
     "currency": "USD",
     "numForSale": 56,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "M",
+    "estimatedValue": 41.28,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   },
   "pink-floyd-the-endles-river": {
     "lowestPrice": 18.92,
     "currency": "USD",
     "numForSale": 21,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "M",
+    "estimatedValue": 30.27,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "pink-floyd-the-wall": {
     "lowestPrice": 18.06,
     "currency": "USD",
     "numForSale": 85,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "M",
+    "estimatedValue": 28.9,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "pink-floyd-atom-heart-mother": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "S",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "pink-floyd-division-bell": {
     "lowestPrice": 17.2,
     "currency": "USD",
     "numForSale": 41,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "NM",
+    "estimatedValue": 23.22,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "pink-floyd-meddle": {
     "lowestPrice": 58.13,
     "currency": "USD",
     "numForSale": 5,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "M",
+    "estimatedValue": 93.01,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "pink-floyd-the-final-cut": {
     "lowestPrice": 5.81,
     "currency": "USD",
     "numForSale": 18,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "M",
+    "estimatedValue": 9.3,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "pink-floyd-1967-1968": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "queen-live-magic": {
     "lowestPrice": 33.54,
     "currency": "USD",
     "numForSale": 7,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG+",
+    "estimatedValue": 33.54,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "roxette-joyride": {
     "lowestPrice": 5.76,
     "currency": "USD",
     "numForSale": 28,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "sade-diamond-life": {
     "lowestPrice": 19.37,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG+",
+    "estimatedValue": 19.37,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "sade-promise": {
     "lowestPrice": 10.47,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG+",
+    "estimatedValue": 10.47,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "samson-don-t-get-mad-get-even": {
     "lowestPrice": 2.57,
     "currency": "USD",
     "numForSale": 17,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "scorpions-best-of-scorpions": {
     "lowestPrice": 20.93,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG+",
+    "estimatedValue": 20.93,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "scorpions-best-of-scorpions-vol-2": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "scorpions-sting-in-the-tail": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 26,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "M",
+    "estimatedValue": 27.9,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "sinead-o-connor-i-do-not-want-what-i-haven-t-got": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "sting-the-dream-of-the-blue-turtles": {
     "lowestPrice": 8.14,
     "currency": "USD",
     "numForSale": 10,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "NM",
+    "estimatedValue": 10.99,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "tangerine-dream-quichotte": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "the-alan-parsons-project-ammonia-avenue": {
     "lowestPrice": 8.76,
@@ -525,169 +689,225 @@
     "lowestPrice": 11.17,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 11.17,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "whitesnake-1987": {
     "lowestPrice": 21.5,
     "currency": "USD",
     "numForSale": 61,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "M",
+    "estimatedValue": 34.4,
+    "updatedAt": "2026-09-09T09:29:42.768Z"
   },
   "whitesnake-slip-of-the-tongue": {
     "lowestPrice": 8.6,
     "currency": "USD",
     "numForSale": 5,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "NM",
+    "estimatedValue": 11.61,
+    "updatedAt": "2026-09-09T09:29:42.768Z"
   },
   "yes-90125": {
     "lowestPrice": 8.14,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 8.14,
+    "updatedAt": "2026-09-09T09:29:42.768Z"
   },
   "zz-top-eliminator": {
     "lowestPrice": 17.2,
     "currency": "USD",
     "numForSale": 26,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "M",
+    "estimatedValue": 27.52,
+    "updatedAt": "2026-09-09T09:29:42.768Z"
   },
   "ac-dc-the-razors-edges": {
     "lowestPrice": 26.74,
     "currency": "USD",
     "numForSale": 12,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "M",
+    "estimatedValue": 42.78,
+    "updatedAt": "2026-09-09T09:29:42.758Z"
   },
   "alan-parsons-project-ammonia-avenue": {
     "lowestPrice": 4.65,
     "currency": "USD",
     "numForSale": 52,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "M",
+    "estimatedValue": 7.44,
+    "updatedAt": "2026-09-09T09:29:42.758Z"
   },
   "alan-parsons-project-gaudi": {
     "lowestPrice": 1.16,
     "currency": "USD",
     "numForSale": 11,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "alice-cooper-trash": {
     "lowestPrice": 9.3,
     "currency": "USD",
     "numForSale": 7,
-    "updatedAt": "2026-09-08T17:24:46.021Z"
+    "condition": "VG",
+    "estimatedValue": 6.98,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "beach-boys-spirit-of-america": {
     "lowestPrice": 5.57,
     "currency": "USD",
     "numForSale": 15,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "beatles-blue-album-1967-1970": {
     "lowestPrice": 44.76,
     "currency": "USD",
     "numForSale": 7,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG",
+    "estimatedValue": 33.57,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "billy-joel-the-bridge": {
     "lowestPrice": 12.3,
     "currency": "USD",
     "numForSale": 7,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG",
+    "estimatedValue": 9.23,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "charlie-parker-miles-davis-history-of-jazz": {
     "lowestPrice": 11.98,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 11.98,
+    "updatedAt": "2026-09-09T09:29:42.759Z"
   },
   "chris-de-burgh-man-in-the-line": {
     "lowestPrice": 2.15,
     "currency": "USD",
     "numForSale": 30,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "crusaders-rhapsody-and-blues": {
     "lowestPrice": 0.02,
     "currency": "USD",
     "numForSale": 89,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "david-bowie-chamges-one-bowie": {
     "lowestPrice": 20.92,
     "currency": "USD",
     "numForSale": 5,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "VG+",
+    "estimatedValue": 20.92,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "david-gilmour-rattle-than-lock": {
     "lowestPrice": 14.88,
     "currency": "USD",
     "numForSale": 129,
-    "updatedAt": "2026-09-08T17:24:46.023Z"
+    "condition": "M",
+    "estimatedValue": 23.81,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "electric-light-orchestra-secret-messages": {
     "lowestPrice": 44.13,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG+",
+    "estimatedValue": 44.13,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "eloy-echos-from-the-past": {
     "lowestPrice": 99.42,
     "currency": "USD",
     "numForSale": 3,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "S",
+    "estimatedValue": 218.72,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "eric-clapton": {
     "lowestPrice": 9.3,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.024Z"
+    "condition": "VG",
+    "estimatedValue": 6.98,
+    "updatedAt": "2026-09-09T09:29:42.761Z"
   },
   "kiss-world-the-best-of-the-kiss": {
     "lowestPrice": 25.79,
     "currency": "USD",
     "numForSale": 16,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "M",
+    "estimatedValue": 41.26,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "led-zeppelin-stairway-to-heaven": {
     "lowestPrice": 8.59,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG",
+    "estimatedValue": 6.44,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "led-zeppelin-5": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.025Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "manfred-mann-s-earth-band-solar-fire": {
     "lowestPrice": 3.26,
     "currency": "USD",
     "numForSale": 31,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.763Z"
   },
   "manfred-mann-s-earth-band-the-roaring-silence": {
     "lowestPrice": 2.33,
     "currency": "USD",
     "numForSale": 15,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "rainbow-rainbow-1975-1982": {
     "lowestPrice": 6.92,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG",
+    "estimatedValue": 5.19,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "steve-miller-band-abracadabra": {
     "lowestPrice": 69.59,
     "currency": "USD",
     "numForSale": 1,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 69.59,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "wham-the-final": {
     "lowestPrice": 19.63,
     "currency": "USD",
     "numForSale": 14,
-    "updatedAt": "2026-09-08T17:24:46.029Z"
+    "condition": "VG+",
+    "estimatedValue": 19.63,
+    "updatedAt": "2026-09-09T09:29:42.767Z"
   },
   "chis-rea-the-road-to-hell": {
     "lowestPrice": null,
@@ -699,7 +919,9 @@
     "lowestPrice": 9.3,
     "currency": "USD",
     "numForSale": 8,
-    "updatedAt": "2026-09-08T17:24:46.026Z"
+    "condition": "VG",
+    "estimatedValue": 6.98,
+    "updatedAt": "2026-09-09T09:29:42.764Z"
   },
   "phill-collins-but-seriously": {
     "lowestPrice": 16.34,
@@ -711,18 +933,24 @@
     "lowestPrice": 0.85,
     "currency": "USD",
     "numForSale": 193,
-    "updatedAt": "2026-09-08T17:24:46.028Z"
+    "condition": "VG",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.766Z"
   },
   "chris-rea-the-road-to-hell": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
-    "updatedAt": "2026-09-08T17:24:46.022Z"
+    "condition": "VG+",
+    "estimatedValue": 5,
+    "updatedAt": "2026-09-09T09:29:42.760Z"
   },
   "phil-collins-but-seriously": {
     "lowestPrice": 16.34,
     "currency": "USD",
     "numForSale": 2,
-    "updatedAt": "2026-09-08T17:24:46.027Z"
+    "condition": "VG+",
+    "estimatedValue": 16.34,
+    "updatedAt": "2026-09-09T09:29:42.765Z"
   }
 }
