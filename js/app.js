@@ -482,7 +482,7 @@
     }
 
     function onPointerDown(e) {
-      if (e.target === els.wheelCenter || e.target.classList.contains('wheel-label')) return;
+      if (e.target === els.wheelCenter || e.target.closest('.wheel-label')) return;
       dragging = true;
       els.wheel.classList.add('dragging');
       lastAngle = angleFromEvent(e);
