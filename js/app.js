@@ -108,8 +108,7 @@
 
   function updateTransforms() {
     const spacing = 96;
-    const sideAngle = 62;
-    const sideDepth = -220;
+    const sideSkew = 14;
     const visibleWindow = 10;
 
     coverEls.forEach((el, i) => {
@@ -129,11 +128,11 @@
       let zIndex = 1000 - abs;
 
       if (offset === 0) {
-        transform = 'translateX(0) translateZ(40px) rotateY(0deg) scale(1.08)';
+        transform = 'translateX(0) scale(1.08)';
       } else {
         const dir = offset > 0 ? 1 : -1;
         const x = dir * (spacing * 1.1 + (abs - 1) * spacing * 0.55);
-        transform = `translateX(${x}px) translateZ(${sideDepth}px) rotateY(${-dir * sideAngle}deg) scale(0.82)`;
+        transform = `translateX(${x}px) skewY(${-dir * sideSkew}deg) scale(0.5, 0.82)`;
         if (abs > 5) opacity = Math.max(0, 1 - (abs - 5) / 5);
       }
 

@@ -87,8 +87,6 @@ body {
   overflow: hidden;
   background: linear-gradient(180deg, #eef3ec 0%, #d7e2d6 45%, #c3d1c2 100%);
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.4) inset;
-  perspective: 900px;
-  perspective-origin: 50% 42%;
 }
 
 .status-bar {
@@ -120,7 +118,6 @@ body {
 .stage {
   position: absolute;
   inset: 0;
-  transform-style: preserve-3d;
 }
 
 .search-panel {
@@ -344,9 +341,11 @@ body {
 }
 
 .wheel-label-top { top: 16px; left: 50%; transform: translateX(-50%); }
-.wheel-label-bottom { bottom: 16px; left: 50%; transform: translateX(-50%); font-size: 14px; }
-.wheel-label-left { left: 18px; top: 50%; transform: translateY(-50%); font-size: 14px; }
-.wheel-label-right { right: 18px; top: 50%; transform: translateY(-50%); font-size: 14px; }
+.wheel-label-bottom { bottom: 16px; left: 50%; transform: translateX(-50%); display: flex; }
+.wheel-label-left { left: 18px; top: 50%; transform: translateY(-50%); display: flex; }
+.wheel-label-right { right: 18px; top: 50%; transform: translateY(-50%); display: flex; }
+
+.wheel-label svg { display: block; }
 
 .wheel-center {
   position: absolute;
