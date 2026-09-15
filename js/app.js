@@ -241,8 +241,10 @@
     const currency = price.currency || 'USD';
     const parts = [];
     if (price.estimateSource) {
-      // New multi-source model (Discogs lowest + eBay active-listing average).
-      if (price.estimateSource === 'discogs+ebay') {
+      // New multi-source model (Discogs price_suggestions, or Discogs lowest + eBay active-listing average).
+      if (price.estimateSource === 'discogs-price-suggestions') {
+        parts.push(`Discogs price suggestion for ${price.condition || 'VG+'} grade (real sold-listing data)`);
+      } else if (price.estimateSource === 'discogs+ebay') {
         parts.push(
           `Discogs ${price.lowestPrice.toFixed(2)} + eBay avg ${price.ebayAveragePrice.toFixed(2)} (${price.ebaySampleSize} listings)`
         );
@@ -255,7 +257,12 @@
       } else if (price.estimateSource === 'insufficient-data') {
         parts.push('no listings and no collection baseline yet');
       }
-      if (!price.condition && price.estimateSource !== 'placeholder' && price.estimateSource !== 'insufficient-data') {
+      if (
+        !price.condition &&
+        price.estimateSource !== 'placeholder' &&
+        price.estimateSource !== 'insufficient-data' &&
+        price.estimateSource !== 'discogs-price-suggestions'
+      ) {
         parts.push('unadjusted, no condition set');
       }
     } else if (price.lowestPrice == null) {

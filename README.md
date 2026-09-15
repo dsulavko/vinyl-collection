@@ -11,7 +11,7 @@ index.html, css/style.css, js/app.js   the site
 data/collection.json                    synced from the Sheet (id, artist, album, albumYear, condition, catalogNumber)
 data/details.json                       Discogs tracklist/label/genre/notes, keyed by id
 data/covers.json                        cover image paths, keyed by id
-data/prices.json                        Discogs + eBay blended, condition-adjusted estimate, keyed by id
+data/prices.json                        Discogs price_suggestions (or Discogs+eBay blend), condition-adjusted estimate, keyed by id
 assets/covers/                          downloaded cover images
 scripts/                                the Node scripts each skill runs
 .claude/skills/                         the 4 skills (see below)
@@ -21,7 +21,7 @@ Records are keyed by a stable `id` (slug of artist+album) so re-syncing the shee
 
 ## Setup
 
-1. **Discogs token** (needed for `enrich-details` and `estimate-price`): create a free account at discogs.com, then generate a personal access token at [discogs.com/settings/developers](https://www.discogs.com/settings/developers).
+1. **Discogs token** (needed for `enrich-details` and `estimate-price`): create a free account at discogs.com, then generate a personal access token at [discogs.com/settings/developers](https://www.discogs.com/settings/developers). For `estimate-price` to get real per-condition pricing (rather than falling back to the lowest-listing/eBay blend), also fill out your account's seller settings once — "Sell Music" menu → Settings, on discogs.com — which unlocks the `price_suggestions` endpoint for that token.
 2. **eBay app keys** (optional, used by `estimate-price` for its second price signal): create a free account at [developer.ebay.com](https://developer.ebay.com), create an app, and copy its production **Client ID** and **Client Secret**. No user login/consent flow needed — the script only uses the app-level (client-credentials) grant to search public listings. Without these, `estimate-price` still runs using Discogs alone.
 3. Copy `.env.example` to `.env` and set `DISCOGS_TOKEN=<your token>` (and `EBAY_CLIENT_ID`/`EBAY_CLIENT_SECRET` if you set up eBay). `.env` is gitignored — never commit it.
 4. Requires Node 18+ (uses built-in `fetch`, no `npm install` needed).
@@ -33,11 +33,11 @@ Run these manually from Claude Code whenever the collection changes — nothing 
 - **`/sync-collection`** — pulls the latest Artist/Album/Year rows from the Sheet into `data/collection.json`. Run this first, whenever you edit the Sheet.
 - **`/enrich-details`** — looks up each record on Discogs for tracklist, label, genre, country, notes → `data/details.json`. Run after syncing new records.
 - **`/find-cover`** — downloads the Discogs cover image into `assets/covers/` → `data/covers.json`; falls back to a web image search for anything Discogs has no image for.
-- **`/estimate-price`** — blends Discogs' lowest current listing with an eBay active-listing average (outlier-trimmed), condition-adjusts the result → `data/prices.json`. Run after `enrich-details` (needs the Discogs release id).
+- **`/estimate-price`** — prefers Discogs' real per-condition `price_suggestions` for each record's grade; when that's unavailable for a release, falls back to blending Discogs' lowest current listing with an eBay active-listing average (outlier-trimmed) and a condition multiplier → `data/prices.json`. Run after `enrich-details` (needs the Discogs release id).
 
 Each script can also be run directly, e.g. `node scripts/enrich-details.mjs --only=ac-dc-back-in-black` to test on one record, or `--refresh` to redo everything.
 
-**Note on price data**: neither API exposes real sold-price history for free (Discogs' per-condition pricing needs seller settings; eBay's sold-listing data is invite-only-partner) — both signals are *current asking prices*, not completed sales. `estimate-price` never invents a flat default price: when a record has no listings on either marketplace, it estimates from the rest of the collection's own condition-normalized average instead, and flags that estimate as a placeholder rather than real per-record data.
+**Note on price data**: `price_suggestions` (once seller settings are filled out) gives Discogs' own sold-listing-derived price per condition — real market data, no heuristic. It's not available for every release, though, and eBay's sold-listing data is restricted to its invite-only partner program, so the fallback blend still relies on *current asking prices*, not completed sales. `estimate-price` never invents a flat default price: when a record has no listings on either marketplace and no price_suggestions match, it estimates from the rest of the collection's own condition-normalized average instead, and flags that estimate as a placeholder rather than real per-record data.
 
 ## Viewing the site
 

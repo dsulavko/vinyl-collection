@@ -5,43 +5,64 @@
     "numForSale": 37,
     "ebayAveragePrice": null,
     "ebaySampleSize": 0,
-    "rawBasePrice": 1.4,
-    "estimateSource": "discogs",
+    "discogsPriceSuggestion": 58.11170212765957,
+    "rawBasePrice": 39.76063829787234,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 2.24,
-    "updatedAt": "2026-09-15T09:54:50.665Z"
+    "estimatedValue": 58.11,
+    "updatedAt": "2026-09-15T11:06:04.169Z"
   },
   "nirvana-nevermind": {
     "lowestPrice": 24.48,
     "currency": "USD",
     "numForSale": 11,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 92.9787234042553,
+    "rawBasePrice": 63.617021276595736,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 39.17,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 92.98,
+    "updatedAt": "2026-09-15T11:07:53.401Z"
   },
   "pink-floyd-the-dark-side-of-the-moon": {
     "lowestPrice": 60.2,
     "currency": "USD",
     "numForSale": 14,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 148.569075,
+    "rawBasePrice": 101.652525,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 96.32,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 148.57,
+    "updatedAt": "2026-09-15T11:08:02.018Z"
   },
   "ac-dc-live": {
     "lowestPrice": 28.97,
     "currency": "USD",
     "numForSale": 11,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 56.50862068965516,
+    "rawBasePrice": 38.66379310344827,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 46.35,
-    "updatedAt": "2026-09-09T09:29:42.758Z"
+    "estimatedValue": 56.51,
+    "updatedAt": "2026-09-15T11:06:05.616Z"
   },
   "ac-dc-if-you-want-blood": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 10,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 38.12943262411347,
+    "rawBasePrice": 29.157801418439714,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 23.54,
-    "updatedAt": "2026-09-09T09:29:42.758Z"
+    "estimatedValue": 38.13,
+    "updatedAt": "2026-09-15T11:06:08.470Z"
   },
   "ac-dc-highway-to-hell": {
     "lowestPrice": 15.12,
@@ -49,75 +70,116 @@
     "numForSale": 1,
     "ebayAveragePrice": null,
     "ebaySampleSize": 0,
-    "rawBasePrice": 15.12,
-    "estimateSource": "discogs",
+    "discogsPriceSuggestion": 36.277139208173686,
+    "rawBasePrice": 24.821200510855682,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 24.19,
-    "updatedAt": "2026-09-15T09:54:50.667Z"
+    "estimatedValue": 36.28,
+    "updatedAt": "2026-09-15T11:06:09.880Z"
   },
   "billy-idol-charmed-life": {
     "lowestPrice": 6.98,
     "currency": "USD",
     "numForSale": 5,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 6.064908722109533,
+    "rawBasePrice": 6.064908722109533,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 6.98,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 6.06,
+    "updatedAt": "2026-09-15T11:06:18.372Z"
   },
   "black-sabbath-vol-4": {
     "lowestPrice": 44.51,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 62.369628702544844,
+    "rawBasePrice": 62.369628702544844,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 44.51,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 62.37,
+    "updatedAt": "2026-09-15T11:06:21.206Z"
   },
   "black-sabbath-sabbath-bloody-sabbath": {
     "lowestPrice": 17.18,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 44.85,
+    "rawBasePrice": 44.85,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 17.18,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 44.85,
+    "updatedAt": "2026-09-15T11:06:22.609Z"
   },
   "bryan-ferry-boys-and-girls": {
     "lowestPrice": 3.47,
     "currency": "USD",
     "numForSale": 117,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 39.87988505747126,
+    "rawBasePrice": 30.49638269100744,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 39.88,
+    "updatedAt": "2026-09-15T11:06:24.069Z"
   },
   "cinderella-long-cold-winter": {
     "lowestPrice": 5.81,
     "currency": "USD",
     "numForSale": 9,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 20.216362407031777,
+    "rawBasePrice": 20.216362407031777,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5.81,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 20.22,
+    "updatedAt": "2026-09-15T11:06:29.705Z"
   },
   "coverdale-page-coverdale-page": {
     "lowestPrice": 93.02,
     "currency": "USD",
     "numForSale": 9,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 150.68965517241375,
+    "rawBasePrice": 103.10344827586205,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 148.83,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 150.69,
+    "updatedAt": "2026-09-15T11:06:31.129Z"
   },
   "david-bowie-let-s-dance": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 153,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 35.65233108108107,
+    "rawBasePrice": 27.263547297297293,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 23.54,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 35.65,
+    "updatedAt": "2026-09-15T11:06:33.954Z"
   },
   "david-gilmour-luck-and-strange": {
     "lowestPrice": 0.17,
     "currency": "USD",
     "numForSale": 13,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 100.44721264367813,
+    "rawBasePrice": 68.72704022988505,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "S",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 100.45,
+    "updatedAt": "2026-09-15T11:06:38.243Z"
   },
   "david-knopfler-lips-against-the-steel": {
     "lowestPrice": null,
@@ -125,547 +187,883 @@
     "numForSale": 0,
     "ebayAveragePrice": null,
     "ebaySampleSize": 0,
-    "rawBasePrice": 29.23,
-    "estimateSource": "placeholder",
+    "discogsPriceSuggestion": 9.451149425287355,
+    "rawBasePrice": 9.451149425287355,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 29.23,
-    "updatedAt": "2026-09-15T09:55:15.749Z"
+    "estimatedValue": 9.45,
+    "updatedAt": "2026-09-15T11:06:39.664Z"
   },
   "deep-purple-who-do-we-think-we-are": {
     "lowestPrice": 6.28,
     "currency": "USD",
     "numForSale": 33,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 44.465889114266396,
+    "rawBasePrice": 44.465889114266396,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 6.28,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 44.47,
+    "updatedAt": "2026-09-15T11:06:41.068Z"
   },
   "deep-purple": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 3.4989858012170383,
+    "rawBasePrice": 5.054090601757944,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 3.5,
+    "updatedAt": "2026-09-15T11:06:42.454Z"
   },
   "def-leppard-hysteria": {
     "lowestPrice": 24.08,
     "currency": "USD",
     "numForSale": 72,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 58.19693262411347,
+    "rawBasePrice": 39.81895390070922,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 38.53,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 58.2,
+    "updatedAt": "2026-09-15T11:06:43.905Z"
   },
   "dire-straits-brothers-in-arms": {
     "lowestPrice": 20.87,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 4.9833333333333325,
+    "rawBasePrice": 4.9833333333333325,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 20.87,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 4.98,
+    "updatedAt": "2026-09-15T11:06:45.309Z"
   },
   "dire-straits-love-over-gold": {
     "lowestPrice": 13.13,
     "currency": "USD",
     "numForSale": 3,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 22.44482758620689,
+    "rawBasePrice": 22.44482758620689,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 13.13,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 22.44,
+    "updatedAt": "2026-09-15T11:06:46.702Z"
   },
   "dire-straits-on-every-street": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 45.9885,
+    "rawBasePrice": 45.9885,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 45.99,
+    "updatedAt": "2026-09-15T11:06:48.107Z"
   },
   "dirkschneider-live-back-to-the-roots": {
     "lowestPrice": 80.23,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 37.67241379310344,
+    "rawBasePrice": 25.775862068965512,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "S",
-    "estimatedValue": 176.51,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 37.67,
+    "updatedAt": "2026-09-15T11:06:49.528Z"
   },
   "electric-light-orchestra-time": {
     "lowestPrice": 2.48,
     "currency": "USD",
     "numForSale": 20,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 22.387624999999996,
+    "rawBasePrice": 22.387624999999996,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 22.39,
+    "updatedAt": "2026-09-15T11:06:50.976Z"
   },
   "elton-john-sleeping-with-the-past": {
     "lowestPrice": 3.48,
     "currency": "USD",
     "numForSale": 40,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 6.5490517241379305,
+    "rawBasePrice": 9.459741379310344,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 6.55,
+    "updatedAt": "2026-09-15T11:06:55.204Z"
   },
   "elton-john-the-one": {
     "lowestPrice": 14.53,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 4.928179650238474,
+    "rawBasePrice": 7.11848171701113,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 10.9,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 4.93,
+    "updatedAt": "2026-09-15T11:06:56.630Z"
   },
   "fleetwood-mac-rumours": {
     "lowestPrice": 11.29,
     "currency": "USD",
     "numForSale": 21,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 36.196825,
+    "rawBasePrice": 27.679925,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 15.24,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 36.2,
+    "updatedAt": "2026-09-15T11:06:59.504Z"
   },
   "fleetwood-mac-the-best": {
     "lowestPrice": 4.65,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.025185936443542,
+    "rawBasePrice": 7.025185936443542,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 7.03,
+    "updatedAt": "2026-09-15T11:07:00.916Z"
   },
   "fleetwood-mac-behind-the-mask": {
     "lowestPrice": 6.7,
     "currency": "USD",
     "numForSale": 6,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.757325,
+    "rawBasePrice": 11.205025,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5.03,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 7.76,
+    "updatedAt": "2026-09-15T11:07:02.367Z"
   },
   "foreigner-4": {
     "lowestPrice": 7.63,
     "currency": "USD",
     "numForSale": 9,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 12.887931034482756,
+    "rawBasePrice": 12.887931034482756,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 7.63,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 12.89,
+    "updatedAt": "2026-09-15T11:07:03.831Z"
   },
   "genesis-genesis": {
     "lowestPrice": 16.27,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 17.25,
+    "rawBasePrice": 17.25,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 16.27,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 17.25,
+    "updatedAt": "2026-09-15T11:07:05.243Z"
   },
   "gentle-giant-in-a-glass-house": {
     "lowestPrice": 29.07,
     "currency": "USD",
     "numForSale": 22,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 38.66379310344827,
+    "rawBasePrice": 55.84770114942528,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 21.8,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 38.66,
+    "updatedAt": "2026-09-15T11:07:06.652Z"
   },
   "george-michael-faith": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 9,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 17.49492900608519,
+    "rawBasePrice": 25.27045300878972,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 13.08,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 17.49,
+    "updatedAt": "2026-09-15T11:07:08.099Z"
   },
   "guns-n-roses-appetite-for-destruction": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": null,
+    "rawBasePrice": 29.22,
+    "estimateSource": "placeholder",
     "condition": "M",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 46.75,
+    "updatedAt": "2026-09-15T11:07:09.491Z"
   },
   "guns-n-roses-use-your-illusion-2": {
     "lowestPrice": 20.63,
     "currency": "USD",
     "numForSale": 43,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 53.51064999999999,
+    "rawBasePrice": 36.61255,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 33.01,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 53.51,
+    "updatedAt": "2026-09-15T11:07:10.916Z"
   },
   "guns-n-roses-use-your-illusion-1": {
     "lowestPrice": 27.9,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 73.86747802569302,
+    "rawBasePrice": 50.54090601757944,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 44.64,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 73.87,
+    "updatedAt": "2026-09-15T11:07:12.314Z"
   },
   "iron-maiden-iron-maiden": {
     "lowestPrice": 174.42,
     "currency": "USD",
     "numForSale": 21,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 649.4174324324324,
+    "rawBasePrice": 444.3382432432432,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 279.07,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 649.42,
+    "updatedAt": "2026-09-15T11:07:13.774Z"
   },
   "jimmy-goings-santa-esmeralda-green-talisman": {
     "lowestPrice": 12.54,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 19.272413793103446,
+    "rawBasePrice": 19.272413793103446,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 12.54,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 19.27,
+    "updatedAt": "2026-09-15T11:07:15.176Z"
   },
   "king-crimson-in-the-court-of-the-crimson": {
     "lowestPrice": 19.66,
     "currency": "USD",
     "numForSale": 90,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 50.56089999999999,
+    "rawBasePrice": 34.5943,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "S",
-    "estimatedValue": 43.25,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 50.56,
+    "updatedAt": "2026-09-15T11:07:16.612Z"
   },
   "kiss-dynasty": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": null,
+    "rawBasePrice": 32.08,
+    "estimateSource": "placeholder",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.762Z"
+    "estimatedValue": 32.08,
+    "updatedAt": "2026-09-15T11:07:18.027Z"
   },
   "kiss-unmasked": {
     "lowestPrice": 22.09,
     "currency": "USD",
     "numForSale": 4,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 25.775862068965512,
+    "rawBasePrice": 25.775862068965512,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 22.09,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 25.78,
+    "updatedAt": "2026-09-15T11:07:19.431Z"
   },
   "kiss-destroyer": {
     "lowestPrice": 18.84,
     "currency": "USD",
     "numForSale": 3,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 63.99345335515548,
+    "rawBasePrice": 48.93617021276596,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 25.43,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 63.99,
+    "updatedAt": "2026-09-15T11:07:20.847Z"
   },
   "kiss-love-gun": {
     "lowestPrice": 13.75,
     "currency": "USD",
     "numForSale": 10,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 86.99749999999999,
+    "rawBasePrice": 66.5275,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 18.56,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 87,
+    "updatedAt": "2026-09-15T11:07:22.242Z"
   },
   "krokus-headhunter": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 19.827586206896544,
+    "rawBasePrice": 19.827586206896544,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 17.44,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 19.83,
+    "updatedAt": "2026-09-15T11:07:25.071Z"
   },
   "led-zeppelin-led-zeppelin": {
     "lowestPrice": 4.73,
     "currency": "USD",
     "numForSale": 31,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 79.1470588235294,
+    "rawBasePrice": 114.32352941176471,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 79.15,
+    "updatedAt": "2026-09-15T11:07:26.493Z"
   },
   "led-zeppelin-2": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.137931034482757,
+    "rawBasePrice": 10.310344827586205,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 7.14,
+    "updatedAt": "2026-09-15T11:07:29.313Z"
   },
   "led-zeppelin-4": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 14.870689655172413,
+    "rawBasePrice": 21.479885057471265,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 14.87,
+    "updatedAt": "2026-09-15T11:07:30.728Z"
   },
   "manowar-hail-to-england": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 215.77442827442826,
+    "rawBasePrice": 147.63513513513513,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 215.77,
+    "updatedAt": "2026-09-15T11:07:37.794Z"
   },
   "megadeth-so-far-so-good-so-what": {
     "lowestPrice": 45.16,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 30.834205882352936,
+    "rawBasePrice": 21.097088235294116,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 72.26,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 30.83,
+    "updatedAt": "2026-09-15T11:07:39.217Z"
   },
   "metallica-death-magnetic": {
     "lowestPrice": 18.92,
     "currency": "USD",
     "numForSale": 40,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 60.250747126436764,
+    "rawBasePrice": 41.22419540229884,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 30.27,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 60.25,
+    "updatedAt": "2026-09-15T11:07:40.665Z"
   },
   "metallica-master-of-puppets": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": null,
+    "rawBasePrice": 32.79,
+    "estimateSource": "placeholder",
     "condition": "M",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 52.46,
+    "updatedAt": "2026-09-15T11:07:42.082Z"
   },
   "metallica-ride-the-lightning": {
     "lowestPrice": 109.93,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 118.11409736308315,
+    "rawBasePrice": 80.81490872210952,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 175.89,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 118.11,
+    "updatedAt": "2026-09-15T11:07:43.471Z"
   },
   "metallica-black-album": {
     "lowestPrice": 372.09,
     "currency": "USD",
     "numForSale": 13,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 1092.4453749999998,
+    "rawBasePrice": 747.462625,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 595.34,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 1092.45,
+    "updatedAt": "2026-09-15T11:07:44.901Z"
   },
   "michael-jackson-thriller": {
     "lowestPrice": 11.63,
     "currency": "USD",
     "numForSale": 3,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 1.189655172413793,
+    "rawBasePrice": 1.718390804597701,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 8.72,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 1.19,
+    "updatedAt": "2026-09-15T11:07:46.306Z"
   },
   "moody-blues-collected": {
     "lowestPrice": 34.88,
     "currency": "USD",
     "numForSale": 9,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 105.67567567567566,
+    "rawBasePrice": 80.8108108108108,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 47.09,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 105.68,
+    "updatedAt": "2026-09-15T11:07:47.727Z"
   },
   "nazareth-the-fool-circle": {
     "lowestPrice": 18.05,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 25.767270114942527,
+    "rawBasePrice": 25.767270114942527,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 18.05,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 25.77,
+    "updatedAt": "2026-09-15T11:07:49.136Z"
   },
   "nick-cave-and-the-bad-seeds-murder-ballads": {
     "lowestPrice": 24.77,
     "currency": "USD",
     "numForSale": 61,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 59.06054999999999,
+    "rawBasePrice": 40.40985,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 39.63,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 59.06,
+    "updatedAt": "2026-09-15T11:07:50.572Z"
   },
   "nick-mason-fictitious-sports": {
     "lowestPrice": 11.63,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 10.496957403651114,
+    "rawBasePrice": 15.162271805273832,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 8.72,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 10.5,
+    "updatedAt": "2026-09-15T11:07:51.962Z"
   },
   "ozzy-osbourne-diary-of-a-madman": {
     "lowestPrice": 30.22,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 24.457910750507104,
+    "rawBasePrice": 35.32809330628804,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 22.67,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 24.46,
+    "updatedAt": "2026-09-15T11:07:54.906Z"
   },
   "pink-floyd-a-momentary-lapse-of-reason": {
     "lowestPrice": 11.63,
     "currency": "USD",
     "numForSale": 27,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 20.216362407031777,
+    "rawBasePrice": 20.216362407031777,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 11.63,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 20.22,
+    "updatedAt": "2026-09-15T11:07:57.775Z"
   },
   "pink-floyd-the-piper-at-the-gates-of-dawn": {
     "lowestPrice": 20.64,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 54.62499999999999,
+    "rawBasePrice": 37.375,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "S",
-    "estimatedValue": 45.41,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 54.62,
+    "updatedAt": "2026-09-15T11:07:59.187Z"
   },
   "pink-floyd-delicate-sound-of-thunder-live": {
     "lowestPrice": 21.62,
     "currency": "USD",
     "numForSale": 5,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 17.082826233941848,
+    "rawBasePrice": 17.082826233941848,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 21.62,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 17.08,
+    "updatedAt": "2026-09-15T11:08:00.600Z"
   },
   "pink-floyd-animals": {
     "lowestPrice": 20.64,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 54.62499999999999,
+    "rawBasePrice": 37.375,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 33.02,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 54.62,
+    "updatedAt": "2026-09-15T11:08:00.602Z"
   },
   "pink-floyd-wish-you-were-here": {
     "lowestPrice": 6.98,
     "currency": "USD",
     "numForSale": 58,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 30.324543610547664,
+    "rawBasePrice": 30.324543610547664,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 6.98,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 30.32,
+    "updatedAt": "2026-09-15T11:08:03.463Z"
   },
   "pink-floyd-a-foot-in-the-door-the-best-of-pink-floyd": {
     "lowestPrice": 25.8,
     "currency": "USD",
     "numForSale": 56,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 49.52302499999999,
+    "rawBasePrice": 33.884175,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 41.28,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 49.52,
+    "updatedAt": "2026-09-15T11:08:04.900Z"
   },
   "pink-floyd-the-endles-river": {
     "lowestPrice": 18.92,
     "currency": "USD",
     "numForSale": 21,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 65.97814189189188,
+    "rawBasePrice": 45.142939189189185,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 30.27,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 65.98,
+    "updatedAt": "2026-09-15T11:08:06.301Z"
   },
   "pink-floyd-the-wall": {
     "lowestPrice": 18.06,
     "currency": "USD",
     "numForSale": 85,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 66.28197499999999,
+    "rawBasePrice": 45.350825,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 28.9,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 66.28,
+    "updatedAt": "2026-09-15T11:08:07.889Z"
   },
   "pink-floyd-atom-heart-mother": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": null,
+    "rawBasePrice": 37.3,
+    "estimateSource": "placeholder",
     "condition": "S",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 82.06,
+    "updatedAt": "2026-09-15T11:08:09.304Z"
   },
   "pink-floyd-division-bell": {
     "lowestPrice": 17.2,
     "currency": "USD",
     "numForSale": 41,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 55.616379310344826,
+    "rawBasePrice": 42.5301724137931,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 23.22,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 55.62,
+    "updatedAt": "2026-09-15T11:08:10.732Z"
   },
   "pink-floyd-meddle": {
     "lowestPrice": 58.13,
     "currency": "USD",
     "numForSale": 5,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 226.03448275862064,
+    "rawBasePrice": 154.65517241379308,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 93.01,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 226.03,
+    "updatedAt": "2026-09-15T11:08:12.133Z"
   },
   "pink-floyd-the-final-cut": {
     "lowestPrice": 5.81,
     "currency": "USD",
     "numForSale": 18,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 32.720375,
+    "rawBasePrice": 22.387624999999996,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 9.3,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 32.72,
+    "updatedAt": "2026-09-15T11:08:13.525Z"
   },
   "pink-floyd-1967-1968": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 18.1947261663286,
+    "rawBasePrice": 18.1947261663286,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 18.19,
+    "updatedAt": "2026-09-15T11:08:14.919Z"
   },
   "queen-live-magic": {
     "lowestPrice": 33.54,
     "currency": "USD",
     "numForSale": 7,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 34.29705882352941,
+    "rawBasePrice": 34.29705882352941,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 33.54,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 34.3,
+    "updatedAt": "2026-09-15T11:08:16.323Z"
   },
   "roxette-joyride": {
     "lowestPrice": 5.76,
     "currency": "USD",
     "numForSale": 28,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 23.19827586206896,
+    "rawBasePrice": 33.50862068965517,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 23.2,
+    "updatedAt": "2026-09-15T11:08:20.615Z"
   },
   "sade-diamond-life": {
     "lowestPrice": 19.37,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.353783783783784,
+    "rawBasePrice": 7.353783783783784,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 19.37,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 7.35,
+    "updatedAt": "2026-09-15T11:08:22.052Z"
   },
   "sade-promise": {
     "lowestPrice": 10.47,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 14.520402298850572,
+    "rawBasePrice": 14.520402298850572,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 10.47,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 14.52,
+    "updatedAt": "2026-09-15T11:08:23.494Z"
   },
   "samson-don-t-get-mad-get-even": {
     "lowestPrice": 2.57,
     "currency": "USD",
     "numForSale": 17,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.732758620689655,
+    "rawBasePrice": 7.732758620689655,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 7.73,
+    "updatedAt": "2026-09-15T11:08:24.900Z"
   },
   "scorpions-best-of-scorpions": {
     "lowestPrice": 20.93,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 30.31443542934415,
+    "rawBasePrice": 30.31443542934415,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 20.93,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 30.31,
+    "updatedAt": "2026-09-15T11:08:26.304Z"
   },
   "scorpions-best-of-scorpions-vol-2": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 8.969999999999999,
+    "rawBasePrice": 8.969999999999999,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 8.97,
+    "updatedAt": "2026-09-15T11:08:27.731Z"
   },
   "scorpions-sting-in-the-tail": {
     "lowestPrice": 17.44,
     "currency": "USD",
     "numForSale": 26,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 41.51499999999999,
+    "rawBasePrice": 28.404999999999998,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 27.9,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 41.51,
+    "updatedAt": "2026-09-15T11:08:29.169Z"
   },
   "sinead-o-connor-i-do-not-want-what-i-haven-t-got": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 8.591954022988505,
+    "rawBasePrice": 8.591954022988505,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 8.59,
+    "updatedAt": "2026-09-15T11:08:30.579Z"
   },
   "sting-the-dream-of-the-blue-turtles": {
     "lowestPrice": 8.14,
     "currency": "USD",
     "numForSale": 10,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 11.494252873563218,
+    "rawBasePrice": 8.78972278566599,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 10.99,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 11.49,
+    "updatedAt": "2026-09-15T11:08:33.383Z"
   },
   "tangerine-dream-quichotte": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 13.121655405405404,
+    "rawBasePrice": 13.121655405405404,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 13.12,
+    "updatedAt": "2026-09-15T11:08:34.775Z"
   },
   "the-alan-parsons-project-ammonia-avenue": {
     "lowestPrice": 8.76,
@@ -701,225 +1099,365 @@
     "lowestPrice": 11.17,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 74.73505,
+    "rawBasePrice": 74.73505,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 11.17,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 74.74,
+    "updatedAt": "2026-09-15T11:08:36.176Z"
   },
   "whitesnake-1987": {
     "lowestPrice": 21.5,
     "currency": "USD",
     "numForSale": 61,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 58.70002499999999,
+    "rawBasePrice": 40.163174999999995,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 34.4,
-    "updatedAt": "2026-09-09T09:29:42.768Z"
+    "estimatedValue": 58.7,
+    "updatedAt": "2026-09-15T11:08:39.014Z"
   },
   "whitesnake-slip-of-the-tongue": {
     "lowestPrice": 8.6,
     "currency": "USD",
     "numForSale": 5,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 14.6625,
+    "rawBasePrice": 11.2125,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "NM",
-    "estimatedValue": 11.61,
-    "updatedAt": "2026-09-09T09:29:42.768Z"
+    "estimatedValue": 14.66,
+    "updatedAt": "2026-09-15T11:08:40.417Z"
   },
   "yes-90125": {
     "lowestPrice": 8.14,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 23.756001589825118,
+    "rawBasePrice": 23.756001589825118,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 8.14,
-    "updatedAt": "2026-09-09T09:29:42.768Z"
+    "estimatedValue": 23.76,
+    "updatedAt": "2026-09-15T11:08:41.856Z"
   },
   "zz-top-eliminator": {
     "lowestPrice": 17.2,
     "currency": "USD",
     "numForSale": 26,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 42.054971264367815,
+    "rawBasePrice": 28.774454022988508,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 27.52,
-    "updatedAt": "2026-09-09T09:29:42.768Z"
+    "estimatedValue": 42.05,
+    "updatedAt": "2026-09-15T11:08:43.279Z"
   },
   "ac-dc-the-razors-edges": {
     "lowestPrice": 26.74,
     "currency": "USD",
     "numForSale": 12,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 31.016074999999997,
+    "rawBasePrice": 21.221525,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 42.78,
-    "updatedAt": "2026-09-09T09:29:42.758Z"
+    "estimatedValue": 31.02,
+    "updatedAt": "2026-09-15T11:06:07.061Z"
   },
   "alan-parsons-project-ammonia-avenue": {
     "lowestPrice": 4.65,
     "currency": "USD",
     "numForSale": 52,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 31.39367816091954,
+    "rawBasePrice": 21.479885057471265,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 7.44,
-    "updatedAt": "2026-09-09T09:29:42.758Z"
+    "estimatedValue": 31.39,
+    "updatedAt": "2026-09-15T11:06:11.314Z"
   },
   "alan-parsons-project-gaudi": {
     "lowestPrice": 1.16,
     "currency": "USD",
     "numForSale": 11,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 6.882352941176471,
+    "rawBasePrice": 6.882352941176471,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 6.88,
+    "updatedAt": "2026-09-15T11:06:12.719Z"
   },
   "alice-cooper-trash": {
     "lowestPrice": 9.3,
     "currency": "USD",
     "numForSale": 7,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 12.937499999999998,
+    "rawBasePrice": 18.6875,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 6.98,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 12.94,
+    "updatedAt": "2026-09-15T11:06:14.146Z"
   },
   "beach-boys-spirit-of-america": {
     "lowestPrice": 5.57,
     "currency": "USD",
     "numForSale": 15,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.1081896551724135,
+    "rawBasePrice": 10.267385057471264,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 7.11,
+    "updatedAt": "2026-09-15T11:06:15.556Z"
   },
   "beatles-blue-album-1967-1970": {
     "lowestPrice": 44.76,
     "currency": "USD",
     "numForSale": 7,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 34.98985801217038,
+    "rawBasePrice": 50.54090601757944,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 33.57,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 34.99,
+    "updatedAt": "2026-09-15T11:06:16.987Z"
   },
   "billy-joel-the-bridge": {
     "lowestPrice": 12.3,
     "currency": "USD",
     "numForSale": 7,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 20.7,
+    "rawBasePrice": 29.900000000000002,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 9.23,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 20.7,
+    "updatedAt": "2026-09-15T11:06:19.781Z"
   },
   "charlie-parker-miles-davis-history-of-jazz": {
     "lowestPrice": 11.98,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 10.411426639621364,
+    "rawBasePrice": 10.411426639621364,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 11.98,
-    "updatedAt": "2026-09-09T09:29:42.759Z"
+    "estimatedValue": 10.41,
+    "updatedAt": "2026-09-15T11:06:25.469Z"
   },
   "chris-de-burgh-man-in-the-line": {
     "lowestPrice": 2.15,
     "currency": "USD",
     "numForSale": 30,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 5.054090601757944,
+    "rawBasePrice": 5.054090601757944,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 5.05,
+    "updatedAt": "2026-09-15T11:06:28.260Z"
   },
   "crusaders-rhapsody-and-blues": {
     "lowestPrice": 0.02,
     "currency": "USD",
     "numForSale": 89,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 17.57944557133198,
+    "rawBasePrice": 17.57944557133198,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 17.58,
+    "updatedAt": "2026-09-15T11:06:32.532Z"
   },
   "david-bowie-chamges-one-bowie": {
     "lowestPrice": 20.92,
     "currency": "USD",
     "numForSale": 5,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 24.057471264367813,
+    "rawBasePrice": 24.057471264367813,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 20.92,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 24.06,
+    "updatedAt": "2026-09-15T11:06:35.386Z"
   },
   "david-gilmour-rattle-than-lock": {
     "lowestPrice": 14.88,
     "currency": "USD",
     "numForSale": 129,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 57.19928160919539,
+    "rawBasePrice": 39.13635057471264,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 23.81,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 57.2,
+    "updatedAt": "2026-09-15T11:06:36.831Z"
   },
   "electric-light-orchestra-secret-messages": {
     "lowestPrice": 44.13,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 40.432724814063555,
+    "rawBasePrice": 40.432724814063555,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 44.13,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 40.43,
+    "updatedAt": "2026-09-15T11:06:52.383Z"
   },
   "eloy-echos-from-the-past": {
     "lowestPrice": 99.42,
     "currency": "USD",
     "numForSale": 3,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 150.68965517241375,
+    "rawBasePrice": 103.10344827586205,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "S",
-    "estimatedValue": 218.72,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 150.69,
+    "updatedAt": "2026-09-15T11:06:53.790Z"
   },
   "eric-clapton": {
     "lowestPrice": 9.3,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 5.598377281947261,
+    "rawBasePrice": 8.086544962812711,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 6.98,
-    "updatedAt": "2026-09-09T09:29:42.761Z"
+    "estimatedValue": 5.6,
+    "updatedAt": "2026-09-15T11:06:58.056Z"
   },
   "kiss-world-the-best-of-the-kiss": {
     "lowestPrice": 25.79,
     "currency": "USD",
     "numForSale": 16,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 62.77479885057471,
+    "rawBasePrice": 42.95117816091954,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "M",
-    "estimatedValue": 41.26,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 62.77,
+    "updatedAt": "2026-09-15T11:07:23.656Z"
   },
   "led-zeppelin-stairway-to-heaven": {
     "lowestPrice": 8.59,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 16.454689984101748,
+    "rawBasePrice": 23.76788553259141,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 6.44,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 16.45,
+    "updatedAt": "2026-09-15T11:07:27.901Z"
   },
   "led-zeppelin-5": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 7.732758620689655,
+    "rawBasePrice": 11.169540229885056,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 7.73,
+    "updatedAt": "2026-09-15T11:07:32.138Z"
   },
   "manfred-mann-s-earth-band-solar-fire": {
     "lowestPrice": 3.26,
     "currency": "USD",
     "numForSale": 31,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 14.151453684922243,
+    "rawBasePrice": 14.151453684922243,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.763Z"
+    "estimatedValue": 14.15,
+    "updatedAt": "2026-09-15T11:07:33.553Z"
   },
   "manfred-mann-s-earth-band-the-roaring-silence": {
     "lowestPrice": 2.33,
     "currency": "USD",
     "numForSale": 15,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 16.173089925625423,
+    "rawBasePrice": 16.173089925625423,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "estimatedValue": 16.17,
+    "updatedAt": "2026-09-15T11:07:36.395Z"
   },
   "rainbow-rainbow-1975-1982": {
     "lowestPrice": 6.92,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 9.151193633952253,
+    "rawBasePrice": 13.218390804597698,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5.19,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 9.15,
+    "updatedAt": "2026-09-15T11:08:17.748Z"
   },
   "steve-miller-band-abracadabra": {
     "lowestPrice": 69.59,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 60.497464503042586,
+    "rawBasePrice": 60.497464503042586,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 69.59,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 60.5,
+    "updatedAt": "2026-09-15T11:08:31.982Z"
   },
   "wham-the-final": {
     "lowestPrice": 19.63,
     "currency": "USD",
     "numForSale": 14,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 33.13057471264368,
+    "rawBasePrice": 33.13057471264368,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 19.63,
-    "updatedAt": "2026-09-09T09:29:42.767Z"
+    "estimatedValue": 33.13,
+    "updatedAt": "2026-09-15T11:08:37.591Z"
   },
   "chis-rea-the-road-to-hell": {
     "lowestPrice": null,
@@ -931,9 +1469,14 @@
     "lowestPrice": 9.3,
     "currency": "USD",
     "numForSale": 8,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 6.983275862068965,
+    "rawBasePrice": 10.086954022988504,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
     "estimatedValue": 6.98,
-    "updatedAt": "2026-09-09T09:29:42.764Z"
+    "updatedAt": "2026-09-15T11:07:34.986Z"
   },
   "phill-collins-but-seriously": {
     "lowestPrice": 16.34,
@@ -945,24 +1488,39 @@
     "lowestPrice": 0.85,
     "currency": "USD",
     "numForSale": 193,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 23.787155172413794,
+    "rawBasePrice": 34.35922413793104,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.766Z"
+    "estimatedValue": 23.79,
+    "updatedAt": "2026-09-15T11:08:19.211Z"
   },
   "chris-rea-the-road-to-hell": {
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 9.012959770114943,
+    "rawBasePrice": 9.012959770114943,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 9.01,
+    "updatedAt": "2026-09-15T11:06:26.862Z"
   },
   "phil-collins-but-seriously": {
     "lowestPrice": 16.34,
     "currency": "USD",
     "numForSale": 2,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "discogsPriceSuggestion": 15.121839080459766,
+    "rawBasePrice": 15.121839080459766,
+    "estimateSource": "discogs-price-suggestions",
     "condition": "VG+",
-    "estimatedValue": 16.34,
-    "updatedAt": "2026-09-09T09:29:42.765Z"
+    "estimatedValue": 15.12,
+    "updatedAt": "2026-09-15T11:07:56.319Z"
   }
 }

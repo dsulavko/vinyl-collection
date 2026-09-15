@@ -18,11 +18,11 @@ const CURRENCY = 'USD';
 const EBAY_WEIGHT = 0.7;
 const DISCOGS_WEIGHT = 0.3;
 
-// Neither API's free tier exposes real per-condition sold-price data (Discogs'
-// price_suggestions needs seller settings; eBay's sold-price history is
-// invite-only-partner). This heuristic multiplier, anchored at VG+ = 1.0 (a
-// commonly-assumed typical marketplace-listing grade), approximates it from
-// what both APIs do expose for free: current listing prices.
+// Fallback only: used when Discogs' price_suggestions endpoint has no data for
+// a release (or the account loses seller-settings access), approximating
+// condition adjustment from what both APIs expose for free: current listing
+// prices. Anchored at VG+ = 1.0 (a commonly-assumed typical marketplace-listing
+// grade).
 const CONDITION_MULTIPLIERS = {
   S: 2.2, // Sealed
   M: 1.6, // Mint
@@ -66,6 +66,37 @@ function normalizeCondition(raw) {
 
 function multiplierFor(condition) {
   return condition ? CONDITION_MULTIPLIERS[condition] : 1;
+}
+
+// Discogs' price_suggestions endpoint keys its response by full Goldmine grade
+// names. It has no distinct "Sealed" grade, so Sealed copies use the Mint
+// suggestion (the closest real data point Discogs offers for that grade).
+const GRADE_TO_SUGGESTION_KEY = {
+  S: 'Mint (M)',
+  M: 'Mint (M)',
+  NM: 'Near Mint (NM or M-)',
+  'VG+': 'Very Good Plus (VG+)',
+  VG: 'Very Good (VG)',
+  'G+': 'Good Plus (G+)',
+  G: 'Good (G)',
+  F: 'Fair (F)',
+  P: 'Poor (P)',
+};
+
+function suggestionValueFor(suggestions, condition) {
+  if (!suggestions) return null;
+  const key = GRADE_TO_SUGGESTION_KEY[condition ?? 'VG+'];
+  const entry = suggestions[key];
+  return entry && typeof entry.value === 'number' ? entry.value : null;
+}
+
+// The VG+ figure from the same suggestions payload, used as the record's
+// pre-condition anchor value so it stays comparable to other rawBasePrice
+// entries when seeding the collection-average baseline.
+function vgPlusAnchorFrom(suggestions) {
+  if (!suggestions) return null;
+  const entry = suggestions[GRADE_TO_SUGGESTION_KEY['VG+']];
+  return entry && typeof entry.value === 'number' ? entry.value : null;
 }
 
 function round2(n) {
@@ -147,6 +178,26 @@ async function fetchDiscogsStats(releaseId, token) {
   return { lowestPrice: extractLowestPrice(stats), numForSale: stats.num_for_sale ?? 0 };
 }
 
+// Real per-condition pricing derived from Discogs' own sold-listing history —
+// far better than any heuristic multiplier, but only available once the
+// token holder's account has seller settings filled out. Cached per release
+// (in case the collection has two copies of the same release) so a repeat
+// only costs one lookup, and rate-limited the same as every other Discogs call.
+const priceSuggestionsCache = new Map();
+
+async function getPriceSuggestions(releaseId, token) {
+  if (priceSuggestionsCache.has(releaseId)) return priceSuggestionsCache.get(releaseId);
+  let suggestions = null;
+  try {
+    suggestions = await discogsFetch(`https://api.discogs.com/marketplace/price_suggestions/${releaseId}`, token);
+  } catch {
+    suggestions = null;
+  }
+  await sleep(DISCOGS_REQUEST_DELAY_MS);
+  priceSuggestionsCache.set(releaseId, suggestions);
+  return suggestions;
+}
+
 function tryGetEbayCredentials() {
   try {
     return { clientId: requireEnv('EBAY_CLIENT_ID'), clientSecret: requireEnv('EBAY_CLIENT_SECRET') };
@@ -213,12 +264,31 @@ async function main() {
   const baselineValues = seedBaselineValues(prices);
 
   let discogsToken = null;
-  const counts = { 'discogs+ebay': 0, ebay: 0, discogs: 0, placeholder: 0, 'insufficient-data': 0 };
+  const counts = {
+    'discogs-price-suggestions': 0,
+    'discogs+ebay': 0,
+    ebay: 0,
+    discogs: 0,
+    placeholder: 0,
+    'insufficient-data': 0,
+  };
   let failed = 0;
 
   for (const record of targets) {
     const detail = details[record.id];
     try {
+      discogsToken = discogsToken || requireEnv('DISCOGS_TOKEN');
+
+      const condition = normalizeCondition(record.condition);
+      const multiplier = multiplierFor(condition);
+
+      // Best signal: Discogs' own per-condition sold-listing suggestion for
+      // this release, matched to the record's own grade — real market data,
+      // no heuristic multiplier needed. Only available once seller settings
+      // are filled out, and not every release has enough sold history for it.
+      const suggestions = await getPriceSuggestions(detail.discogsReleaseId, discogsToken);
+      const suggestionValue = suggestionValueFor(suggestions, condition);
+
       let discogsLowest;
       let numForSale;
       if ('lowestPrice' in detail) {
@@ -226,7 +296,6 @@ async function main() {
         discogsLowest = detail.lowestPrice;
         numForSale = detail.numForSale ?? 0;
       } else {
-        discogsToken = discogsToken || requireEnv('DISCOGS_TOKEN');
         ({ lowestPrice: discogsLowest, numForSale } = await fetchDiscogsStats(detail.discogsReleaseId, discogsToken));
       }
 
@@ -240,12 +309,12 @@ async function main() {
         }
       }
 
-      const condition = normalizeCondition(record.condition);
-      const multiplier = multiplierFor(condition);
-
       let rawBasePrice = null;
       let estimateSource = null;
-      if (ebayAverage != null && discogsLowest != null) {
+      if (suggestionValue != null) {
+        rawBasePrice = vgPlusAnchorFrom(suggestions) ?? suggestionValue;
+        estimateSource = 'discogs-price-suggestions';
+      } else if (ebayAverage != null && discogsLowest != null) {
         rawBasePrice = round2(ebayAverage * EBAY_WEIGHT + discogsLowest * DISCOGS_WEIGHT);
         estimateSource = 'discogs+ebay';
       } else if (ebayAverage != null) {
@@ -257,7 +326,16 @@ async function main() {
       }
 
       let estimatedValue;
-      if (rawBasePrice != null) {
+      if (estimateSource === 'discogs-price-suggestions') {
+        // Already condition-specific — no multiplier to apply on top.
+        estimatedValue = round2(suggestionValue);
+        baselineValues.push(rawBasePrice);
+        counts[estimateSource] += 1;
+        console.log(
+          `  ok   ${record.artist} — ${record.album}: ${estimatedValue} ${CURRENCY} est. ` +
+            `(discogs price_suggestions${condition ? `, ${condition}` : ', VG+ default'})`
+        );
+      } else if (rawBasePrice != null) {
         estimatedValue = Math.max(0.01, round2(rawBasePrice * multiplier));
         baselineValues.push(rawBasePrice);
         counts[estimateSource] += 1;
@@ -291,6 +369,7 @@ async function main() {
         numForSale: numForSale ?? 0,
         ebayAveragePrice: ebayAverage,
         ebaySampleSize,
+        discogsPriceSuggestion: suggestionValue,
         rawBasePrice,
         estimateSource,
         condition,
@@ -305,8 +384,9 @@ async function main() {
   }
 
   console.log(
-    `Done. discogs+ebay ${counts['discogs+ebay']}, ebay-only ${counts.ebay}, discogs-only ${counts.discogs}, ` +
-      `placeholder ${counts.placeholder}, insufficient-data ${counts['insufficient-data']}, failed ${failed}.`
+    `Done. discogs-price-suggestions ${counts['discogs-price-suggestions']}, discogs+ebay ${counts['discogs+ebay']}, ` +
+      `ebay-only ${counts.ebay}, discogs-only ${counts.discogs}, placeholder ${counts.placeholder}, ` +
+      `insufficient-data ${counts['insufficient-data']}, failed ${failed}.`
   );
 }
 
