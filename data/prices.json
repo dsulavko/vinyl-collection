@@ -3,9 +3,13 @@
     "lowestPrice": 1.4,
     "currency": "USD",
     "numForSale": 37,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "rawBasePrice": 1.4,
+    "estimateSource": "discogs",
     "condition": "M",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.757Z"
+    "estimatedValue": 2.24,
+    "updatedAt": "2026-09-15T09:54:50.665Z"
   },
   "nirvana-nevermind": {
     "lowestPrice": 24.48,
@@ -43,9 +47,13 @@
     "lowestPrice": 15.12,
     "currency": "USD",
     "numForSale": 1,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "rawBasePrice": 15.12,
+    "estimateSource": "discogs",
     "condition": "M",
     "estimatedValue": 24.19,
-    "updatedAt": "2026-09-09T09:29:42.758Z"
+    "updatedAt": "2026-09-15T09:54:50.667Z"
   },
   "billy-idol-charmed-life": {
     "lowestPrice": 6.98,
@@ -115,9 +123,13 @@
     "lowestPrice": null,
     "currency": "USD",
     "numForSale": 0,
+    "ebayAveragePrice": null,
+    "ebaySampleSize": 0,
+    "rawBasePrice": 29.23,
+    "estimateSource": "placeholder",
     "condition": "VG+",
-    "estimatedValue": 5,
-    "updatedAt": "2026-09-09T09:29:42.760Z"
+    "estimatedValue": 29.23,
+    "updatedAt": "2026-09-15T09:55:15.749Z"
   },
   "deep-purple-who-do-we-think-we-are": {
     "lowestPrice": 6.28,

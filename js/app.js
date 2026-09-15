@@ -240,7 +240,26 @@
     if (!price) return '';
     const currency = price.currency || 'USD';
     const parts = [];
-    if (price.lowestPrice == null) {
+    if (price.estimateSource) {
+      // New multi-source model (Discogs lowest + eBay active-listing average).
+      if (price.estimateSource === 'discogs+ebay') {
+        parts.push(
+          `Discogs ${price.lowestPrice.toFixed(2)} + eBay avg ${price.ebayAveragePrice.toFixed(2)} (${price.ebaySampleSize} listings)`
+        );
+      } else if (price.estimateSource === 'ebay') {
+        parts.push(`eBay avg ${price.ebayAveragePrice.toFixed(2)} ${currency} (${price.ebaySampleSize} listings, no Discogs listing)`);
+      } else if (price.estimateSource === 'discogs') {
+        parts.push(`Discogs lowest ${price.lowestPrice.toFixed(2)} ${currency} (single listing, no eBay match)`);
+      } else if (price.estimateSource === 'placeholder') {
+        parts.push('no listings found — collection-average estimate');
+      } else if (price.estimateSource === 'insufficient-data') {
+        parts.push('no listings and no collection baseline yet');
+      }
+      if (!price.condition && price.estimateSource !== 'placeholder' && price.estimateSource !== 'insufficient-data') {
+        parts.push('unadjusted, no condition set');
+      }
+    } else if (price.lowestPrice == null) {
+      // Legacy entry from before the multi-source model, not yet refreshed.
       parts.push('no current listings — default estimate');
     } else if (price.condition) {
       parts.push(`Discogs lowest ${price.lowestPrice.toFixed(2)} ${currency}`);
