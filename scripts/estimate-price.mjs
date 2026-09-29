@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { REPO_ROOT, requireEnv } from './lib/env.mjs';
-import { getAccessToken as getEbayAccessToken, searchListingPrices } from './lib/ebay.mjs';
+import { getAccessToken as getEbayAccessToken, searchListingPrices, isSandboxClientId } from './lib/ebay.mjs';
 
 const COLLECTION_PATH = path.join(REPO_ROOT, 'data', 'collection.json');
 const DETAILS_PATH = path.join(REPO_ROOT, 'data', 'details.json');
@@ -211,8 +211,9 @@ function tryGetEbayCredentials() {
 // eBay's invite-only partner program.
 async function fetchEbayAverage(record, credentials) {
   const token = await getEbayAccessToken(credentials.clientId, credentials.clientSecret);
+  const sandbox = isSandboxClientId(credentials.clientId);
   const query = `${record.artist} ${record.album} vinyl`;
-  const listings = await searchListingPrices(query, token);
+  const listings = await searchListingPrices(query, token, { artist: record.artist, album: record.album, sandbox });
   await sleep(EBAY_REQUEST_DELAY_MS);
   return { average: averagePrices(listings.map((l) => l.price)), sampleSize: listings.length };
 }
@@ -259,6 +260,11 @@ async function main() {
   const ebayCredentials = tryGetEbayCredentials();
   if (!ebayCredentials) {
     console.log('  (EBAY_CLIENT_ID/EBAY_CLIENT_SECRET not set — using Discogs-only signal; see .env.example)');
+  } else if (isSandboxClientId(ebayCredentials.clientId)) {
+    console.log(
+      '  (EBAY_CLIENT_ID is a Sandbox keyset — eBay Sandbox only has fake test listings, so real vinyl ' +
+        'searches will return ~0 relevant results. Swap in a Production keyset for real eBay pricing.)'
+    );
   }
 
   const baselineValues = seedBaselineValues(prices);
