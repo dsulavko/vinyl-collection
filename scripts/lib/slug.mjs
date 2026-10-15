@@ -7,7 +7,7 @@ const CYRILLIC_TO_LATIN = {
   щ: 'shch', ъ: '', ы: 'y', ь: '', э: 'e', ю: 'yu', я: 'ya', і: 'i', ў: 'u',
 };
 
-function transliterate(text) {
+export function transliterate(text) {
   return text.replace(/[а-яёіў]/gi, (ch) => {
     const lower = ch.toLowerCase();
     const mapped = CYRILLIC_TO_LATIN[lower];

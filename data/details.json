@@ -11153,47 +11153,90 @@
     "updatedAt": "2026-10-15T10:25:04.561Z"
   },
   "dyuna-the-best": {
-    "discogsReleaseId": 3251849,
-    "discogsUrl": "https://www.discogs.com/release/3251849-Philip-Glass-Itaipu-The-Canyon",
-    "matchedBy": "barcode",
-    "label": "Sony Classical",
+    "discogsReleaseId": 2784167,
+    "discogsUrl": "https://www.discogs.com/release/2784167-Дюна-The-Best",
+    "matchedBy": "text",
+    "label": "Sintez Records",
     "genres": [
-      "Classical"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Contemporary"
+      "Pop Rock",
+      "Synth-pop"
     ],
-    "country": "Europe",
-    "released": "2003",
+    "country": "USSR",
+    "released": "1991",
     "tracklist": [
       {
-        "position": "5",
-        "title": "The Canyon",
-        "duration": "16:33"
+        "position": "A1",
+        "title": "Блонда",
+        "duration": null
+      },
+      {
+        "position": "A2",
+        "title": "Привет С Большого Бодуна",
+        "duration": null
+      },
+      {
+        "position": "A3",
+        "title": "Добрый День, Дружок!",
+        "duration": null
+      },
+      {
+        "position": "A4",
+        "title": "Деревня",
+        "duration": null
+      },
+      {
+        "position": "A5",
+        "title": "Копилка",
+        "duration": null
+      },
+      {
+        "position": "A6",
+        "title": "Дай-дай",
+        "duration": null
+      },
+      {
+        "position": "B1",
+        "title": "Фирма",
+        "duration": null
+      },
+      {
+        "position": "B2",
+        "title": "Лимон",
+        "duration": null
+      },
+      {
+        "position": "B3",
+        "title": "Русский Народ",
+        "duration": null
+      },
+      {
+        "position": "B4",
+        "title": "Долгопа-ломбада",
+        "duration": null
+      },
+      {
+        "position": "B5",
+        "title": "Пижон",
+        "duration": null
       }
     ],
-    "notes": "Produced for Euphorbia Productions, Ltd., New York City\nRecorded at Symphony Hall, Atlanta, Georgia\nRemixed at The Looking Glass Studios, NYC\nItaipu: Copyright 1988 Dunvagen Music Publishers, Inc.; Commissioned by an anonymous gift to the Atlanta Symphony Orchestra, Robert Shaw, Director\nThe Canyon: Copyright 1988 Dunvagen Music Publishers, Inc.; Commissioned by Voorheem ADM Oudegracht, The Netherlands\n",
+    "notes": "On back sleeve:\nСлайды изготовлены производственной фирмой «Ника»\n\n© SINTEZ RECORDS\nПроизводственная фирма «РиТонис»\n\nOn labels:\n® SINTEZ CORPORATION\nПроизводственная фирма RiTonis\n\nOn Side B label: Рига, 1991 г.",
     "images": [
-      "https://i.discogs.com/dWXVyQLRtlhjsOBYLmJ-porcy5yOl5fVDLULp_FmY98/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/Mi03Mzc3LmpwZWc.jpeg",
-      "https://i.discogs.com/Vbk-4hQnzm1BlQf659E5I3CMudTOIeNL67iZvGUpsIk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU5/OC0xMTEwLmpwZWc.jpeg",
-      "https://i.discogs.com/5tGdMn4zHZ2kcDPWqFblBb_Ia2ijSa0ck_akuxF_BM4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU4/NS01OTI2LmpwZWc.jpeg",
-      "https://i.discogs.com/LuaWCuSurbHp3Pvwsr-qSD9qRH8SpqhTq_wOgLTaGck/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU5/OC05NjY5LmpwZWc.jpeg",
-      "https://i.discogs.com/C6rCQf9o_H2h_vwNJPoC-gEBYYd-vZ11k-E3WnNF4Vc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU5/MS0yMjAzLmpwZWc.jpeg",
-      "https://i.discogs.com/W4emd_PhX2NqSH4SPAPWTdMGEvpcrQ2ofnQFjpTtB00/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/Mi02NDM3LmpwZWc.jpeg",
-      "https://i.discogs.com/7YHTwiJ868qjE6HxGWXLzjX_MYUsX366pAlNXu7Y16A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/MS01MzAxLmpwZWc.jpeg",
-      "https://i.discogs.com/TAo7U3rnwXi8ozOhrUQz4HsZJNjXJdUFMURbJKdHJJw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/NS03MDE2LmpwZWc.jpeg",
-      "https://i.discogs.com/Zvky0r8Yp5p32gVZ2mq7cgGieEXmd9R9zpCM3VLnHnY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/OC0yMjAzLmpwZWc.jpeg",
-      "https://i.discogs.com/3A7PhnCCk8zL2963XDdhWZXDsBCi_uHh_9pFISr9JDk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/Mi0xMDUxLmpwZWc.jpeg",
-      "https://i.discogs.com/j7jBEJ__9uenNwX12WQfqecqeLnWJNrv6bsmYArmIas/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/NC03NzM1LmpwZWc.jpeg",
-      "https://i.discogs.com/1cQRPkGIW7HYRiyZgNK1D5tlHJ9DSGJbbxY58fXpWWw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/Ni0yNjY3LmpwZWc.jpeg",
-      "https://i.discogs.com/E4K9zCN6cZjHWDdoOMoQrqtraD1c5QGDxYQQEbduMds/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/OS01MTk1LmpwZWc.jpeg",
-      "https://i.discogs.com/YoWuwC4vDUM0I-wYoghXWk9Ahem5Xx26Xz-hYH9u8uI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYy/My0zMjUwLmpwZWc.jpeg",
-      "https://i.discogs.com/hH69506qrMMWCl8WM8aXLPfy2HS4S6Np5iF-4HcTWdQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTgw/Ny03ODY3LmpwZWc.jpeg",
-      "https://i.discogs.com/Oxxzq8_5qmPEvGd2yG4Goe30AIDei1-k2IV3lY-cQSw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTgw/OC0xNTI4LmpwZWc.jpeg"
+      "https://i.discogs.com/Op9raM8yzPGLmhlRT2dsIUpRiPzqOnmtvAKqF3eiSA0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTY0NDQxNTk4/NS0zNzE1LmpwZWc.jpeg",
+      "https://i.discogs.com/-nm2mRqWsKpntdTTsHInap4QV6-5gkWuCt7yDknfDxE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTY0NDQxNTk4/NS03NjM1LmpwZWc.jpeg",
+      "https://i.discogs.com/_gj5PNlOe1GLVcpCNqAaRp6gTESXJsh3Q-j67txZ89M/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTY0NDQxNTk4/NS03Mzk5LmpwZWc.jpeg",
+      "https://i.discogs.com/K2XP67OWXG1_ERTczaRj41n1Ad4hMKeaNGr_xA1fd0s/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTY0NDQxNTk4/NS04MjcwLmpwZWc.jpeg",
+      "https://i.discogs.com/OhGn7qbHHCNvaTh5xl3rr5nDKgaDuOBbKvtrBkxDjSQ/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTY0NDQxNTk4/NS01ODE3LmpwZWc.jpeg",
+      "https://i.discogs.com/Rq0FWBHa9M-qPRIS9hbbFLrkIxdpj4Ajy_dr4p35UcI/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTQyMDYyMDA2/NS0yNjcxLmpwZWc.jpeg",
+      "https://i.discogs.com/pFNKbH26ORkIxOHBrO2FaF2KOEOUy3Owp0rLKEcl1eU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQx/NjctMTYzMzY5NDgw/OC03Njk0LmpwZWc.jpeg"
     ],
-    "lowestPrice": 7.89,
-    "numForSale": 5,
-    "updatedAt": "2026-10-15T10:25:12.871Z"
+    "lowestPrice": 9.89,
+    "numForSale": 9,
+    "updatedAt": "2026-10-15T10:39:24.063Z"
   },
   "zodiak-muzyka-vo-vselennoy": {
     "discogsReleaseId": 10792006,
@@ -11864,18 +11907,20 @@
     "updatedAt": "2026-10-15T10:29:24.117Z"
   },
   "orkestr-rozhdestvenskogo-maugli": {
-    "discogsReleaseId": 2040614,
-    "discogsUrl": "https://www.discogs.com/release/2040614-Р-Киплинг-Маугли",
+    "discogsReleaseId": 3235038,
+    "discogsUrl": "https://www.discogs.com/release/3235038-Р-Киплинг-Маугли",
     "matchedBy": "manual",
     "label": "Мелодия",
     "genres": [
+      "Non-Music",
       "Children's"
     ],
     "styles": [
-      "Story"
+      "Story",
+      "Radioplay"
     ],
     "country": "USSR",
-    "released": "1978",
+    "released": "1969",
     "tracklist": [
       {
         "position": "A",
@@ -11888,13 +11933,16 @@
         "duration": null
       }
     ],
-    "notes": "© Апрелевский ордена Ленина завод грампластинок, 1978\r\nАрт. 11-8. Цена 1 руб. 25 коп.\r\n",
+    "notes": null,
     "images": [
-      "https://i.discogs.com/1BI0oYikLGEpUvBj8bs0blEVlF_K9WB5W9ZSTX12PMY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/MTQtMTY1ODUwNDUz/MS02NjI5LmpwZWc.jpeg"
+      "https://i.discogs.com/8odRrNG9GYwMeiO2gRAOfpV2KfW0xdo100Y-1wZRxkQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUw/MzgtMTc2MzY3MjEx/My0zMzcwLmpwZWc.jpeg",
+      "https://i.discogs.com/PNhcD2CVQUFc0LTPQIR33M038yUHoaN1_X3OxycecCM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUw/MzgtMTc2MzY3MjEw/MS02MjkzLmpwZWc.jpeg",
+      "https://i.discogs.com/8rEkd6I8VzbKzsyZ46zLXwP1jYb8W9cvlcEShuGZH8c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUw/MzgtMTc2MzY3MjEw/Mi04NTczLmpwZWc.jpeg",
+      "https://i.discogs.com/V5pSUhp-X2L0H-1TZ8baD2rornV7y-mTmlHp0SB9p-o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUw/MzgtMTc2MzY3MjEw/Mi02Mzg5LmpwZWc.jpeg"
     ],
-    "lowestPrice": 27,
-    "numForSale": 1,
-    "updatedAt": "2026-10-15T10:29:26.801Z"
+    "lowestPrice": 5,
+    "numForSale": 3,
+    "updatedAt": "2026-10-15T10:43:54.233Z"
   },
   "yaak-yoala-sama-lyubov": {
     "discogsReleaseId": 1841943,

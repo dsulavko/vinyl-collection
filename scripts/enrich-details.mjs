@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { REPO_ROOT, requireEnv } from './lib/env.mjs';
+import { transliterate } from './lib/slug.mjs';
 
 const COLLECTION_PATH = path.join(REPO_ROOT, 'data', 'collection.json');
 const DETAILS_PATH = path.join(REPO_ROOT, 'data', 'details.json');
@@ -45,8 +46,12 @@ function straightenQuotes(text) {
   return (text || '').replace(/[‘’]/g, "'").replace(/[“”]/g, '"');
 }
 
+// Cyrillic artist names (e.g. "Дюна") have no a-z0-9 characters, so without
+// transliterating first they'd normalize to an empty string and silently
+// bypass the artist-match guard below, letting an unrelated foreign release
+// match on a colliding catalog number/barcode.
 function normalizeForMatch(text) {
-  return straightenQuotes(text)
+  return transliterate(straightenQuotes(text))
     .toLowerCase()
     .replace(/^the\s+/, '')
     .replace(/[^a-z0-9]+/g, ' ')

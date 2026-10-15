@@ -1615,17 +1615,17 @@
     "updatedAt": "2026-10-15T10:28:36.157Z"
   },
   "dyuna-the-best": {
-    "lowestPrice": 7.89,
+    "lowestPrice": 9.89,
     "currency": "USD",
-    "numForSale": 5,
+    "numForSale": 9,
     "ebayAveragePrice": 35.3,
     "ebaySampleSize": 1,
-    "discogsPriceSuggestion": 3.086842105263158,
-    "rawBasePrice": 8.025789473684211,
+    "discogsPriceSuggestion": 7.986111111111111,
+    "rawBasePrice": 20.76388888888889,
     "estimateSource": "discogs-price-suggestions",
     "condition": "G+",
-    "estimatedValue": 3.09,
-    "updatedAt": "2026-10-15T10:28:38.407Z"
+    "estimatedValue": 7.99,
+    "updatedAt": "2026-10-15T10:39:51.301Z"
   },
   "zodiak-muzyka-vo-vselennoy": {
     "lowestPrice": 10.95,
@@ -1745,17 +1745,17 @@
     "updatedAt": "2026-10-15T10:29:39.693Z"
   },
   "orkestr-rozhdestvenskogo-maugli": {
-    "lowestPrice": 27,
+    "lowestPrice": 5,
     "currency": "USD",
-    "numForSale": 1,
+    "numForSale": 3,
     "ebayAveragePrice": 19.99,
     "ebaySampleSize": 1,
-    "discogsPriceSuggestion": 1.6911764705882353,
-    "rawBasePrice": 4.397058823529412,
+    "discogsPriceSuggestion": 4.791666666666667,
+    "rawBasePrice": 12.458333333333334,
     "estimateSource": "discogs-price-suggestions",
     "condition": "G+",
-    "estimatedValue": 1.69,
-    "updatedAt": "2026-10-15T10:29:41.912Z"
+    "estimatedValue": 4.79,
+    "updatedAt": "2026-10-15T10:44:01.754Z"
   },
   "yaak-yoala-sama-lyubov": {
     "lowestPrice": 1.15,
