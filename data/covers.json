@@ -76,7 +76,7 @@
     "sourceUrl": "https://i.discogs.com/Kc9i8whQqoW2s9ETezp1ptSsqLfQYzjRPeyMwlGknTk/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjYz/OTEtMTMzMTQ4Mzgx/OS5qcGVn.jpeg",
     "updatedAt": "2026-09-08T14:39:50.093Z"
   },
-  "deep-purple": {
+  "deep-purple-nesushchiy-buryu": {
     "imagePath": "assets/covers/deep-purple.jpg",
     "sourceUrl": "https://i.discogs.com/TaRCJalnuaC9lVCdI-uF8X2xT7eYmIvtkgAoDxF0m4Q/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzU3/ODgtMTQyMTQ5MTAz/NC0xMTM1LmpwZWc.jpeg",
     "updatedAt": "2026-09-08T14:39:50.130Z"
@@ -526,7 +526,7 @@
     "sourceUrl": "https://i.discogs.com/nFYbHXzMYgZSLt8OlGMeCUjUJ7M45M-GWtrPtGNfN1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDQ2/NDY5LTE2ODc1OTQ5/MzktODYyNi5qcGVn.jpeg",
     "updatedAt": "2026-09-08T14:39:52.504Z"
   },
-  "eric-clapton": {
+  "eric-clapton-erik-klepton-melodiya": {
     "imagePath": "assets/covers/eric-clapton.jpg",
     "sourceUrl": "https://i.discogs.com/2IpoGYqtCG5Apy7tJ56d9-TkC3dMcu_j9TgIvSdX6io/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk5/NDc4LTE1OTgwMTQy/MDYtODIxMS5qcGVn.jpeg",
     "updatedAt": "2026-09-08T14:39:53.782Z"
@@ -566,7 +566,7 @@
     "sourceUrl": "https://i.discogs.com/li1QWXmyR8ZLyr3pzKqAvJVBD23d9Zmn1OzzuEZlsi8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM3/MjQtMTQ3OTEyNDgw/MC01MzE2LmpwZWc.jpeg",
     "updatedAt": "2026-09-08T14:40:05.624Z"
   },
-  "rainbow-rainbow-1975-1982": {
+  "rainbow-ansambl-rainbow-1975-1982": {
     "imagePath": "assets/covers/rainbow-rainbow-1975-1982.jpg",
     "sourceUrl": "https://i.discogs.com/--m4VGz_o7V-JFsABS71b1vmmIBPekNvIE7FVEVQ6tU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc1/NzAyLTE3NjIzNDM2/NzEtMTkzNi5qcGVn.jpeg",
     "updatedAt": "2026-09-08T14:40:10.279Z"
@@ -612,5 +612,105 @@
     "imagePath": "assets/covers/phil-collins-but-seriously.jpg",
     "sourceUrl": "https://i.discogs.com/qwjcuBHTWPMzoPl_RjfRYKfE8U8Hfawjle77WuvmY2M/rs:fit/g:sm/q:90/h:346/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMy/NzE4LTE1OTMxNDI4/MzMtODM4Mi5qcGVn.jpeg",
     "updatedAt": "2026-09-08T15:13:29.907Z"
+  },
+  "avtograf-kamennyy-kray": {
+    "imagePath": "assets/covers/avtograf-kamennyy-kray.jpg",
+    "sourceUrl": "https://i.discogs.com/wQ9PJJQWWMdmf0BS4ONmAGxa5vxG6MoL632Ar6VDBYE/rs:fit/g:sm/q:90/h:580/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYy/OTc0LTE2MjAyNzYz/MDAtNjA2Ni5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:00.326Z"
+  },
+  "akvarium-ansambl-akvarium": {
+    "imagePath": "assets/covers/akvarium-ansambl-akvarium.jpg",
+    "sourceUrl": "https://i.discogs.com/25Es1ZUonmTy0jQ_3hbR2p3Fkx-PQEdcSJTY08kBbng/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI1/NDE0LTE2MzA4NTk3/NjgtMTQwOC5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:00.550Z"
+  },
+  "akvarium-chernaya-roza-emblema-pechali": {
+    "imagePath": "assets/covers/akvarium-chernaya-roza-emblema-pechali.jpg",
+    "sourceUrl": "https://i.discogs.com/eqJLnQGutHpBwWQ8-diW4XQfiABQXLqGmdnsOf3h6fk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MDktNjc1MS5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:00.760Z"
+  },
+  "akvarium-snezhnyy-lev": {
+    "imagePath": "assets/covers/akvarium-snezhnyy-lev.jpg",
+    "sourceUrl": "https://i.discogs.com/Z-dEcECKMPlNmhFcEiBk5qnworvjGo-qdiaIubrbZI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODc0NzU5/NjktOTMwMC5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:01.206Z"
+  },
+  "alisa-blok-ada": {
+    "imagePath": "assets/covers/alisa-blok-ada.jpg",
+    "sourceUrl": "https://i.discogs.com/GKOK0ojKx6Qsw3a__4SU3vF0zwCKBVrUYts_eaCFl_c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/ODYtMTQ0NzI0MTM1/Mi0xNTIzLmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:26:01.421Z"
+  },
+  "alisa-legendy-russkogo-roka": {
+    "imagePath": "assets/covers/alisa-legendy-russkogo-roka.jpg",
+    "sourceUrl": "https://i.discogs.com/BG_8nHl97G8DaM7gxei5UOMfjjbz4mICB44-annKXvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NzMwLTE1ODA0OTg2/NDgtNzc0Ni5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:01.835Z"
+  },
+  "auktsyon-bodun": {
+    "imagePath": "assets/covers/auktsyon-bodun.jpg",
+    "sourceUrl": "https://i.discogs.com/sfAByQrtLEfknoQGPAPL8h4HX8P5uqrTcwJRpCtcWzc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTU5MjUzOTE4/MS0zMTc2LmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:26:02.048Z"
+  },
+  "dyuna-the-best": {
+    "imagePath": "assets/covers/dyuna-the-best.jpg",
+    "sourceUrl": "https://i.discogs.com/dWXVyQLRtlhjsOBYLmJ-porcy5yOl5fVDLULp_FmY98/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/Mi03Mzc3LmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:26:02.496Z"
+  },
+  "zodiak-muzyka-vo-vselennoy": {
+    "imagePath": "assets/covers/zodiak-muzyka-vo-vselennoy.jpg",
+    "sourceUrl": "https://i.discogs.com/nkZP081DNpA0MxXUZzQj3kxBoLV3WtFnKtYR2nv7Td0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MDA2LTE1MDQzOTEw/ODktOTYxNi5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:02.874Z"
+  },
+  "zodiak-disko-alyans": {
+    "imagePath": "assets/covers/zodiak-disko-alyans.jpg",
+    "sourceUrl": "https://i.discogs.com/ZuUbh0vvIzTlYJZnQ4nssiUlfGP9GGCLPI51jPMIckQ/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/MjEzLTE1MTY1NjYw/OTQtNDg0OS5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:03.417Z"
+  },
+  "lui-armstrong-estradnye-pesni": {
+    "imagePath": "assets/covers/lui-armstrong-estradnye-pesni.jpg",
+    "sourceUrl": "https://i.discogs.com/Oo_ns-O7_LIdNiK0dml8FpE1SU92_LSXkuPeh8lNc3g/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDU0/NzMwLTE3MTM2MzI5/ODktNDA4OS5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:04.073Z"
+  },
+  "mashina-vremeni-v-dobryy-chas": {
+    "imagePath": "assets/covers/mashina-vremeni-v-dobryy-chas.jpg",
+    "sourceUrl": "https://i.discogs.com/pmnCAZKdFLg6ULN6aE8oJGtBUb2rX5X_dyxk8dTjhmI/rs:fit/g:sm/q:90/h:400/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEz/MjMtMTI1NDUwMzc0/MC5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:04.302Z"
+  },
+  "mroya-dvatstsats-vosmaya-zorka": {
+    "imagePath": "assets/covers/mroya-dvatstsats-vosmaya-zorka.jpg",
+    "sourceUrl": "https://i.discogs.com/FYobWabAyn6V_RJ-WLlUY8naPXDjPexEeHYXeccpCnk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzMx/MTgtMTM3NjkyNTky/MC0yMDYwLmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:26:04.753Z"
+  },
+  "neyro-dyubel-okhotnik-i-saygak": {
+    "imagePath": "assets/covers/neyro-dyubel-okhotnik-i-saygak.jpg",
+    "sourceUrl": "https://i.discogs.com/eCangX1wqFuqTYWm_nOe29Mf4WU7jLJTZCm2pT6IKSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3Mjg5MzUy/NjYtNTQzOS5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:26:05.501Z"
+  },
+  "piknik-rodom-niotkuda": {
+    "imagePath": "assets/covers/piknik-rodom-niotkuda.jpg",
+    "sourceUrl": "https://i.discogs.com/9etJNwLWsKlsfwY154h-cjOdAxeDw83BCv9cNG5XdF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQ3MTIwNzk3/MS02OTQzLmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:26:05.737Z"
+  },
+  "adrian-enescu-dance-funky-synthesizer-volume-2": {
+    "imagePath": "assets/covers/adrian-enescu-dance-funky-synthesizer-volume-2.jpg",
+    "sourceUrl": "https://i.discogs.com/UT1GsHqBO0A6xB4DZfiBOwnhiQ2CXMupA2I8XmS_VY4/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg2/NDEtMTM4MzkxMzU0/MC01MzEyLmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:26:05.994Z"
+  },
+  "vladimir-migulya-i-gr-zemlyane-pesni-v-miguli": {
+    "imagePath": "assets/covers/vladimir-migulya-i-gr-zemlyane-pesni-v-miguli.jpg",
+    "sourceUrl": "https://i.discogs.com/jGt6QsXGyfoYuXREZhlL51BS_XsH854tXUrf0oNbxfw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NTEtMTMwOTE2MzIy/MC5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:29:36.659Z"
+  },
+  "orkestr-rozhdestvenskogo-maugli": {
+    "imagePath": "assets/covers/orkestr-rozhdestvenskogo-maugli.jpg",
+    "sourceUrl": "https://i.discogs.com/1BI0oYikLGEpUvBj8bs0blEVlF_K9WB5W9ZSTX12PMY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/MTQtMTY1ODUwNDUz/MS02NjI5LmpwZWc.jpeg",
+    "updatedAt": "2026-10-15T10:29:36.696Z"
+  },
+  "yaak-yoala-sama-lyubov": {
+    "imagePath": "assets/covers/yaak-yoala-sama-lyubov.jpg",
+    "sourceUrl": "https://i.discogs.com/_Y2SZ-22acL-uNMXoshp8uI1eu7F-HAvVxHPA5k4kVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTI5NzM2MzMx/Ny5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:29:36.732Z"
+  },
+  "felix-slovacek-saksofon": {
+    "imagePath": "assets/covers/felix-slovacek-saksofon.jpg",
+    "sourceUrl": "https://i.discogs.com/VqRC74rul1A1jVj_aUw-GSwzGlPtixWa8h-tkqO2nvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NTgxLTE3MDAyMTcx/NzEtOTkyMC5qcGVn.jpeg",
+    "updatedAt": "2026-10-15T10:30:36.337Z"
   }
 }

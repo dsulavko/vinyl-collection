@@ -1435,7 +1435,7 @@
     "numForSale": 33,
     "updatedAt": "2026-09-08T15:27:34.593Z"
   },
-  "deep-purple": {
+  "deep-purple-nesushchiy-buryu": {
     "discogsReleaseId": 6535788,
     "discogsUrl": "https://www.discogs.com/release/6535788-Deep-Purple-Несущий-Бурю",
     "matchedBy": "text",
@@ -9351,7 +9351,7 @@
     "numForSale": 3,
     "updatedAt": "2026-09-08T15:28:07.486Z"
   },
-  "eric-clapton": {
+  "eric-clapton-erik-klepton-melodiya": {
     "discogsReleaseId": 15799478,
     "discogsUrl": "https://www.discogs.com/release/15799478-Эрик-Клэптон-Эрик-Клэптон",
     "matchedBy": "catno",
@@ -9806,7 +9806,7 @@
     "numForSale": 15,
     "updatedAt": "2026-09-08T15:29:49.194Z"
   },
-  "rainbow-rainbow-1975-1982": {
+  "rainbow-ansambl-rainbow-1975-1982": {
     "discogsReleaseId": 35575702,
     "discogsUrl": "https://www.discogs.com/release/35575702-Rainbow-Ансамбль-Rainbow-",
     "matchedBy": "catno",
@@ -10511,5 +10511,1541 @@
     "lowestPrice": 16.34,
     "numForSale": 2,
     "updatedAt": "2026-09-08T15:42:37.841Z"
+  },
+  "avtograf-kamennyy-kray": {
+    "discogsReleaseId": 15162974,
+    "discogsUrl": "https://www.discogs.com/release/15162974-Автограф-Каменный-Край",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "country": "USSR",
+    "released": "1989",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Город",
+        "duration": null
+      },
+      {
+        "position": "A2",
+        "title": "О, Мой Мальчик",
+        "duration": null
+      },
+      {
+        "position": "A3",
+        "title": "Я Люблю",
+        "duration": "5:04"
+      },
+      {
+        "position": "A4",
+        "title": "Странник",
+        "duration": "5:30"
+      },
+      {
+        "position": "B1",
+        "title": "Казенный Демон",
+        "duration": "4:40"
+      },
+      {
+        "position": "B2",
+        "title": "Колокол",
+        "duration": "4:23"
+      },
+      {
+        "position": "B3",
+        "title": "Мастер",
+        "duration": "5:20"
+      },
+      {
+        "position": "B4",
+        "title": "Камень",
+        "duration": "4:23"
+      }
+    ],
+    "notes": "Total duration of A1 and A2 is 8:36\n\n(3) Студия \"TRAX\", Лос-Анджелес, Калифорния\n© ВТПО «ФИРМА МЕЛОДИЯ», 1989\nВсесоюзная студия грамзаписи\nЗапись студии Московского Дворца молодежи, 1989 г.\nЗак. 4. Тираж 5000\nАрт. 11-1. Цена 2 руб. 50 коп.\n\nOn label: Год выпуска 1989\n",
+    "images": [
+      "https://i.discogs.com/wQ9PJJQWWMdmf0BS4ONmAGxa5vxG6MoL632Ar6VDBYE/rs:fit/g:sm/q:90/h:580/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYy/OTc0LTE2MjAyNzYz/MDAtNjA2Ni5qcGVn.jpeg"
+    ],
+    "lowestPrice": 2.7,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:24:43.792Z"
+  },
+  "akvarium-ansambl-akvarium": {
+    "discogsReleaseId": 20125414,
+    "discogsUrl": "https://www.discogs.com/release/20125414-Аквариум-Åквариум",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Psychedelic Rock"
+    ],
+    "country": "USSR",
+    "released": "1987",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Сидя На Красивом Холме",
+        "duration": "1:41"
+      },
+      {
+        "position": "A2",
+        "title": "Иван Бодхидхарма",
+        "duration": "2:55"
+      },
+      {
+        "position": "A3",
+        "title": "Небо Становится Ближе",
+        "duration": "6:19"
+      },
+      {
+        "position": "A4",
+        "title": "Электричество",
+        "duration": "4:16"
+      },
+      {
+        "position": "A5",
+        "title": "Глаз",
+        "duration": "3:28"
+      },
+      {
+        "position": "B1",
+        "title": "Сны О Чем-То Большем",
+        "duration": "4:38"
+      },
+      {
+        "position": "B2",
+        "title": "Кад Годдо",
+        "duration": "4:52"
+      },
+      {
+        "position": "B3",
+        "title": "Дети Декабря",
+        "duration": "2:12"
+      },
+      {
+        "position": "B4",
+        "title": "Деревня",
+        "duration": "4:41"
+      }
+    ],
+    "notes": "© «Мелодия», 1987. Всесоюзная студия грамзаписи.\nЗаписи студии Ленинградского городского рок-клуба 1984, 1985 гг.\nАпрелевский ордена Ленина завод грампластинок\n\nInfo on the labels: Год выпуска 1987\n\nВ пластинке использовались записи композиций, сделанные в студии Ленинградского городского рок-клуба: \"День Серебра\", 1984 год; \"Дети Декабря\", 1985 год.\n\nOn the back of the cover in the lower right corner: the text block is all white, without order number & circulation copies.",
+    "images": [
+      "https://i.discogs.com/25Es1ZUonmTy0jQ_3hbR2p3Fkx-PQEdcSJTY08kBbng/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI1/NDE0LTE2MzA4NTk3/NjgtMTQwOC5qcGVn.jpeg",
+      "https://i.discogs.com/GYG0sFQbOOFrzGjLV2UbzPTuXJMaYB_dh5dNS6HeBIQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI1/NDE0LTE2MzA4NTk3/NjgtNDM0MS5qcGVn.jpeg",
+      "https://i.discogs.com/SV7V_-TgxzWqajX4Th-7fxLYzkjVHWR480431S0iQOI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI1/NDE0LTE2MzA4NTk3/NjctOTI3NS5qcGVn.jpeg",
+      "https://i.discogs.com/emJW5ZS0YlKIMIG7fIwpZO8uAtNzoAqmQvrHUIx5pm0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI1/NDE0LTE2MzA4NTk3/NjgtMzI5OS5qcGVn.jpeg",
+      "https://i.discogs.com/ASFogRBgO8ANfzaQHsGk4qhwQI-WG3Rw91rf2mbO1nM/rs:fit/g:sm/q:90/h:196/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI1/NDE0LTE2MzA4NTk3/NjgtNzk1OC5qcGVn.jpeg"
+    ],
+    "lowestPrice": 57.6,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:24:46.676Z"
+  },
+  "akvarium-chernaya-roza-emblema-pechali": {
+    "discogsReleaseId": 15230190,
+    "discogsUrl": "https://www.discogs.com/release/15230190-Various-Черная-Роза-Эмблема-Печали-Красная-Роза-Эмблема-Л",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Rock",
+      "Classical",
+      "Brass & Military",
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Folk",
+      "Acoustic",
+      "Classical",
+      "Choral",
+      "Folk Rock",
+      "Brass Band",
+      "Marches"
+    ],
+    "country": "USSR",
+    "released": "1990",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Ангел И Два Ее Козла",
+        "duration": "3:35"
+      },
+      {
+        "position": "A2",
+        "title": "Марш",
+        "duration": "2:42"
+      },
+      {
+        "position": "A3",
+        "title": "На Горной Тропе Далай Лама Кама Сутра",
+        "duration": "1:39"
+      },
+      {
+        "position": "A4",
+        "title": "Сарданапал",
+        "duration": "1:28"
+      },
+      {
+        "position": "A5",
+        "title": "Тайна КПСС № 3",
+        "duration": "2:50"
+      },
+      {
+        "position": "A6",
+        "title": "Капитан Воронин",
+        "duration": "6:55"
+      },
+      {
+        "position": "B1",
+        "title": "Орел, Телец И Лев",
+        "duration": "3:12"
+      },
+      {
+        "position": "B2",
+        "title": "Пленение И. В. Сталина Ирландским Народным Героем Фер Диадом",
+        "duration": "4:15"
+      },
+      {
+        "position": "B3",
+        "title": "К Друзьям",
+        "duration": "0:50"
+      },
+      {
+        "position": "B4",
+        "title": "Легенда О Падшей Пионерке Насте",
+        "duration": "3:13"
+      },
+      {
+        "position": "B5",
+        "title": "Марш Нахимовцев",
+        "duration": "2:34"
+      },
+      {
+        "position": "B6",
+        "title": "«3 № ССПК анйаТ»",
+        "duration": "2:50"
+      },
+      {
+        "position": "C1",
+        "title": "Комиссар",
+        "duration": "3:40"
+      },
+      {
+        "position": "C2",
+        "title": "Народный Герой Думает Об Основании Династии",
+        "duration": "2:00"
+      },
+      {
+        "position": "C3",
+        "title": "Ныне Силы Небесныя (Напев Валаамского Монастыря)",
+        "duration": "4:40"
+      },
+      {
+        "position": "C4",
+        "title": "Рыбаки Обсуждают Закат Солнца",
+        "duration": "2:22"
+      },
+      {
+        "position": "C5",
+        "title": "Корабль Уродов",
+        "duration": "7:15"
+      },
+      {
+        "position": "D1",
+        "title": "Поезд В Огне",
+        "duration": "3:40"
+      },
+      {
+        "position": "D2",
+        "title": "Проснувшись, Друид Идет За Пивом",
+        "duration": "1:30"
+      },
+      {
+        "position": "D3",
+        "title": "Серебро Господа Моего",
+        "duration": "3:45"
+      },
+      {
+        "position": "D4",
+        "title": "Мелодия Из II Действия Оперы К. В. Глюка «Орфей И Эвридика»",
+        "duration": "3:00"
+      },
+      {
+        "position": "D5",
+        "title": "Лой Быканах (Русско-абиссинская Народная Песня Ушельцев)",
+        "duration": "3:45"
+      }
+    ],
+    "notes": "Фото «Союзинформкино» и ВТК «Продюсер» Мосинкомбанка\n\n© ВТПО «ФИРМА МЕЛОДИЯ», 1990\nВсесоюзная студия грамзаписи\nЗапись тон-студии «Мосфильм», 1989 г.\nТашкентский завод грампластинок им. М. Т. Ташмухамедова\nЗак. 421 тираж 18550\n2 ✕ Арт. 11-1. Цена 5 руб.\n\nOn labels: ГОД ВЫПУСКА 1990\n\nGatefold sleeve.",
+    "images": [
+      "https://i.discogs.com/eqJLnQGutHpBwWQ8-diW4XQfiABQXLqGmdnsOf3h6fk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MDktNjc1MS5qcGVn.jpeg",
+      "https://i.discogs.com/e6RU_11I3149aPn8WCKNAH4l5TWAH1iTgk4wTFg0spc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MDktMzM4MS5qcGVn.jpeg",
+      "https://i.discogs.com/J6Gt73GDn8B3MrTZstVX000KAi_bO7DkQNd6Q9JIn_Q/rs:fit/g:sm/q:90/h:600/w:267/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MTAtOTQ0MC5qcGVn.jpeg",
+      "https://i.discogs.com/uPjZWGTM01iSr-ZG-ZO0kYEfG-7z-odRmAU1mh0Wcww/rs:fit/g:sm/q:90/h:160/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MDgtMjg3Mi5qcGVn.jpeg",
+      "https://i.discogs.com/fzZYfUeIqEYLCSibP7cf6eFOrbRrUXGrAOfRmzQlu34/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MTAtODc1Ni5qcGVn.jpeg",
+      "https://i.discogs.com/52uSddTl11BXlNFUYlwT0o81b-rJO2-s1ifeFp4Z0l4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MDktNzc0Ni5qcGVn.jpeg",
+      "https://i.discogs.com/9K0EYG4dA4QlUEXcVsaaA2LIbxU3gc-rDJm2o-bjJ2s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MDktNzkxNC5qcGVn.jpeg",
+      "https://i.discogs.com/Opej8eEx-4CqMAeiJlkRUVwuNw-4LuKaws8QP3Yx8uE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MTAtNDMwNS5qcGVn.jpeg",
+      "https://i.discogs.com/rlhiVXe10umBX_ttwWRTQ3zXrfqLTkQfu-qxBdLfQhU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MTAtNzAxMC5qcGVn.jpeg",
+      "https://i.discogs.com/8TOV18dTc7Q4QE_qJwBmaahA4HRaidp6y-88MWTA10U/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTkwLTE1ODg0MTM0/MTAtNTk5Ny5qcGVn.jpeg"
+    ],
+    "lowestPrice": null,
+    "numForSale": 0,
+    "updatedAt": "2026-10-15T10:24:49.621Z"
+  },
+  "akvarium-snezhnyy-lev": {
+    "discogsReleaseId": 12236087,
+    "discogsUrl": "https://www.discogs.com/release/12236087-Аквариум-Снежный-Лев",
+    "matchedBy": "catno",
+    "label": "SoLyd Records",
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Acoustic",
+      "Neofolk"
+    ],
+    "country": "Russia",
+    "released": "2018-06-00",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Серебряная Роза",
+        "duration": null
+      },
+      {
+        "position": "A2",
+        "title": "Центр Циклона",
+        "duration": null
+      },
+      {
+        "position": "A3",
+        "title": "Максим-Лесник",
+        "duration": null
+      },
+      {
+        "position": "A4",
+        "title": "Древнерусская Тоска",
+        "duration": null
+      },
+      {
+        "position": "A5",
+        "title": "Дубровский",
+        "duration": null
+      },
+      {
+        "position": "B1",
+        "title": "Инцидент В Настасьино",
+        "duration": null
+      },
+      {
+        "position": "B2",
+        "title": "Истребитель",
+        "duration": null
+      },
+      {
+        "position": "B3",
+        "title": "Чёрный Брахман",
+        "duration": null
+      },
+      {
+        "position": "B4",
+        "title": "Великая Железнодорожная Симфония",
+        "duration": null
+      }
+    ],
+    "notes": "Все песни - БГ, кроме A1 (Б. Гребенщиков, K. St. John) и B3 (Б. Гребенщиков, С. Щураков - Б. Гребенщиков)\nФото из архива группы\nПроизведено в Объеденённой Европе ООО \"Хай-Тек Медиа Клуб\", г. Москва, 129090, ул. Щепкина, 28",
+    "images": [
+      "https://i.discogs.com/Z-dEcECKMPlNmhFcEiBk5qnworvjGo-qdiaIubrbZI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODc0NzU5/NjktOTMwMC5qcGVn.jpeg",
+      "https://i.discogs.com/DmQWtiv3h6kCD9XznlaW4n6PpEsfqw0VvDXIEKMkMAY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODc0NzU5/NzAtMjE1OC5qcGVn.jpeg",
+      "https://i.discogs.com/dZ5xVQy-PeYUKYGRQnARZikZKOeZ4HL5hmiw8YyLKvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NDktNzk5NC5qcGVn.jpeg",
+      "https://i.discogs.com/gJTmeZyR2L0QZ6hYmhYH57clVD5b9kERr047tLdpuqs/rs:fit/g:sm/q:90/h:600/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtMTUwNy5qcGVn.jpeg",
+      "https://i.discogs.com/f63JFioDZpwOuIpFpNoziNEXA8aq5agG3INlv0dvqgk/rs:fit/g:sm/q:90/h:140/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtOTk5Ni5qcGVn.jpeg",
+      "https://i.discogs.com/Pds9utYD0YVbRVeSph378I7VxI0lQsrXBaOfMODzlA8/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtMjk2NC5qcGVn.jpeg",
+      "https://i.discogs.com/i9pwuHBKeracUm7uqr9R8SKRvmiFm3Zcvg9ObjoqY-8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtNjAwMC5qcGVn.jpeg",
+      "https://i.discogs.com/xsvdosvBxsUyXKyml8TtnWbMEg02ybhyFfTx-g4RI88/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtNzAyMC5qcGVn.jpeg",
+      "https://i.discogs.com/D1UOt1J0WOaFeqlMXCrDLBguJXvhE6G_jCc4No4ykv8/rs:fit/g:sm/q:90/h:600/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTEtNzgwMy5qcGVn.jpeg",
+      "https://i.discogs.com/ZZbSYnLsNy3NnivMbSR0dIDaDFNVFX3_P6YBb458Axk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtOTgzNS5qcGVn.jpeg",
+      "https://i.discogs.com/oqaNTMdQrU3R1NLYAGzRNFVpbrQuhdVdnyMlsdwLrwE/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtNjA0Mi5qcGVn.jpeg",
+      "https://i.discogs.com/Tx8xyJFDliXcQR5QImDL-5Oa0E3gQ6o9SXn1j_VucLc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtNTkxNy5qcGVn.jpeg",
+      "https://i.discogs.com/jtjpE55usR-cB482BYJZlIPfxDylzkEGOXloDRURluI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/MDg3LTE1ODgzMzk5/NTAtODgzOC5qcGVn.jpeg"
+    ],
+    "lowestPrice": 55.5,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:24:52.542Z"
+  },
+  "alisa-blok-ada": {
+    "discogsReleaseId": 2465986,
+    "discogsUrl": "https://www.discogs.com/release/2465986-Алиса-Блок-Ада",
+    "matchedBy": "text",
+    "label": "Мелодия",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Post-Punk",
+      "Punk",
+      "New Wave"
+    ],
+    "country": "USSR",
+    "released": "1989",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Время Менять Имена · It's Time To Change The Names",
+        "duration": "2:50"
+      },
+      {
+        "position": "A2",
+        "title": "Компромисс · Compromise",
+        "duration": "4:11"
+      },
+      {
+        "position": "A3",
+        "title": "Солнце Встает · The Sun Is Rising",
+        "duration": "5:50"
+      },
+      {
+        "position": "A4",
+        "title": "Эй, Ты, Там, На Том Берегу · Hey, You, On The Opposite Bank",
+        "duration": "2:47"
+      },
+      {
+        "position": "A5",
+        "title": "Ветер Перемен · The Wind Of Changes",
+        "duration": "4:53"
+      },
+      {
+        "position": "B1",
+        "title": "Красное На Черном · Red On Black",
+        "duration": "4:59"
+      },
+      {
+        "position": "B2",
+        "title": "Воздух · Air",
+        "duration": "5:49"
+      },
+      {
+        "position": "B3",
+        "title": "Движение Вспять · Movement Backward",
+        "duration": "5:14"
+      },
+      {
+        "position": "B4",
+        "title": "Земля · Ground",
+        "duration": "5:47"
+      }
+    ],
+    "notes": "© «МЕЛОДИЯ», 1989\nВсесоюзная студия грамзаписи. Запись 1987 г.\nРИЖСКИЙ ОРДЕНА ЗНАК ПОЧЕТА ЗАВОД ГРАМПЛАСТИНОК\nТИП. РЗГ «МЕЛОДИЯ» 1989 1616 43900\n\nAlternate title: «Alice» Group - Block Of Hell\n",
+    "images": [
+      "https://i.discogs.com/GKOK0ojKx6Qsw3a__4SU3vF0zwCKBVrUYts_eaCFl_c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/ODYtMTQ0NzI0MTM1/Mi0xNTIzLmpwZWc.jpeg",
+      "https://i.discogs.com/aHhm4zw6aVZcovmcLV-LZm8Gs9jUQ1cb2EOgSfyZn7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/ODYtMTQ0NzI0MTM1/Mi01Mjg0LmpwZWc.jpeg",
+      "https://i.discogs.com/3hItzI1SvAti1ZL8pIsPZmxqDF4fWK9Q_Ck8-DDcDjk/rs:fit/g:sm/q:90/h:148/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/ODYtMTQ0NzI0MTM1/Mi01MzUzLmpwZWc.jpeg",
+      "https://i.discogs.com/KHcedRskd4YasxlZhqMdxw-lSUWy8fJmHii3X7v1YZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/ODYtMTQ0NzI0MTM1/Mi04MDEyLmpwZWc.jpeg",
+      "https://i.discogs.com/mouj5tnnvmyp7g0ReRspI_We_cItbktJ9mnK-tBlZPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/ODYtMTQ0NzI0MTM1/NC04MjQzLmpwZWc.jpeg"
+    ],
+    "lowestPrice": 2.78,
+    "numForSale": 24,
+    "updatedAt": "2026-10-15T10:24:58.693Z"
+  },
+  "alisa-legendy-russkogo-roka": {
+    "discogsReleaseId": 14731730,
+    "discogsUrl": "https://www.discogs.com/release/14731730-Алиса-Легенды-русского-рока",
+    "matchedBy": "catno",
+    "label": "Moroz Records",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock"
+    ],
+    "country": "Russia",
+    "released": "2019",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Вот так",
+        "duration": "4:21"
+      },
+      {
+        "position": "A2",
+        "title": "Трасса Е-95",
+        "duration": "3:36"
+      },
+      {
+        "position": "A3",
+        "title": "Апрель",
+        "duration": "4:20"
+      },
+      {
+        "position": "A4",
+        "title": "Веретено",
+        "duration": "4:01"
+      },
+      {
+        "position": "A5",
+        "title": "Ко мне",
+        "duration": "4:43"
+      },
+      {
+        "position": "B1",
+        "title": "Театр теней",
+        "duration": "5:27"
+      },
+      {
+        "position": "B2",
+        "title": "Мама",
+        "duration": "6:49"
+      },
+      {
+        "position": "B3",
+        "title": "Время менять имена",
+        "duration": "2:49"
+      },
+      {
+        "position": "B4",
+        "title": "Мы вместе",
+        "duration": "2:42"
+      },
+      {
+        "position": "B5",
+        "title": "Моё поколение",
+        "duration": "3:54"
+      },
+      {
+        "position": "C1",
+        "title": "Всё это Рок-н-Ролл",
+        "duration": "5:35"
+      },
+      {
+        "position": "C2",
+        "title": "Красное на чёрном",
+        "duration": "4:53"
+      },
+      {
+        "position": "C3",
+        "title": "Лодка",
+        "duration": "6:29"
+      },
+      {
+        "position": "C4",
+        "title": "Стерх",
+        "duration": "6:54"
+      },
+      {
+        "position": "D1",
+        "title": "Кибитка",
+        "duration": "6:52"
+      },
+      {
+        "position": "D2",
+        "title": "Плачь",
+        "duration": "6:05"
+      },
+      {
+        "position": "D3",
+        "title": "Дурак и Солнце",
+        "duration": "8:33"
+      },
+      {
+        "position": "D4",
+        "title": "Всё в наших руках",
+        "duration": "3:30"
+      }
+    ],
+    "notes": "Ремастеринг 2019г.\n(C) К. Кинчев, П. Кондратенко, П. Самойлов, Су Ши, ООО «М2», 2019.\n(C)&(P) ООО \"Музыкальное Право\", 2019.\nИзготовитель ООО \"Ультра Продакшн\"\nЛицензия Роскомнадзора №77-361, от 27.05.2013.\nИзготовлено в России.",
+    "images": [
+      "https://i.discogs.com/BG_8nHl97G8DaM7gxei5UOMfjjbz4mICB44-annKXvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NzMwLTE1ODA0OTg2/NDgtNzc0Ni5qcGVn.jpeg",
+      "https://i.discogs.com/wqjmhrIodzfPFfZ2vywqd3zxZGWcedrwvT6uLSUhE-U/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NzMwLTE1ODIwNDY2/MjgtODM5MC5qcGVn.jpeg",
+      "https://i.discogs.com/3bHuWsxAbyj0FR8q0CJmH_H51CIszHADjoaIpYeaf3g/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NzMwLTE2MDgwMjU4/NDUtMTQwNS5qcGVn.jpeg",
+      "https://i.discogs.com/MZGVv4trH2BeHZrbnk-bRON5POs1eVoW7w3CtG5PHcc/rs:fit/g:sm/q:90/h:351/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NzMwLTE1ODA1NjI1/OTctMzgyOC5qcGVn.jpeg"
+    ],
+    "lowestPrice": 153,
+    "numForSale": 2,
+    "updatedAt": "2026-10-15T10:25:01.656Z"
+  },
+  "auktsyon-bodun": {
+    "discogsReleaseId": 2308771,
+    "discogsUrl": "https://www.discogs.com/release/2308771-Аукцыон-Бодун",
+    "matchedBy": "catno",
+    "label": "SNC Records",
+    "genres": [
+      "Jazz",
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Experimental",
+      "Jazz-Rock"
+    ],
+    "country": "USSR",
+    "released": "1991",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "В Нелюди",
+        "duration": "1:43"
+      },
+      {
+        "position": "A2",
+        "title": "День Победы",
+        "duration": "4:08"
+      },
+      {
+        "position": "A3",
+        "title": "Ушла",
+        "duration": "5:03"
+      },
+      {
+        "position": "A4",
+        "title": "Сирота",
+        "duration": "5:02"
+      },
+      {
+        "position": "A5",
+        "title": "Слон",
+        "duration": "3:24"
+      },
+      {
+        "position": "B1",
+        "title": "Фа-Фа-Фа",
+        "duration": "6:13"
+      },
+      {
+        "position": "B2",
+        "title": "Warum?",
+        "duration": "2:40"
+      },
+      {
+        "position": "B3",
+        "title": "Летчик",
+        "duration": "2:30"
+      },
+      {
+        "position": "B4",
+        "title": "Зима",
+        "duration": "5:21"
+      },
+      {
+        "position": "B5",
+        "title": "Отлюбил",
+        "duration": "3:28"
+      }
+    ],
+    "notes": "Записано в студии SNC Records, 1991 г.\r\nТипография АЗГ. Зак. 95.",
+    "images": [
+      "https://i.discogs.com/sfAByQrtLEfknoQGPAPL8h4HX8P5uqrTcwJRpCtcWzc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTU5MjUzOTE4/MS0zMTc2LmpwZWc.jpeg",
+      "https://i.discogs.com/YWTm3dANV6fAK1sp3EqHlR0mNARxYz3Y31evdVE_KKs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTU5MjU3NDc4/OS02NjUxLmpwZWc.jpeg",
+      "https://i.discogs.com/wziOAdRmnBukp5MV4QylGnj7_Qt9ZAuwMzYiXNQc_Zk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTYwMTMxNTkz/My0zODc1LmpwZWc.jpeg",
+      "https://i.discogs.com/hubcuJOT0cQ5FIWO5Jd9dVslmtuTRAPg9KQKfzQGylM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTYwMTMxNTkz/My0xMzg5LmpwZWc.jpeg"
+    ],
+    "lowestPrice": 64.8,
+    "numForSale": 5,
+    "updatedAt": "2026-10-15T10:25:04.561Z"
+  },
+  "dyuna-the-best": {
+    "discogsReleaseId": 3251849,
+    "discogsUrl": "https://www.discogs.com/release/3251849-Philip-Glass-Itaipu-The-Canyon",
+    "matchedBy": "barcode",
+    "label": "Sony Classical",
+    "genres": [
+      "Classical"
+    ],
+    "styles": [
+      "Contemporary"
+    ],
+    "country": "Europe",
+    "released": "2003",
+    "tracklist": [
+      {
+        "position": "5",
+        "title": "The Canyon",
+        "duration": "16:33"
+      }
+    ],
+    "notes": "Produced for Euphorbia Productions, Ltd., New York City\nRecorded at Symphony Hall, Atlanta, Georgia\nRemixed at The Looking Glass Studios, NYC\nItaipu: Copyright 1988 Dunvagen Music Publishers, Inc.; Commissioned by an anonymous gift to the Atlanta Symphony Orchestra, Robert Shaw, Director\nThe Canyon: Copyright 1988 Dunvagen Music Publishers, Inc.; Commissioned by Voorheem ADM Oudegracht, The Netherlands\n",
+    "images": [
+      "https://i.discogs.com/dWXVyQLRtlhjsOBYLmJ-porcy5yOl5fVDLULp_FmY98/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/Mi03Mzc3LmpwZWc.jpeg",
+      "https://i.discogs.com/Vbk-4hQnzm1BlQf659E5I3CMudTOIeNL67iZvGUpsIk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU5/OC0xMTEwLmpwZWc.jpeg",
+      "https://i.discogs.com/5tGdMn4zHZ2kcDPWqFblBb_Ia2ijSa0ck_akuxF_BM4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU4/NS01OTI2LmpwZWc.jpeg",
+      "https://i.discogs.com/LuaWCuSurbHp3Pvwsr-qSD9qRH8SpqhTq_wOgLTaGck/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU5/OC05NjY5LmpwZWc.jpeg",
+      "https://i.discogs.com/C6rCQf9o_H2h_vwNJPoC-gEBYYd-vZ11k-E3WnNF4Vc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTU5/MS0yMjAzLmpwZWc.jpeg",
+      "https://i.discogs.com/W4emd_PhX2NqSH4SPAPWTdMGEvpcrQ2ofnQFjpTtB00/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/Mi02NDM3LmpwZWc.jpeg",
+      "https://i.discogs.com/7YHTwiJ868qjE6HxGWXLzjX_MYUsX366pAlNXu7Y16A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/MS01MzAxLmpwZWc.jpeg",
+      "https://i.discogs.com/TAo7U3rnwXi8ozOhrUQz4HsZJNjXJdUFMURbJKdHJJw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/NS03MDE2LmpwZWc.jpeg",
+      "https://i.discogs.com/Zvky0r8Yp5p32gVZ2mq7cgGieEXmd9R9zpCM3VLnHnY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYw/OC0yMjAzLmpwZWc.jpeg",
+      "https://i.discogs.com/3A7PhnCCk8zL2963XDdhWZXDsBCi_uHh_9pFISr9JDk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/Mi0xMDUxLmpwZWc.jpeg",
+      "https://i.discogs.com/j7jBEJ__9uenNwX12WQfqecqeLnWJNrv6bsmYArmIas/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/NC03NzM1LmpwZWc.jpeg",
+      "https://i.discogs.com/1cQRPkGIW7HYRiyZgNK1D5tlHJ9DSGJbbxY58fXpWWw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/Ni0yNjY3LmpwZWc.jpeg",
+      "https://i.discogs.com/E4K9zCN6cZjHWDdoOMoQrqtraD1c5QGDxYQQEbduMds/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYx/OS01MTk1LmpwZWc.jpeg",
+      "https://i.discogs.com/YoWuwC4vDUM0I-wYoghXWk9Ahem5Xx26Xz-hYH9u8uI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTYy/My0zMjUwLmpwZWc.jpeg",
+      "https://i.discogs.com/hH69506qrMMWCl8WM8aXLPfy2HS4S6Np5iF-4HcTWdQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTgw/Ny03ODY3LmpwZWc.jpeg",
+      "https://i.discogs.com/Oxxzq8_5qmPEvGd2yG4Goe30AIDei1-k2IV3lY-cQSw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE4/NDktMTc4Mzk4MTgw/OC0xNTI4LmpwZWc.jpeg"
+    ],
+    "lowestPrice": 7.89,
+    "numForSale": 5,
+    "updatedAt": "2026-10-15T10:25:12.871Z"
+  },
+  "zodiak-muzyka-vo-vselennoy": {
+    "discogsReleaseId": 10792006,
+    "discogsUrl": "https://www.discogs.com/release/10792006-Zodiac-3-Music-In-The-Universe-Музыка-Во-Вселенной",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "Space Rock",
+      "Prog Rock",
+      "Disco"
+    ],
+    "country": "USSR",
+    "released": "1982",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The Mysterious Galaxy = Таинственная Галактика",
+        "duration": "4:45"
+      },
+      {
+        "position": "A2",
+        "title": "Laser Illumination = Лазерная Иллюминация",
+        "duration": "4:11"
+      },
+      {
+        "position": "A3",
+        "title": "Silver Dream = Серебряная Мечта",
+        "duration": "3:32"
+      },
+      {
+        "position": "A4",
+        "title": "Photo Finish = Фотофиниш",
+        "duration": "4:43"
+      },
+      {
+        "position": "B1",
+        "title": "The Other Side Of Heaven = Другая Сторона Неба",
+        "duration": "5:17"
+      },
+      {
+        "position": "B2",
+        "title": "In The Light Of Saturn = В Свете Сатурна",
+        "duration": "3:47"
+      },
+      {
+        "position": "B3",
+        "title": "Flight Over El Dorado = Полет Над Эльдорадо",
+        "duration": "5:07"
+      }
+    ],
+    "notes": "This version has Blue Labels with Silver letters in English, has No sleevenotes on laminated cover, only tracklists and credit in Russian and English on backsleeve.\n\nProgramme is dedicated to the 25th anniversary of the Soviet astronautics.\n\n© »МЕЛОДИА«, 1982\nРижская студия грамзаписи. \nЗапись 1982 г.\n",
+    "images": [
+      "https://i.discogs.com/nkZP081DNpA0MxXUZzQj3kxBoLV3WtFnKtYR2nv7Td0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MDA2LTE1MDQzOTEw/ODktOTYxNi5qcGVn.jpeg",
+      "https://i.discogs.com/HpI-57UEHBQcBtc1fB9hZ182IO_McxAkFZPZyhm4Iis/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MDA2LTE1MDQzOTEw/ODktNDI4MC5qcGVn.jpeg",
+      "https://i.discogs.com/6xsxJRv845tVtUiVZF7JxhIq-sb_Ri4fVmPHm7GlxeA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MDA2LTE1MDQzOTEw/ODktOTY1Ni5qcGVn.jpeg",
+      "https://i.discogs.com/15YkxZDRvuOBYALpaAUudqBAqwYWtQJstUyAfYbr5gw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MDA2LTE1MDQzOTEw/ODktNTU2Ny5qcGVn.jpeg"
+    ],
+    "lowestPrice": 10.95,
+    "numForSale": 5,
+    "updatedAt": "2026-10-15T10:25:15.889Z"
+  },
+  "zodiak-disko-alyans": {
+    "discogsReleaseId": 11452213,
+    "discogsUrl": "https://www.discogs.com/release/11452213-Zodiac-3-Disco-Alliance-",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Space Rock",
+      "Synth-pop",
+      "Disco"
+    ],
+    "country": "USSR",
+    "released": "1982",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Зодиак",
+        "duration": "5:12"
+      },
+      {
+        "position": "A2",
+        "title": "Пасифик",
+        "duration": "3:52"
+      },
+      {
+        "position": "A3",
+        "title": "Провинциальное Диско",
+        "duration": "4:18"
+      },
+      {
+        "position": "B1",
+        "title": "Поло",
+        "duration": "3:17"
+      },
+      {
+        "position": "B2",
+        "title": "Мираж",
+        "duration": "4:02"
+      },
+      {
+        "position": "B3",
+        "title": "Рок На Льду",
+        "duration": "2:42"
+      },
+      {
+        "position": "B4",
+        "title": "Альянс",
+        "duration": "3:41"
+      }
+    ],
+    "notes": "Инструментальная рок-группа \"ЗОДИАК\"\nМузыкальный руководитель Янис Лусенс\nЗак. 1570/3 Тир. 25000\n\nManufacturer, as printed on label:\n© \"Мелодия\", 1982\nВсесоюзная студия грамзаписи. Запись 1980 г.\n\nЛенинградский Завод Грампластинок\n\nАрт. 36-9. Цена 2 руб. 15 коп.\n\nRed label.",
+    "images": [
+      "https://i.discogs.com/ZuUbh0vvIzTlYJZnQ4nssiUlfGP9GGCLPI51jPMIckQ/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/MjEzLTE1MTY1NjYw/OTQtNDg0OS5qcGVn.jpeg",
+      "https://i.discogs.com/kMWrFL3EaisPzl_tx3U-eMDoLZCIo5V8l61BnqvbPSM/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/MjEzLTE1MTY1NjYw/OTktNDI5Ni5qcGVn.jpeg",
+      "https://i.discogs.com/9F5lP0HMAkgvlOvOZyiOH_s22L7hsKWtPQ3KW15frcE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/MjEzLTE1MTY1NjYx/MDMtODQ1NC5qcGVn.jpeg"
+    ],
+    "lowestPrice": 5,
+    "numForSale": 2,
+    "updatedAt": "2026-10-15T10:25:19.048Z"
+  },
+  "lui-armstrong-estradnye-pesni": {
+    "discogsReleaseId": 30454730,
+    "discogsUrl": "https://www.discogs.com/release/30454730-Луи-Армстронг-Луи-Армстронг",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Jazz"
+    ],
+    "styles": [],
+    "country": "USSR",
+    "released": null,
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Мэкки-Нож",
+        "duration": null
+      },
+      {
+        "position": "A2",
+        "title": "Блюз Улицы Бэсин",
+        "duration": null
+      },
+      {
+        "position": "A3",
+        "title": "Я Не Так Уж Плох",
+        "duration": null
+      },
+      {
+        "position": "A4",
+        "title": "В Кольце Твоих Рук",
+        "duration": null
+      },
+      {
+        "position": "A5",
+        "title": "Внизу У Реки",
+        "duration": null
+      },
+      {
+        "position": "B1",
+        "title": "Мейм",
+        "duration": null
+      },
+      {
+        "position": "B2",
+        "title": "Блюз Западной Окраины",
+        "duration": null
+      },
+      {
+        "position": "B3",
+        "title": "Весь Я",
+        "duration": null
+      },
+      {
+        "position": "B4",
+        "title": "Блюз Жестяной Крыши",
+        "duration": null
+      },
+      {
+        "position": "B5",
+        "title": "Симпатичная Девчушка",
+        "duration": null
+      },
+      {
+        "position": "B6",
+        "title": "Тряпичный Тигр",
+        "duration": null
+      }
+    ],
+    "notes": "Original song titles:\r\nA1 Mack The Knife\r\nA2 Basin Street Blues\r\nA3 Ain't Misbehavin\r\nA4 The Circle Of Your Arms\r\nA5 Down By The Riverside\r\nB1 Mame\r\nB2 West End Blues\r\nB3 All Of Me\r\nB4 Tin Roof Blues\r\nB5 Pretty Girl\r\nB6 Tiger Rag\r\n",
+    "images": [
+      "https://i.discogs.com/Oo_ns-O7_LIdNiK0dml8FpE1SU92_LSXkuPeh8lNc3g/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDU0/NzMwLTE3MTM2MzI5/ODktNDA4OS5qcGVn.jpeg",
+      "https://i.discogs.com/s38hf5-6eYzUX0BZIe3t8S7NSBItL7ams_RYM8MRRR8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDU0/NzMwLTE3MTM2MzI5/ODYtMjg2Mi5qcGVn.jpeg",
+      "https://i.discogs.com/Aflj5Y1Y7fJ8Tv63wDqek3o9JWLmYsBP_HnqwOeqzu8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDU0/NzMwLTE3MTM2MzI5/ODEtMzMyMS5qcGVn.jpeg"
+    ],
+    "lowestPrice": 5.99,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:25:21.876Z"
+  },
+  "mashina-vremeni-v-dobryy-chas": {
+    "discogsReleaseId": 1941323,
+    "discogsUrl": "https://www.discogs.com/release/1941323-Машина-Времени-В-Добрый-Час",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Rock & Roll",
+      "Soft Rock"
+    ],
+    "country": "USSR",
+    "released": "1986",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Путь",
+        "duration": "3:19"
+      },
+      {
+        "position": "A2",
+        "title": "За Тех, Кто В Море",
+        "duration": "3:42"
+      },
+      {
+        "position": "A3",
+        "title": "Музыка Под Снегом",
+        "duration": "4:29"
+      },
+      {
+        "position": "A4",
+        "title": "Пока Горит Свеча",
+        "duration": "4:10"
+      },
+      {
+        "position": "A5",
+        "title": "В Добрый Час",
+        "duration": "3:31"
+      },
+      {
+        "position": "B1",
+        "title": "Хрустальный Город",
+        "duration": "6:06"
+      },
+      {
+        "position": "B2",
+        "title": "Снег",
+        "duration": "2:58"
+      },
+      {
+        "position": "B3",
+        "title": "Скворец",
+        "duration": "3:50"
+      },
+      {
+        "position": "B4",
+        "title": "Рыбка В Банке",
+        "duration": "2:55"
+      },
+      {
+        "position": "B5",
+        "title": "Старый Рок-н-ролл",
+        "duration": "3:10"
+      }
+    ],
+    "notes": "Mashina Vremeni - Good Luck.\r\nПесни из кинофильмов \"Душа\" (A1, A2) и \"Начни сначала\" (A3 to A5).\r\n\r\n© «МЕЛОДИЯ», 1986. Всесоюзная студия грамзаписи\r\nЗапись Всесоюзной студии грамзаписи и киностудии «Мосфильм» 1980 — 1985 гг.\r\n\r\nАрт. 11-1. Цена руб. 2,50.\r\n",
+    "images": [
+      "https://i.discogs.com/pmnCAZKdFLg6ULN6aE8oJGtBUb2rX5X_dyxk8dTjhmI/rs:fit/g:sm/q:90/h:400/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEz/MjMtMTI1NDUwMzc0/MC5qcGVn.jpeg",
+      "https://i.discogs.com/BSIY8JMkyf7uPAsa_NTy1SXWpPeXPGUnkoOmbQ2t65I/rs:fit/g:sm/q:90/h:392/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEz/MjMtMTI1NDExMDIy/MS5qcGVn.jpeg",
+      "https://i.discogs.com/YotrdXw9E4S-X9Edb7aUPYbAWTA0OhonlHI8knFhav4/rs:fit/g:sm/q:90/h:394/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEz/MjMtMTI1NDExMDIz/My5qcGVn.jpeg"
+    ],
+    "lowestPrice": 5,
+    "numForSale": 7,
+    "updatedAt": "2026-10-15T10:25:24.690Z"
+  },
+  "mroya-dvatstsats-vosmaya-zorka": {
+    "discogsReleaseId": 4833118,
+    "discogsUrl": "https://www.discogs.com/release/4833118-Мроя-Mroya-Дваццаць-Восьмая-Зорка-28th-Star",
+    "matchedBy": "catno",
+    "label": "Мелодия",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock"
+    ],
+    "country": "USSR",
+    "released": "1990",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Дваццаць Восьмая Зорка = Двадцать Восьмая Звезда = 28th Star",
+        "duration": "5:07"
+      },
+      {
+        "position": "A2",
+        "title": "Мама-Мафія = Мама-Мафия = Mother-Mafia",
+        "duration": "3:42"
+      },
+      {
+        "position": "A3",
+        "title": "Шмат = Много = A Lot Of",
+        "duration": "4:48"
+      },
+      {
+        "position": "A4",
+        "title": "Кастрычніцкі Цягнік = Октябрьский Поезд = October Train",
+        "duration": "5:30"
+      },
+      {
+        "position": "B1",
+        "title": "Апошні Iнспектар = Последний Инспектор = The Last Inspector",
+        "duration": "7:51"
+      },
+      {
+        "position": "B2",
+        "title": "Аўстралійская Полька = Австралийская Полька = Australian Polka",
+        "duration": "3:05"
+      },
+      {
+        "position": "B3",
+        "title": "Зямля = Земля = Earth",
+        "duration": "4:05"
+      },
+      {
+        "position": "B4",
+        "title": "Я – Рок-Музыкант = Я – Рок-Музыкант = I'm A Rock Musician",
+        "duration": "4:16"
+      }
+    ],
+    "notes": "Sung in Byelorussian [Belarusian].\n\n© ВТПО «Фирма Мелодия», 1990\nЗапись 1989 г. [recorded in 1989]\n\n4.09.90. Тип. завода З.23090-о-10 000.\n\n\nMistyping of track title A1 / album title on back sleeve: Дваццать Восьмая Зорка\n\nAll songs listed in Belarusian, Russian and English on the back cover.\n",
+    "images": [
+      "https://i.discogs.com/FYobWabAyn6V_RJ-WLlUY8naPXDjPexEeHYXeccpCnk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzMx/MTgtMTM3NjkyNTky/MC0yMDYwLmpwZWc.jpeg",
+      "https://i.discogs.com/zLkeEnWuLylwFY1H7wQZIUr3aYq6CoE1HlvGzRg9jHA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzMx/MTgtMTM3ODg0MTI1/Mi03NTY4LmpwZWc.jpeg",
+      "https://i.discogs.com/uzcTHFiQ3BT7htIcjYHbBIea5rLptwQKEgYvnEWuerk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzMx/MTgtMTM3ODg0MTI3/Ny0xODcyLmpwZWc.jpeg",
+      "https://i.discogs.com/WFL00wTAdosvhUuHGjhnw0bQTdGLJaTmTknZpGeXe3U/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzMx/MTgtMTM3ODg0MTI5/MC00MDY2LmpwZWc.jpeg"
+    ],
+    "lowestPrice": null,
+    "numForSale": 0,
+    "updatedAt": "2026-10-15T10:25:27.444Z"
+  },
+  "neyro-dyubel-okhotnik-i-saygak": {
+    "discogsReleaseId": 31768049,
+    "discogsUrl": "https://www.discogs.com/release/31768049-Нейро-Дюбель-Охотник-и-Сайгак",
+    "matchedBy": "catno",
+    "label": "БМАgroup",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Punk"
+    ],
+    "country": "Poland",
+    "released": "2024-09-00",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Охотник и Сайгак",
+        "duration": "3:35"
+      },
+      {
+        "position": "A2",
+        "title": "Ехала Домой",
+        "duration": "3:40"
+      },
+      {
+        "position": "A3",
+        "title": "Счастье",
+        "duration": "2:55"
+      },
+      {
+        "position": "A4",
+        "title": "Трамвай",
+        "duration": "2:05"
+      },
+      {
+        "position": "A5",
+        "title": "Тюльпаны",
+        "duration": "2:40"
+      },
+      {
+        "position": "A6",
+        "title": "Одуванчики",
+        "duration": "5:00"
+      },
+      {
+        "position": "A7",
+        "title": "Винтокрылая птица",
+        "duration": "5:06"
+      },
+      {
+        "position": "B1",
+        "title": "Неуклонно стирвенею",
+        "duration": "3:35"
+      },
+      {
+        "position": "B2",
+        "title": "Она и они",
+        "duration": "3:05"
+      },
+      {
+        "position": "B3",
+        "title": "Лягушка",
+        "duration": "2:05"
+      },
+      {
+        "position": "B4",
+        "title": "Петрова",
+        "duration": "3:45"
+      },
+      {
+        "position": "B5",
+        "title": "Суслики убийцы",
+        "duration": "2:05"
+      },
+      {
+        "position": "B6",
+        "title": "Переехала комбайном",
+        "duration": "4:05"
+      },
+      {
+        "position": "B7",
+        "title": "Дети",
+        "duration": "1:25"
+      }
+    ],
+    "notes": "Made in Poland",
+    "images": [
+      "https://i.discogs.com/eCangX1wqFuqTYWm_nOe29Mf4WU7jLJTZCm2pT6IKSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3Mjg5MzUy/NjYtNTQzOS5qcGVn.jpeg",
+      "https://i.discogs.com/9u0jLDj7AlHODrKV_B8EeoOvHUkjq0qaeW7NhHrUh6g/rs:fit/g:sm/q:90/h:506/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjMtNjk0NS5qcGVn.jpeg",
+      "https://i.discogs.com/n1YhnOwbIxWnJsdqHnCWvX-RPgjAoB54yEtQbsYtTdQ/rs:fit/g:sm/q:90/h:458/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjctNjE5NS5qcGVn.jpeg",
+      "https://i.discogs.com/9DWpvWn3pbZ_zMC5kdJR5hKXoFDU_76FZ7FBrEhiLpE/rs:fit/g:sm/q:90/h:362/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjEtNzYzOS5qcGVn.jpeg",
+      "https://i.discogs.com/0MHRSRSXbg32GiDgn2QPuCPEeNLNOPYPM3jCFDdIhK4/rs:fit/g:sm/q:90/h:445/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjctMzE3OS5qcGVn.jpeg",
+      "https://i.discogs.com/3buzqapaf3WkxHatvOW7Ww-Yvr4lf_PhFqAZpowlyNw/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjctNzIyMC5qcGVn.jpeg",
+      "https://i.discogs.com/qtaWy5-MdElkn5rHZvGz28D_DliXVgyQvo4otEXNp0g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjQtOTU1NS5qcGVn.jpeg",
+      "https://i.discogs.com/0KsGe_Z5VzlzZm-u9u9JjhyZvaXRCdi2cybdu9sjDng/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjctMTEzMy5qcGVn.jpeg",
+      "https://i.discogs.com/Fff3WcdwjliVy0em_uYOow7OjDMhDqr_acJBh4AxC3o/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MDQ5LTE3MjY2OTAw/NjUtMTE1My5qcGVn.jpeg"
+    ],
+    "lowestPrice": 35,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:25:30.280Z"
+  },
+  "piknik-rodom-niotkuda": {
+    "discogsReleaseId": 7058933,
+    "discogsUrl": "https://www.discogs.com/release/7058933-Пикник-Родом-Ниоткуда",
+    "matchedBy": "catno",
+    "label": "Bomba Music",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Prog Rock",
+      "Blues Rock"
+    ],
+    "country": "Russia",
+    "released": "2014",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Я Невидим",
+        "duration": "6:07"
+      },
+      {
+        "position": "A2",
+        "title": "Интересно",
+        "duration": "5:38"
+      },
+      {
+        "position": "A3",
+        "title": "Нет Берегов",
+        "duration": "5:09"
+      },
+      {
+        "position": "A4",
+        "title": "Романс",
+        "duration": "2:24"
+      },
+      {
+        "position": "B1",
+        "title": "Это Он",
+        "duration": "4:36"
+      },
+      {
+        "position": "B2",
+        "title": "Стоя На Этой Лестнице (Вспоминая \"Led Zeppelin\")",
+        "duration": "5:08"
+      },
+      {
+        "position": "B3",
+        "title": "Дай Себя Сорвать",
+        "duration": "5:03"
+      },
+      {
+        "position": "B4",
+        "title": "Все Остальное - Дым",
+        "duration": "3:01"
+      }
+    ],
+    "notes": "remake version of original album",
+    "images": [
+      "https://i.discogs.com/9etJNwLWsKlsfwY154h-cjOdAxeDw83BCv9cNG5XdF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQ3MTIwNzk3/MS02OTQzLmpwZWc.jpeg",
+      "https://i.discogs.com/9olGr19h7pbl6T-D-UxZfElhECYV0LF7oF9blhMxqmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQ3MTIwNzk3/Mi04NzU5LmpwZWc.jpeg",
+      "https://i.discogs.com/29cAPC8f8YnQo3T98hCYE2kmsciiiGzyII0gzeCl1Pg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQ3MTIwNzk3/Mi00ODM0LmpwZWc.jpeg",
+      "https://i.discogs.com/iYaBD1y6irOVVi-Dm1f-N9ASO18roCaDtRTDAo17W74/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQzMjc0MjM1/Ni02OTk4LmpwZWc.jpeg",
+      "https://i.discogs.com/lz3dw6wFi-_N8jJj294q3a_-3e3R9oMYibTLgrNmrNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQzMjc0MjM1/Ni01MjA4LmpwZWc.jpeg",
+      "https://i.discogs.com/UuVB_0cHhZKdAmt6tiXjqybmtMgNYuVVDb7gE4Quir0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQzMjc0MjM1/Ni00OTEwLmpwZWc.jpeg",
+      "https://i.discogs.com/TubVQoGnk220VShAFwSyUBscoei541NpMDBt-vQZZ84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQzMjc0MjM1/Ni0xMTAzLmpwZWc.jpeg",
+      "https://i.discogs.com/H-C1F1wOS6f7fqJwGqb6vKutCOsiQVpw0uwH9SbnvOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg5/MzMtMTQ3MTIwNzk3/Mi00MjY0LmpwZWc.jpeg"
+    ],
+    "lowestPrice": 110,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:25:37.143Z"
+  },
+  "adrian-enescu-dance-funky-synthesizer-volume-2": {
+    "discogsReleaseId": 5078641,
+    "discogsUrl": "https://www.discogs.com/release/5078641-Adrian-Enescu-Dance-Funky-Synthesizer-Volume-2",
+    "matchedBy": "catno",
+    "label": "Electrecord",
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Fusion",
+      "Synth-pop"
+    ],
+    "country": "Romania",
+    "released": "1984",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Cuvinte Încrucișate (Crosswords)",
+        "duration": null
+      },
+      {
+        "position": "A2",
+        "title": "Country Steel",
+        "duration": null
+      },
+      {
+        "position": "A3",
+        "title": "În Cerc (In The Circle)",
+        "duration": null
+      },
+      {
+        "position": "A4",
+        "title": "Cursa (Race)",
+        "duration": null
+      },
+      {
+        "position": "B5",
+        "title": "Agendă (Notebook)",
+        "duration": null
+      },
+      {
+        "position": "B6",
+        "title": "Flori De Cîmp (Flowers In The Plain)",
+        "duration": null
+      },
+      {
+        "position": "B7",
+        "title": "Punct Contrapunct (Point Counterpoint)",
+        "duration": null
+      },
+      {
+        "position": "B8",
+        "title": "În Vis (In The Dream)",
+        "duration": null
+      }
+    ],
+    "notes": "Made in Romania\r\n\r\nTracks sequentially listed\r\nTrack B5 misprinted as \"Angenda\" on B side label\r\nAlternative title spelling, on labels : “Dance Funky Synthesizer” Volume II\r\nRelease year uncredited\r\n\r\nBlack labels with grey lettering\r\nDifferences on \"ST 33\" logo, than \"[r6890859]\" version.",
+    "images": [
+      "https://i.discogs.com/UT1GsHqBO0A6xB4DZfiBOwnhiQ2CXMupA2I8XmS_VY4/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg2/NDEtMTM4MzkxMzU0/MC01MzEyLmpwZWc.jpeg",
+      "https://i.discogs.com/g8kDYFnF70XWODCaX4GZJaHJabP7yqMPa1zTMCbqlbE/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg2/NDEtMTM4MzkxMzU1/MS01ODU0LmpwZWc.jpeg",
+      "https://i.discogs.com/JDY076pY6HFUVb3O9Fz0qSznDmy7U9UHNBFLPkrz6LQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg2/NDEtMTM4MzkxMzU1/Ni02OTA3LmpwZWc.jpeg",
+      "https://i.discogs.com/ybs3EoDI7wcb-yzjbNPafPYzVuSxlSWum83NFUWOOT8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg2/NDEtMTM4MzkxMzU2/MC01Njk0LmpwZWc.jpeg"
+    ],
+    "lowestPrice": 4.99,
+    "numForSale": 10,
+    "updatedAt": "2026-10-15T10:25:44.182Z"
+  },
+  "vladimir-migulya-i-gr-zemlyane-pesni-v-miguli": {
+    "discogsReleaseId": 1463351,
+    "discogsUrl": "https://www.discogs.com/release/1463351-Владимир-Мигуля-И-Земляне-Песни-В-Мигули",
+    "matchedBy": "manual",
+    "label": "Мелодия",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Disco"
+    ],
+    "country": "USSR",
+    "released": "1981",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Поезд",
+        "duration": "3:49"
+      },
+      {
+        "position": "A2",
+        "title": "В Саду Играет Музыка",
+        "duration": "3:10"
+      },
+      {
+        "position": "A3",
+        "title": "Танцуем «Диско»",
+        "duration": "3:26"
+      },
+      {
+        "position": "A4",
+        "title": "Аве Мария",
+        "duration": "4:36"
+      },
+      {
+        "position": "A5",
+        "title": "Любовь Надо Беречь",
+        "duration": "3:06"
+      },
+      {
+        "position": "B1",
+        "title": "Каратэ",
+        "duration": "2:22"
+      },
+      {
+        "position": "B2",
+        "title": "Земляничная Поляна",
+        "duration": "3:14"
+      },
+      {
+        "position": "B3",
+        "title": "Три Дня",
+        "duration": "2:10"
+      },
+      {
+        "position": "B4",
+        "title": "Медовый Месяц",
+        "duration": "2:45"
+      },
+      {
+        "position": "B5",
+        "title": "Ты Мне Снишься",
+        "duration": "3:38"
+      },
+      {
+        "position": "B6",
+        "title": "Если Бы",
+        "duration": "3:34"
+      }
+    ],
+    "notes": "© \"Мелодия\", 1981\r\nВсесоюзная студия грамзаписи. Запись 1980 г.\r\nРИЖСКИЙ ЗАВОД ГРАМПЛАСТИНОК\r\n",
+    "images": [
+      "https://i.discogs.com/jGt6QsXGyfoYuXREZhlL51BS_XsH854tXUrf0oNbxfw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NTEtMTMwOTE2MzIy/MC5qcGVn.jpeg",
+      "https://i.discogs.com/r-_wHj-qglVZ9NdUjOcA0aaeMA_Vl1g-De3VY55XT3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NTEtMTM3NzYwMTI0/Mi01NzI3LmpwZWc.jpeg",
+      "https://i.discogs.com/RY-FcbIOXrwcM9plv-oIgZzEt9KYVKJGIcrSlbb3c1I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NTEtMTM3NzYwMTI1/MC03OTMzLmpwZWc.jpeg"
+    ],
+    "lowestPrice": 2.5,
+    "numForSale": 8,
+    "updatedAt": "2026-10-15T10:29:24.117Z"
+  },
+  "orkestr-rozhdestvenskogo-maugli": {
+    "discogsReleaseId": 2040614,
+    "discogsUrl": "https://www.discogs.com/release/2040614-Р-Киплинг-Маугли",
+    "matchedBy": "manual",
+    "label": "Мелодия",
+    "genres": [
+      "Children's"
+    ],
+    "styles": [
+      "Story"
+    ],
+    "country": "USSR",
+    "released": "1978",
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Маугли",
+        "duration": null
+      },
+      {
+        "position": "В",
+        "title": "Маугли (Окончание)",
+        "duration": null
+      }
+    ],
+    "notes": "© Апрелевский ордена Ленина завод грампластинок, 1978\r\nАрт. 11-8. Цена 1 руб. 25 коп.\r\n",
+    "images": [
+      "https://i.discogs.com/1BI0oYikLGEpUvBj8bs0blEVlF_K9WB5W9ZSTX12PMY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/MTQtMTY1ODUwNDUz/MS02NjI5LmpwZWc.jpeg"
+    ],
+    "lowestPrice": 27,
+    "numForSale": 1,
+    "updatedAt": "2026-10-15T10:29:26.801Z"
+  },
+  "yaak-yoala-sama-lyubov": {
+    "discogsReleaseId": 1841943,
+    "discogsUrl": "https://www.discogs.com/release/1841943-Яак-Йоала-Сама-Любовь",
+    "matchedBy": "manual",
+    "label": "Мелодия",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ],
+    "styles": [
+      "Synth-pop",
+      "Vocal"
+    ],
+    "country": "USSR",
+    "released": "1986",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Не Забывай",
+        "duration": null
+      },
+      {
+        "position": "A2",
+        "title": "Предсказание",
+        "duration": null
+      },
+      {
+        "position": "A3",
+        "title": "Прощальный День",
+        "duration": null
+      },
+      {
+        "position": "B1",
+        "title": "Что-то Было",
+        "duration": null
+      },
+      {
+        "position": "B2",
+        "title": "Сама Любовь",
+        "duration": null
+      },
+      {
+        "position": "B3",
+        "title": "Свадебные Кони",
+        "duration": null
+      }
+    ],
+    "notes": "© «МЕЛОДИЯ», 1985\nВсесоюзная студия грамзаписи\nЗапись Всесоюзного радио, 1985 г.\nАпрелевский ордена Ленина завод грампластинок\n\nVariant 1: Зак. 643—О—130000\nVariant 2: Зак. 711—О—35000\nVariant 3: Зак. 408—О—25500\n",
+    "images": [
+      "https://i.discogs.com/_Y2SZ-22acL-uNMXoshp8uI1eu7F-HAvVxHPA5k4kVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTI5NzM2MzMx/Ny5qcGVn.jpeg",
+      "https://i.discogs.com/WtG_iR8eHBZIMPsIo0I7N49rFz8DKr2UA_zJTEH23qc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTI3OTQ0NTU1/My5qcGVn.jpeg",
+      "https://i.discogs.com/Um-HHrtfrbr0at9BME59-IsyTs9R7zv8_PglsrSBo34/rs:fit/g:sm/q:90/h:151/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTM2NDk5OTEx/OS00NzE2LmpwZWc.jpeg",
+      "https://i.discogs.com/9t2GTnP-j5cUxRSHkxfkMaFurX_vz-vPkusez2FMPhs/rs:fit/g:sm/q:90/h:151/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTM2NDk5OTEz/My04MDkwLmpwZWc.jpeg",
+      "https://i.discogs.com/p4maPS6qn5-XalLawpg9irFsnQBop1v4GhLBD4ejQBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTI5NzM2Mjk0/My5qcGVn.jpeg",
+      "https://i.discogs.com/_mqBchlbhaMbNMi0XJ00LTbqo2llRROdUNpf90-hAFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE5/NDMtMTI5NzM2MzAz/Ny5qcGVn.jpeg"
+    ],
+    "lowestPrice": 1.15,
+    "numForSale": 7,
+    "updatedAt": "2026-10-15T10:29:29.408Z"
+  },
+  "felix-slovacek-saksofon": {
+    "discogsReleaseId": 28940581,
+    "discogsUrl": "https://www.discogs.com/release/28940581-Felix-Slováček-Феликс-Словачек",
+    "matchedBy": "manual",
+    "label": "Мелодия",
+    "genres": [
+      "Jazz"
+    ],
+    "styles": [
+      "Easy Listening"
+    ],
+    "country": "USSR",
+    "released": "1983",
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Когда Уходишь = Když Odcházíš",
+        "duration": "4:15"
+      },
+      {
+        "position": "A2",
+        "title": "Ты Озарила Мою Жизнь = Prozářila Jsi Můj Život",
+        "duration": "3:35"
+      },
+      {
+        "position": "A3",
+        "title": "Так, Как Я Тебя Люблю = Protože Tě Mám Rád",
+        "duration": "2:30"
+      },
+      {
+        "position": "A4",
+        "title": "Радость До Утра = Radost Až Do Rána",
+        "duration": "3:00"
+      },
+      {
+        "position": "A5",
+        "title": "Ты Уже Не Вернешься = Už Se Nevrátíš",
+        "duration": "3:40"
+      },
+      {
+        "position": "A6",
+        "title": "Романс Надира Из Оперы Ж. Бизе «Искатели Жемчуга» = Romance Nadira Z Opery Lovci Perel",
+        "duration": "3:35"
+      },
+      {
+        "position": "B1",
+        "title": "Говори Тише, Любовь = Sen Lásky = Speak Softly Love",
+        "duration": "2:30"
+      },
+      {
+        "position": "B2",
+        "title": "Певец = El Cantor = Zpěvák",
+        "duration": "3:20"
+      },
+      {
+        "position": "B3",
+        "title": "Прощай, Черный Дрозд = Sbohem Kose = Bye, Bye Blackbird",
+        "duration": "2:20"
+      },
+      {
+        "position": "B4",
+        "title": "Моя Улыбка Всегда С Тобой = Můj Úsměv Chodí S Tebou",
+        "duration": "2:35"
+      },
+      {
+        "position": "B5",
+        "title": "Скажи Мне Это Шепотом = Říkej Mi To Prosím Potichoučku",
+        "duration": "3:00"
+      },
+      {
+        "position": "B6",
+        "title": "Эй, Не Жди Любовь = Hej, Lásko Nečekej",
+        "duration": "4:45"
+      },
+      {
+        "position": "B7",
+        "title": "Фрагмент Балета П. Чайковского «Лебединое Озеро» = Motiv Z Labutího Jezera",
+        "duration": "2:30"
+      }
+    ],
+    "notes": "Тип. РЗГ «Мелодия» 1983 2958",
+    "images": [
+      "https://i.discogs.com/VqRC74rul1A1jVj_aUw-GSwzGlPtixWa8h-tkqO2nvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NTgxLTE3MDAyMTcx/NzEtOTkyMC5qcGVn.jpeg",
+      "https://i.discogs.com/MA6GsgYarK9v6hlSg7P7WSOC-KzFLmQbCCQ9SDLRUMM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NTgxLTE3MDAyMTcx/NzEtNzQxMC5qcGVn.jpeg",
+      "https://i.discogs.com/-3ac9timl-9E3SAsz4YKgrdSaByliMbWZgoIqnyp9gY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NTgxLTE3MDAyMTcx/NzEtNDI0My5qcGVn.jpeg",
+      "https://i.discogs.com/TOQw-A_mAewPdOZCfxU5OFO3KHKAA-8s1hEW1441qyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NTgxLTE3MDAyMTcx/NzEtMjkzNy5qcGVn.jpeg",
+      "https://i.discogs.com/3pDIUf8uM0R9Lmn6BVr9DNls2Ql0AMI5cjnZejuwoX4/rs:fit/g:sm/q:90/h:105/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NTgxLTE3MDAyMTcx/NzAtNjIxOC5qcGVn.jpeg"
+    ],
+    "lowestPrice": 2.78,
+    "numForSale": 4,
+    "updatedAt": "2026-10-15T10:30:30.256Z"
   }
 }

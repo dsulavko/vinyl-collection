@@ -216,7 +216,7 @@
     "catalogNumber": "tpsa7508"
   },
   {
-    "id": "deep-purple",
+    "id": "deep-purple-nesushchiy-buryu",
     "artist": "Deep Purple",
     "album": "Несущий Бурю",
     "albumYear": 1974,
@@ -304,7 +304,7 @@
     "catalogNumber": "bl1027"
   },
   {
-    "id": "eric-clapton",
+    "id": "eric-clapton-erik-klepton-melodiya",
     "artist": "Eric Clapton",
     "album": "Эрик Клэптон (Мелодия)",
     "albumYear": 1977,
@@ -760,7 +760,7 @@
     "catalogNumber": "emc3519"
   },
   {
-    "id": "rainbow-rainbow-1975-1982",
+    "id": "rainbow-ansambl-rainbow-1975-1982",
     "artist": "Rainbow",
     "album": "Ансамбль Rainbow 1975-1982",
     "albumYear": 1988,
@@ -910,5 +910,165 @@
     "albumYear": 1983,
     "condition": "M/M",
     "catalogNumber": "81227943196"
+  },
+  {
+    "id": "avtograf-kamennyy-kray",
+    "artist": "Автограф",
+    "album": "Каменный Край",
+    "albumYear": 1989,
+    "condition": "VG+/VG+",
+    "catalogNumber": "С6028741005"
+  },
+  {
+    "id": "akvarium-ansambl-akvarium",
+    "artist": "Аквариум",
+    "album": "Ансамбль Аквариум",
+    "albumYear": 1987,
+    "condition": "VG+/VG+",
+    "catalogNumber": "С6025129005"
+  },
+  {
+    "id": "akvarium-chernaya-roza-emblema-pechali",
+    "artist": "Аквариум",
+    "album": "Черная роза эмблема печали...",
+    "albumYear": 1990,
+    "condition": "VG+/VG+",
+    "catalogNumber": "С6030009008"
+  },
+  {
+    "id": "akvarium-snezhnyy-lev",
+    "artist": "Аквариум",
+    "album": "Снежный Лев",
+    "albumYear": 1996,
+    "condition": "M/M",
+    "catalogNumber": "SLRLPA19"
+  },
+  {
+    "id": "alisa-blok-ada",
+    "artist": "Алиса",
+    "album": "Блок Ада",
+    "albumYear": 1987,
+    "condition": "VG+/VG+",
+    "catalogNumber": "C6028425006"
+  },
+  {
+    "id": "alisa-legendy-russkogo-roka",
+    "artist": "Алиса",
+    "album": "Легенды русского рока",
+    "albumYear": 2019,
+    "condition": "M/M",
+    "catalogNumber": "MR19069LP"
+  },
+  {
+    "id": "auktsyon-bodun",
+    "artist": "АукцЫон",
+    "album": "Бодун",
+    "albumYear": 1984,
+    "condition": "NM/NM",
+    "catalogNumber": "ME1803-4"
+  },
+  {
+    "id": "vladimir-migulya-i-gr-zemlyane-pesni-v-miguli",
+    "artist": "Владимир Мигуля и гр.Земляне",
+    "album": "Песни В.Мигули",
+    "albumYear": 1986,
+    "condition": "G+/G+",
+    "catalogNumber": "C601601718"
+  },
+  {
+    "id": "dyuna-the-best",
+    "artist": "Дюна",
+    "album": "The best",
+    "albumYear": 1994,
+    "condition": "G+/G+",
+    "catalogNumber": "1021C6"
+  },
+  {
+    "id": "zodiak-muzyka-vo-vselennoy",
+    "artist": "Зодиак",
+    "album": "Музыка во Вселенной",
+    "albumYear": 1981,
+    "condition": "VG/VG",
+    "catalogNumber": "C60183656"
+  },
+  {
+    "id": "zodiak-disko-alyans",
+    "artist": "Зодиак",
+    "album": "Диско Альянс",
+    "albumYear": 1982,
+    "condition": "VG/VG",
+    "catalogNumber": "C60137712"
+  },
+  {
+    "id": "lui-armstrong-estradnye-pesni",
+    "artist": "Луи Армстронг",
+    "album": "Эстрадные Песни",
+    "albumYear": 1980,
+    "condition": "VG/VG",
+    "catalogNumber": "C6005910"
+  },
+  {
+    "id": "mashina-vremeni-v-dobryy-chas",
+    "artist": "Машина Времени",
+    "album": "В Добрый Час",
+    "albumYear": 1985,
+    "condition": "VG/VG",
+    "catalogNumber": "С6024865005"
+  },
+  {
+    "id": "mroya-dvatstsats-vosmaya-zorka",
+    "artist": "Мроя",
+    "album": "Дваццаць восьмая зорка",
+    "albumYear": 1990,
+    "condition": "VG+/VG+",
+    "catalogNumber": "С6030401001"
+  },
+  {
+    "id": "neyro-dyubel-okhotnik-i-saygak",
+    "artist": "Нейро Дюбель",
+    "album": "Охотник и Сайгак",
+    "albumYear": 1998,
+    "condition": "M/M",
+    "catalogNumber": "LP WOW/BMA001"
+  },
+  {
+    "id": "orkestr-rozhdestvenskogo-maugli",
+    "artist": "Оркестр Рождественского",
+    "album": "Маугли",
+    "albumYear": 1969,
+    "condition": "G+/G+",
+    "catalogNumber": "L02626768"
+  },
+  {
+    "id": "piknik-rodom-niotkuda",
+    "artist": "Пикник",
+    "album": "Родом Ниоткуда",
+    "albumYear": 2014,
+    "condition": "VG+/VG+",
+    "catalogNumber": "BOMB033873LP"
+  },
+  {
+    "id": "yaak-yoala-sama-lyubov",
+    "artist": "Яак Йоала",
+    "album": "Сама Любовь",
+    "albumYear": 1991,
+    "condition": "VG/VG",
+    "catalogNumber": "C6023469008"
+  },
+  {
+    "id": "adrian-enescu-dance-funky-synthesizer-volume-2",
+    "artist": "Adrian Enescu",
+    "album": "Dance Funky Synthesizer Volume 2",
+    "albumYear": 1981,
+    "condition": "VG/VG",
+    "catalogNumber": "STEDE02511"
+  },
+  {
+    "id": "felix-slovacek-saksofon",
+    "artist": "Felix Slovacek",
+    "album": "Саксофон",
+    "albumYear": null,
+    "condition": "VG+/VG+",
+    "catalogNumber": "C6019131008"
   }
 ]

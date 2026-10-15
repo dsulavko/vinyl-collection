@@ -5,32 +5,40 @@ import { makeId } from './lib/slug.mjs';
 import { parseCsv } from './lib/csv.mjs';
 
 const SHEET_ID = '1mkx_jgCgpAvn1G3dUjR6jq1xh1M6OcfsEt04ryokOUw';
-const SHEET_GID = '0';
-const CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}`;
+const SHEET_TABS = [
+  { name: 'main', gid: '0' },
+  { name: 'Отечественное', gid: '1819124521' },
+];
 const OUT_PATH = path.join(REPO_ROOT, 'data', 'collection.json');
 
-async function main() {
-  const res = await fetch(CSV_URL);
+async function fetchTab(gid) {
+  const csvUrl = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${gid}`;
+  const res = await fetch(csvUrl);
   if (!res.ok) {
-    throw new Error(`Failed to fetch sheet CSV: ${res.status} ${res.statusText}`);
+    throw new Error(`Failed to fetch sheet CSV (gid=${gid}): ${res.status} ${res.statusText}`);
   }
   const csvText = await res.text();
   const rows = parseCsv(csvText);
-  const dataRows = rows.slice(1); // drop header row
+  return rows.slice(1); // drop header row
+}
 
+async function main() {
   const existingIds = new Set();
   const collection = [];
-  for (const row of dataRows) {
-    const artist = (row[0] ?? '').trim();
-    const album = (row[1] ?? '').trim();
-    const albumYearRaw = (row[2] ?? '').trim();
-    const condition = (row[3] ?? '').trim() || null;
-    const catalogNumber = (row[4] ?? '').trim() || null;
-    if (!artist || !album) continue;
-    const albumYear = /^\d{4}$/.test(albumYearRaw) ? Number(albumYearRaw) : null;
-    const id = makeId(artist, album, existingIds, albumYear ?? 'unknown');
-    existingIds.add(id);
-    collection.push({ id, artist, album, albumYear, condition, catalogNumber });
+  for (const tab of SHEET_TABS) {
+    const dataRows = await fetchTab(tab.gid);
+    for (const row of dataRows) {
+      const artist = (row[0] ?? '').trim();
+      const album = (row[1] ?? '').trim();
+      const albumYearRaw = (row[2] ?? '').trim();
+      const condition = (row[3] ?? '').trim() || null;
+      const catalogNumber = (row[4] ?? '').trim() || null;
+      if (!artist || !album) continue;
+      const albumYear = /^\d{4}$/.test(albumYearRaw) ? Number(albumYearRaw) : null;
+      const id = makeId(artist, album, existingIds, albumYear ?? 'unknown');
+      existingIds.add(id);
+      collection.push({ id, artist, album, albumYear, condition, catalogNumber });
+    }
   }
 
   let previous = [];
